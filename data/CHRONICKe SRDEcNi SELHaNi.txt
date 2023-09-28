@@ -1,0 +1,304 @@
+  Doporučené diagnostické a terapeutické postupy pro všeobecné praktické lékaře
+CHRONICKÉ SRDEČNÍ SELHÁNÍ
+Autoři:
+Prof. MUDr. Miloš Táborský, M.D., Ph.D., FESC, FACC, MBA
+Česká kardiologická společnost
+Prof. MUDr. Filip Málek, Ph.D., MBA
+Česká kardiologická společnost
+Prof. MUDr. Aleš Linhart, DrSc.
+Česká kardiologická společnost
+Doc. MUDr. Svatopluk Býma, CSc.
+Společnost všeobecného lékařství ČLS JEP
+  NOVELIZACE 2023
+Centrum doporučených postupů pro praktické lékaře
+Společnost všeobecného lékařství ČLS JEP, Sokolská 31, Praha 2
+ 
+Tisk podpořen firmou
+            
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+CHRONICKÉ SRDEČNÍ SELHÁNÍ
+Doporučený diagnostický a terapeutický postup pro všeobecné praktické lékaře 2023
+Autoři:
+Prof. MUDr. Miloš Táborský, M.D., Ph.D., FESC, FACC, MBA
+Česká kardiologická společnost
+Prof. MUDr. Filip Málek, Ph.D., MBA
+Česká kardiologická společnost
+Prof. MUDr. Aleš Linhart, DrSc.
+Česká kardiologická společnost
+Doc. MUDr. Svatopluk Býma, CSc.
+Společnost všeobecného lékařství ČLS JEP
+Oponenti:
+MUDr. Otto Herber
+Společnost všeobecného lékařství ČLS JEP
+MUDr. Igor Karen
+Společnost všeobecného lékařství ČLS JEP
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 1
+ 
+ 2
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+OBSAH
+1. Definice a terminologie srdečního selhání . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.1.Definicesrdečníhoselhání. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.2.Terminologie. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+........................................................... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. 3 . . 3 . . 3 . . 3 . . 3 . . 4
+. 4 . . 4 . . 4 . . 6
+. 6 . . 6 . . 7 . . 8
+. 9 . . 9 . . 9 . . 9 . . 9 . . 9 . . 9
+1.2.1.Srdečníselhánísezachovanou,mírněsníženouasníženouejekčnífrakcí. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.2.2.Dysfunkcepravékomory. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.2.3. Terminologie vyjadřující závažnost srdečního selhání . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.Epidemiologieaetiologiesrdečníhoselhání.................................................................................... 2.1. Incidenceaprevalence. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.2. Etiologiesrdečníhoselhání. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.3. Přirozený vývoj a prognóza srdečního selhání. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.Chronickésrdečníselhání................................................................................................................ 3.1. Klíčové kroky v diagnostice chronického srdečního selhání . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.2. Natriureticképeptidy. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.3. Vyšetřeníprourčenípříčinysrdečníhoselhání. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4. Srdeční selhání se sníženou ejekční frakcí. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.1. Diagnózasrdečníhoselhánísesníženouejekčnífrakcí(HFrEF). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.2. Farmakologická léčba srdečního selhání se sníženou ejekční frakcí . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.2.1. Základní principy farmakoterapie u nemocných se srdečním selháním se sníženou ejekční frakcí . . . . 4.3. Lékydoporučenévšempacientůmsesrdečnímselhánímsesníženouejekčnífrakcí. . . . . . . . . . . . . . . . . . . . . . . . . . . 4.3.1. InhibitoryACE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.3.2. Beta-blokátory. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.3.3.Antagonistémineralokortikoidníchreceptorů............................................................................ 10 4.3.4.DuálníinhibitoryreceptorůproangiotenzinIIaneprilysinu(ARNI)............................................... 10 4.3.5.Inhibitorysodíko-glukózovéhokontrasportéru2–glifloziny........................................................ 10
+4.4. Další léky doporučené nemocným se srdečním selháním a sníženou ejekční frakcí nebo zvažované proselektovanépodskupinynemocných........................................................................................ 10
+5.NefarmakologickáléčbaCHSS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 5.1.Implantacedefibrilátoru............................................................................................................... 11 5.2. Srdeční resynchronizační léčba. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 5.3.Srdečnítransplantaceamechanickésrdečnípodpory...................................................................... 11 5.4.Modulacesrdečníkontraktility...................................................................................................... 11
+6. Srdeční selhání s mírně sníženou ejekční frakcí. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 6.1.DiagnózaHFmrEF(heartfailurewithmildlyreducedejectionfraction).............................................. 12 6.2. Klinická charakteristika nemocných s HFmrEF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 6.3. Léčba HFmrEF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+6.3.1. Dalšíléky. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 6.4. Přístrojováléčba. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+7. Srdeční selhání se zachovanou ejekční frakcí. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 7.1.KlinickácharakteristikanemocnýchsCHFazachovanouejekčnífrakcí.............................................. 12 7.2.Diagnózasrdečníhoselhánísezachovanouejekčnífrakcí................................................................. 12 7.3.Léčbasrdečníhoselhánísezachovanouejekčnífrakcí...................................................................... 12
+8. Multidisciplinární týmový management pro prevenci a léčbu chronického srdečního selhání . . . . . . . . . . 13 8.1.Edukacepacienta,self-managementaradyohledněživotníhostylu................................................. 13 8.2.VyšetřovacíprogrampacientůsCHSS............................................................................................ 13
+8.2.3. Monitoracebiomarkerů. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13 8.3.Telemonitoring,distančnímedicína............................................................................................... 13
+9.Paliativnípéčeonemocnésterminálnímsrdečnímselháním. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 10.Literatura:. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+ÚVOD
+Všeobecné praktické lékařství hraje zásadní úlohu v diagnostice, léčbě a sledování pacientů s chronickým srdečním selháním (CHSS). Je především důležité na tuto diagnózu myslet již při prvním vyšetření pacienta s dušností, otoky a dalšími symptomy v rámci diferenciální diagnostiky. Důsledná anamnéza, fyzikální vyšetření, EKG, laboratorní nález včetně využití stanovení natriuretických peptidů mohou buď vyloučit, nebo potvrdit CHSS a vést okamžitě ke správnému managementu pacientů s touto diagnózou. Úloha VPL bude s výrazně narůstajícím počtem pacientů a díky novým terapeutickým možnostem výrazně narůstat.
+1. DEFINICE A TERMINOLOGIE SRDEČNÍHO SELHÁNÍ 1.1. DEFINICE SRDEČNÍHO SELHÁNÍ
+Srdeční selhání je klinický syndrom sestávající z hlavních příznaků (např. dušnost, únava), které mohou být doprovázeny fyzikálními známkami (např. zvýšeným tlakem v krčních žilách, plicními chrůpky a periferními otoky). Je způsobeno strukturální a/nebo funkční abnormalitou srdce, která vede ke zvýšeným intrakardiálním tlakům a/nebo nedostatečnému srdečnímu výdeji v klidu a/nebo během zátěže.
+Identifikace příčiny srdeční dysfunkce je při diagnostice srdečního selhání nezbytná, protože specifická patologie může určit následnou léčbu. Nejčastěji je srdeční selhání způsobeno poruchou funkce myokardu: systolické, diastolické nebo obou. Nicméně onemocnění chlopní, perikardu a endokardu a abnormality srdečního rytmu a vedení mohou také způsobit srdeční selhání nebo přispět k jeho rozvoji.
+1.2. TERMINOLOGIE
+1.2.1. SRDEČNÍ SELHÁNÍ SE ZACHOVANOU, MÍRNĚ SNÍŽENOU A SNÍŽENOU EJEKČNÍ FRAKCÍ
+Tradičně se srdeční selhání dělí na odlišné fenotypy na základě hodnoty ejekční frakce levé komory (EF LK) (Tabulka 1). To vychází z léčebných klinických studií, které prokazovaly účinnost léčby u pacientů s EF LK ≤ 40 %. Srdeční selhání však pokrývá celý rozsah EF LK (proměnná s normální distribucí), navíc stanovení EF LK echokardiograficky podléhá značné variabilitě.
+V literatuře se můžeme navíc setkat ještě s pojmem „zlepšené“ srdeční selhání, což znamená zlepšení EF LK o minimálně 10 % výchozí hodnoty díky reverzní remodelaci LK na základě léčby či vývoje základního onemocnění. Pacienti s jiným než kardiovaskulárním onemocněním (např. anémie, onemocnění plic či ledvin, poruchy štítné žlázy nebo onemocnění jater) mohou mít příznaky a známky velmi podobné srdečnímu selhání, avšak při absenci srdeční dysfunkce nesplňují kritéria pro srdeční selhání (HF). Nicméně tato onemocnění mohou koexistovat s HF a zhoršit symptomy CHSS.
+1.2.2. DYSFUNKCE PRAVÉ KOMORY
+Srdeční selhání může být také důsledkem dysfunkce pravé komory (PK). Porucha mechaniky a funkce PK se mění při tlakovém nebo objemovém přetížení. I když je hlavní příčinou poruchy funkce pravé komory plicní hypertenze vyvolaná dysfunkcí LK, existuje řada dalších příčin poruchy funkce pravé komory (např. infarkt myokardu [IM], arytmogenní kardiomyopatie pravé komory, případně chlopenní vady).
+Další běžná terminologie používaná u srdečního selhání
+Srdeční selhání se obvykle dělí na dvě formy: chronické srdeční selhání (CHSS) a akutní srdeční selhání (ASS). CHSS představují nemocní, kteří mají již stanovenou diagnózu srdečního selhání. Zhoršení srdečního selhání (náhlé nebo postupné) se označuje jako dekompenzované srdeční selhání. Tento stav může vést k hospitalizaci nebo ambulantnímu intravenóznímu podání diuretik. U některých pacientů může dojít k úpravě stavu (např.
+ Tabulka 1: Definice srdečního selhání se sníženou ejekční frakcí, mírně sníženou ejekční frakcí a zachovanou ejekční frakcí
+  DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 3
+ 
+ 4
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+alkoholem indukovaná kardiomyopatie, virová myokarditida, Takotsubo syndrom, peripartální kardiomyopatie [PPKMP], popř. tachykardií indukované selhání). U jiných může následkem medikamentózní či přístrojové terapie dojít k podstatnému zlepšení, nebo dokonce normalizaci EF LK.
+1.2.3. TERMINOLOGIE VYJADŘUJÍCÍ ZÁVAŽNOST SRDEČNÍHO SELHÁNÍ
+Nejběžnější je funkční klasifikace podle New York Heart Association (NYHA) (Tabulka 2). Tato klasifikace vychází pouze z příznaků, existují další vhodnější prognostické klasifikace. Platí, že i pacienti s relativně mírnými příznaky mohou mít vysoké riziko rehospitalizace a úmrtí. Epidemiologie a přirozený vývoj srdečního selhání.
+2. EPIDEMIOLOGIE A ETIOLOGIE SRDEČNÍHO SELHÁNÍ 2.1. INCIDENCE A PREVALENCE
+Ve vyspělých zemích může incidence srdečního selhání adjustovaná na věk klesat, pravděpodobně to odráží lepší léčbu kardiovaskulárních onemocnění (KVO), ale v důsledku stárnutí se celková incidence zvyšuje. V současnosti je v Evropě incidence CHSS asi 3/1000 osoboroků (bez ohledu na věk) nebo 5/1000 osoboroků u dospělých. V dospělé populaci dosahuje prevalence srdečního selhání 1–2 % dospělých. Prevalence se zvyšuje s věkem: od přibližně 1 % pro osoby ve věku < 55 let až na > 10 % ve věku 70 a více let.
+Na základě studií zahrnujících hospitalizované pacienty se ukazuje, že z celé skupiny pacientů se srdečním selháním má 50 % HFrEF a 50 % HFpEF/HFmrEF. Registry srdečního selhání ESC ukazují, že mezi ambulantními pacienty je 60 % léčeno pro HFrEF, 24 % pro HFmrEF a 16 % má HFpEF, dále že poměr žen dosahuje mírně více než 50 %.
+2.2. ETIOLOGIE SRDEČNÍHO SELHÁNÍ
+Nejčastější příčiny a doporučená vyšetření ukazuje Tabulka 3. Etiologie HF se liší podle geografické oblasti. Ve vyspělých a západoevropských zemích převládá ischemická choroba srdeční a hypertenze.
+ Tabulka 2: Funkční klasifikace dle New York Heart Association
+          DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+ Tabulka 3: Příčiny srdečního selhání, projevy onemocnění, specifická vyšetření
+       Seznam zkratek: 5-HIAA – kyselina 5-hydroxyindoloctová; ACE – angiotenzin konvertující enzym; ANA – antinukleární protilátky; ANCA – antinukleární cytoplazmatické protilátky; ARVC – arytmogenní kardiomyopatie pravé komory; CK – kreatinkináza; CMR – srdeční magnetická rezonance; CT – výpočetní tomografie; EKG – elektrokardiogram; EMB – endomyokardiální biopsie; FDG – fluordeoxyglukóza; GGT – gama-glutamyl transferáza; h – hodina; HIV – virus lidské imunodeficience; LFT – jaterní funkční test; LGE – pozdní sycení gadoliniem; MEK – mitogenem aktivovaná proteinkináza; PET – pozitronová emisní tomografie; TFT – vyšetření funkce štítné žlázy; TK – krevní tlak; VEGF – vaskulární endoteliální růstový faktor.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 5
+ 
+ 6
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+2.3. PŘIROZENÝ VÝVOJ A PROGNÓZA SRDEČNÍHO SELHÁNÍ
+Ačkoliv se prognóza nemocných se srdečním selháním významně zlepšila, i nyní není nadále optimální, a navíc stále přetrvává snížená kvalita života. Skutečná mortalita je vyšší než v observačních studiích. Data Framinghamské studie a analýza Cardiovascular Health Study (CHS) uvádějí úmrtnost 67 % do pěti let od stanovení diagnózy. Prognóza u žen a u pacientů s HFmrEF je mírně lepší. Ukazuje se, že progrese poklesu ejekční frakce (HFmrEF do HFrEF) je rizikovější než stabilní HFrEF. Přesto se prognóza nemocných se srdečním selháním za poslední dekády významně zlepšila.
+Riziko hospitalizace je asi 1,5× vyšší u diabetiků. Mezi prediktory hospitalizací pacientů se srdečním selháním patří především fibrilace síní, vyšší index tělesné hmotnosti, vyšší hodnota glykovaného hemoglobinu a snížená glomerulární filtrace. V příštích 25 letech se očekává nárůst hospitalizací pro srdeční selhání až o 50 %.
+3. CHRONICKÉ SRDEČNÍ SELHÁNÍ
+3.1. KLÍČOVÉ KROKY V DIAGNOSTICE CHRONICKÉHO SRDEČNÍHO SELHÁNÍ
+Diagnóza chronického srdečního selhání vyžaduje přítomnost symptomů a/nebo známek srdečního selhání a objektivní průkaz srdeční dysfunkce (Obr. 1). Mezi typické příznaky a známky patří dušnost, únava a otoky kotníků (Tabulka 4).
+ Obr. 1: Diagnostický algoritmus pro srdeční selhání
+    DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+ Tabulka 4: Typické příznaky a nálezy u chronického srdečního selhání
+ Diagnóza CHSS je pravděpodobnější u pacientů s anamnézou infarktu myokardu, arteriální hypertenze, ischemické choroby srdeční, diabetes mellitus, zneužívání alkoholu, chronického onemocnění ledvin, kardiotoxické chemoterapie a u osob s rodinnou anamnézou kardiomyopatií či náhlého úmrtí.
+Při podezření na srdeční selhání jsou doporučeny následující diagnostické metody:
+1. Elektrokardiogram (EKG). Normální EKG je u pacientů s CHSS nepravděpodobné. EKG nález fibrilace síní, patologických kmitů Q, hypertrofie levé komory či rozšířeného komplexu QRS zvyšuje pravděpodobnost
+diagnózy srdečního selhání a může pomoci pro volbu terapie.
+2. Je doporučeno měřit koncentrace natriuretických peptidů. Plazmatické koncentrace natriuretického
+peptidu typu B (BNP) < 35 pg/ml, N-terminálního fragmentu natriuretického propeptidu typu B (NT-proBNP) < 125 pg/ml nebo midregionálního proatriálního natriuretického peptidu (MR-proANP) < 40 pmol/l činí diagnózu srdečního selhání nepravděpodobnou.
+3. Biochemická vyšetření (urea, kreatinin, elektrolyty v séru, jaterní enzymy, funkce štítné žlázy) a krevní obraz pomohou odlišit srdeční selhání od jiných stavů, poskytují prognostické informace a mohou přispět k terapii onemocnění.
+4. Echokardiografie se doporučuje jako klíčové vyšetření pro stanovení funkce myokardu. Kromě hodnoty ejekční frakce poskytne informace o ostatních parametrech: velikosti komor, koncentrické či excentrické hypertrofii levé komory, lokálních poruchách kinetiky (u ischemické choroby srdeční, syndromu Takotsubo či myokarditidy), funkci pravé komory, plicní hypertenzi, funkci chlopní a známkách poruchy diastolické funkce.
+5. Skiagram hrudníku je doporučen k vyloučení ostatních příčin dušnosti (např. plicní onemocnění). Může poskytnout nálezy, které podporují diagnózu srdečního selhání (např. plicní kongesce či kardiomegalie).
+3.2. NATRIURETICKÉ PEPTIDY
+Stanovení plazmatických koncentrací natriuretických peptidů (NP) se u pacientů se symptomy srdečního selhání doporučuje jako počáteční diagnostický test k vyloučení diagnózy. Toto je jednou z významných úloh VPL. Dlouhodobě je pro VPL hrazeno stanovení NP pomocí POCT systému, který by měl být k dispozici v každé ambulanci VPL. Nejvíce se dnes používá NT-proBNP. Zvýšené koncentrace podporují diagnózu srdečního selhání, jsou užitečné i prognosticky (Tabulka 5). Je však třeba mít na paměti, že existuje řada kardiálních i nekardiálních příčin, které jsou spojeny se zvýšenou koncentrací NP, což snižuje jejich diagnostickou přesnost (Tabulka 6). Tyto příčiny zahrnují fibrilaci síní, vyšší věk a akutní nebo chronické onemocnění ledvin. Naopak koncentrace NP mohou být u výrazně obézních pacientů neúměrně nízké.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 7
+ 
+ 8
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+   Tabulka 5: Hodnoty natriuretických peptidů pro chronické a akutní srdeční selhání
+ Stav
+  BNP (pg/ml nebo ng/l)
+ NT-proBNP (pg/ml nebo ng/l)
+ MR-proANP (pmol/l)
+  Chronické srdeční selhání
+  Chronické srdeční selhání obecně Chronické HFpEF s fibrilací síní Akutní srdeční selhání
+rule-out rule-in
+< 55 let 55–75 > 75
+3.3. VYŠETŘENÍ PRO URČENÍ PŘÍČINY SRDEČNÍHO SELHÁNÍ
+DoporučenávyšetřeníprourčeníetiologiesrdečníhoselháníjsoushrnutavTabulce2.Jsouurčenaprospecializovaná kardiovaskulární centra a o jejich závěru má být VPL informován formou propouštěcí nebo ambulantní zprávy. U pacientů, u kterých se zvažuje koronární revaskularizace, lze použít zátěžovou echokardiografii (farmakologická nebo fyzická zátěž) pro hodnocení zátěží indukované ischemie. Zátěžovou echokardiografii lze použít při diagnostice HFpEF, chlopenním postižení či dušnosti nejasné etiologie. Srdeční magnetická rezonance (CMR) s hodnocením pozdního sycení gadoliniem (LGE), T1 mapováním a hodnocením extracelulárního objemu může identifikovat myokardiální fibrózu/jizvu, které jsou u pacientů s ICHS lokalizovány typicky subendokardiálně, na rozdíl od „mid-wall“ lokalizace těchto změn u nemocných s dilatační kardiomyopatií. CMR umožňuje navíc diagnostikovat strukturální změny myokardu, např. při myokarditidě, amyloidóze, sarkoidóze, Chagasově a Fabryho chorobě, LV non-kompaktní kardiomyopatii, hemochromatóze či arytmogenní kardiomyopatii. Koronární angiografie provedená pomocí výpočetní tomografie (CTCA) může být zvážena pro vyloučení ICHS u pacientů s nízkou až střední předtestovou pravděpodobností ICHS nebo u nemocných s nejednoznačnými výsledky zátěžových testů. K detekci ischemie a viability, zánětu či infiltrace myokardu lze také použít jednofotonovou emisní výpočetní tomografii (SPECT). Scintigrafii s bisfosfonátem značeným techneciem (Tc) je možné využít s vysokou senzitivitou a specificitou pro průkaz transthyretinové amyloidózy.
+≥ 35 > 105
+< 100
+≥ 125 > 365
+< 300
+≥ 450 ≥ 900 ≥ 1800
+≥ 40
+< 120
+           Tabulka 6: Příčiny zvýšených koncentrací natriuretických peptidů
+  DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+4. SRDEČNÍ SELHÁNÍ SE SNÍŽENOU EJEKČNÍ FRAKCÍ
+4.1. DIAGNÓZA SRDEČNÍHO SELHÁNÍ SE SNÍŽENOU EJEKČNÍ FRAKCÍ (HFREF)
+Diagnóza srdečního selhání se sníženou ejekční frakcí (HFrEF) vyžaduje symptomy a/nebo známky srdečního selhání a sníženou ejekční frakci (EF < 40 %). Ejekční frakce je obvykle měřena echokardiograficky.
+4.2. FARMAKOLOGICKÁ LÉČBA SRDEČNÍHO SELHÁNÍ SE SNÍŽENOU EJEKČNÍ FRAKCÍ
+Jsou tři hlavní cíle léčby HFrEF: snížení mortality, prevence hospitalizací a zlepšení kvality života.
+4.2.1. ZÁKLADNÍ PRINCIPY FARMAKOTERAPIE U NEMOCNÝCH SE SRDEČNÍM SELHÁNÍM
+SE SNÍŽENOU EJEKČNÍ FRAKCÍ
+Základem léčby je modulace systému renin-angio-tenzin-aldosteron pomocí inhibitorů angiotenzin konvertujícího enzymu (ACEI) nebo inhibitorů angiotenzinových receptorů a neprilysinu (ARNI), dále beta-blokátory a inhibitory mineralokortikoidních receptorů. Tyto léky zlepšují prognózu a snižují symptomy. Měla by být snaha titrovat je do maximálních dávek, resp. dávek ověřených klinickými studiemi. U pacientů netolerujících ACEI a ARNI je indikována léčba blokátory receptoru AT1 pro angiotenzin II (ARB) – sartany. Nedílnou součástí léčby jsou dnes inhibitory sodíko-glukózových kotransportérů 2 (SGLT2) dapagliflozin nebo empagliflozin (Obr. 2).
+4.3. LÉKYDOPORUČENÉVŠEMPACIENTŮMSESRDEČNÍMSELHÁNÍMSESNÍŽENOUEJEKČ- NÍ FRAKCÍ
+Diuretika jsou doporučena nemocným s objemovým přetížením. Úvodní a cílové dávky léků ukazuje Tabulka 7.
+4.3.1. INHIBITORY ACE
+Inhibitory ACE jsou u nemocných s HFrEF léky první volby pro snížení mortality i morbidity. Klinické studie ukázaly, že zlepšují i symptomy.
+4.3.2. BETA-BLOKÁTORY
+Beta-blokátory snižují u nemocných s HFrEF morbiditu i mortalitu a zlepšují symptomy. Měly by být nasazovány u klinicky stabilních nemocných.
+ Obr. 2: Algoritmus léčby srdečního selhání se sníženou ejekční frakcí
+     DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 9
+ 
+ 10
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+4.3.3. ANTAGONISTÉ MINERALOKORTIKOIDNÍCH RECEPTORŮ
+Antagonisté mineralokortikoidních receptorů (mineralocorticoid receptor antagonists, MRA) spironolacton a eplerenon snižují po přidání k ACEI a beta-blokátorům u nemocných s HFrEF morbiditu a mortalitu.
+4.3.4. DUÁLNÍ INHIBITORY RECEPTORŮ PRO ANGIOTENZIN II A NEPRILYSINU (ARNI)
+Ve studii PARADIGM-HF sacubitril/valsartan (jediný zástupce ARNI) snížil u nemocných s HFrEF morbiditu a mortalitu více než enalapril. Použití ARNI by mohlo vést i ke snížení nutnosti podávání kličkových diuretik. Jako nejčastější nežádoucí účinek je udávána hypotenze. Je doporučeno, aby u nemocných, kteří zůstávají při léčbě ACEI nebo ARB symptomatičtí, byly tyto přípravky nahrazeny ARNI.
+4.3.5. INHIBITORY SODÍKO-GLUKÓZOVÉHO KONTRASPORTÉRU 2 – GLIFLOZINY
+Dapagliflozin ve studii DAPA-HF zlepšil prognózu nemocných s HFrEF ve funkční třídě NYHA II-IV, pokud byl přidán k zavedené medikaci. Podobný efekt měl i empagliflozin. Proto je doporučeno přidat k léčbě ACEI/ARNI, beta-blokátory a MRA navíc ještě inhibitory SGLT2. Inhibitory SGLT2 mohou zvyšovat riziko genitálních infekcí.
+4.4. DALŠÍLÉKYDOPORUČENÉNEMOCNÝMSESRDEČNÍMSELHÁNÍMASNÍŽENOUEJEKČ- NÍ FRAKCÍ NEBO ZVAŽOVANÉ PRO SELEKTOVANÉ PODSKUPINY NEMOCNÝCH
+• Kličková diuretika jsou doporučena nemocným s HFrEF a známkami/symptomy kongesce – doporučení I C.
+• Blokátory receptorů pro angiotenzin II (sartany) se doporučují pro nemocné, kteří netolerují ACEI či ARNI –
+doporučení I B.
+• Blokátory kanálu If. Ivabradin by měl být zvážen u symptomatických nemocných s EF < 35 %, sinusovým
+rytmem a srdeční frekvencí nad 70/minutu – doporučení IIa B.
+• Solubilní stimulátor guanylát cyklázového receptoru – vericiguat – může být zvážen u nemocných ve funkční
+třídě NYHA II–IV, kteří se klinicky horší i přes léčbu ACEI či ARNI – doporučení IIb B.
+• Hydralazin a izosorbid dinitrát by měly být zváženy u černošských nemocných s EF < 35 % a/nebo < 45 %
+v kombinaci s dilatací levé komory, kteří jsou ve funkční třídě NYHA III–IV – doporučení IIa B.
+• HydralazinaizosorbiddinitrátmohoubýtzvažoványunemocnýchsesymptomatickýmHFrEF,kteřínetolerují
+ACEI, ARNI či ARB – doporučení IIb B.
+• Digoxin může být zvážen u symptomatických nemocných s HFrEF a fibrilací síní, alternativně i sinusovým
+rytmem – doporučení IIb B.
+ Tabulka 7: Přehled farmakologické léčby a uptitrace medikace chronického srdečního selhání
+    DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+Praktické aspekty léčby: VPL se podílí na léčbě CHSS a může řadu standardních léků předepisovat (Tabulka 8). Nicméně platí zásada dobré komunikace s ambulancemi nebo centry srdečního selhání s ohledem na vývoj symptomů a progresi základního onemocnění. Zde preferujeme elektronickou formu komunikace, která splňuje veškeré legální a bezpečnostní aspekty včetně GDPR (např. e-zpráva a jiné).
+Tabulka 8: Možné rozdělení preskripce CHSS mezi jednotlivé odbornosti v rámci systému péče
+    VPL
+Kardiolog/internista KV centrum:
+BB, ACEi, MRA, diuretika, digoxin
+Sacubitril-valsartan, SGLT2i
+vericiguat, i.v. terapie FE, kompletní spektrum nefarmakologické léčby CHSS
+     5. NEFARMAKOLOGICKÁ LÉČBA CHSS 5.1. IMPLANTACE DEFIBRILÁTORU
+Náhlá srdeční smrt (NSS) má významný podíl na úmrtnosti nemocných s CHSS, především u méně pokročilého onemocnění. I když současná komplexní léčba CHF vedla ke snížení výskytu NSS (mezi roky 1999 až 2015 o 44 %), stále zůstává podíl nemocných, u nichž k závažné arytmii dojde. V těchto případech je indikována implantace kardioverteru-defibrilátoru buď po prodělané arytmické příhodě (sekundární prevence), nebo u rizikových pacientů (primární prevence). Základním indikačním kritériem je přítomnost dysfunkce LK (EF ≤ 35 %). Základní metodou je transvenózní implantace ICD systému, tu volíme u naprosté většiny nemocných. Alternativou je subkutánní implantace, kterou je možno zvolit u pacientů v chronickém dialyzačním programu, při obtížném žilním přístupu nebo u mladších pacientů a geneticky podmíněnými arytmickými syndromy.
+5.2. SRDEČNÍ RESYNCHRONIZAČNÍ LÉČBA
+U pacienta se správnou indikací zlepšuje resynchronizační léčba (SRL) průběh srdečního selhání a snižuje úmrtnost. Zlepšení funkce srdce je spojeno se zlepšením kvality života. Efekt SRL se nedostaví u všech nemocných, ve skutečnosti jde o spektrum klinických odpovědí; v optimálním případě dojde k úplné úpravě funkce LK (superrespondéři), na druhé straně v určitém procentu se efekt nedostaví. Výraznější efekt můžeme očekávat u nemocných s neischemickou dysfunkcí LK, u žen a u nemocných s výrazně rozšířeným komplexem QRS s morfologií blokády levého Tawarova raménka (LBBB). Moderní alternativou může být i stimulace z oblasti převodního systému srdečního, zde však dosud chybí randomizované studie, které by srovnávaly efekt uvedených přístupů. Nepřímým efektem resynchronizační léčby je možnost optimalizace farmakoterapie, např. snížení dávky diuretika nebo titrace beta-blokátoru.
+5.3. SRDEČNÍ TRANSPLANTACE A MECHANICKÉ SRDEČNÍ PODPORY
+Transplantace srdce je vůbec nestarší metodou nefarmakologické léčby velmi pokročilého srdečního selhání. Je indikována a realizována prostřednictvím dvou dedikovaných transplantačních center (IKEM Praha a CKTCH Brno). Jednoleté potransplantační přežívání je okolo 90 % s mediánem přežití 12,5 roku. Ta indikují také léčbu pomocí mechanických srdečních podpor (MSP) Dlouhodobé mechanické podpory jsou indikovány u vybraných pacientů (u kterých je farmakologická terapie nedostatečná nebo krátkodobé MP nevedly k srdečnímu zotavení nebo zlepšení klinického stavu) k prodloužení života a zlepšení jeho kvality nebo k udržení pacienta naživu do transplantace (přemostění k transplantaci, bridge to transplantation, BTT) nebo v případě kontraindikací k transplantaci (přemostění ke kandidatuře, bridge to candidacy, BTC) nebo jako destinační terapie (DT).
+VLP se s těmito pacienty budou stále více setkávat včetně možných komplikací imunosupresivní terapie (důležité je povědomí o možných lékových interakcích) a infekčních komplikacích MSP.
+5.4. MODULACE SRDEČNÍ KONTRAKTILITY
+Modulace srdeční kontraktility (CCM) je inovativní nefarmakologická léčba CHSS u pacientů se symptomatickým srdečním selháním s maximalizovanou tolerovanou farmakoterapií, která pomocí 2 aditivních stimulačních elektrod umístěných na mezikomorovém septu umožňuje stimulaci v období absolutní refrakterní periody, zvyšuje vstup kalcia do myocytu a zlepšuje kontraktilní schopnost myokardu. Je zatím prováděna v sedmi kardiovaskulárních centrech v ČR.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 11
+ 
+ 12
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+6. SRDEČNÍ SELHÁNÍ S MÍRNĚ SNÍŽENOU EJEKČNÍ FRAKCÍ
+6.1. DIAGNÓZA HFmrEF (HEART FAILURE WITH MILDLY REDUCED EJECTION FRACTION)
+Je stanovena na základě symptomů a známek, hodnoty ejekční frakce 41–49 %, zvýšení koncentrace natriuretických peptidů (BNP ≥ 35pg/l nebo NT-proBNP ≥ 125pg/ml u dosud neléčeného pacienta) a funkčních nebo strukturálních změn srdce.
+6.2. KLINICKÁ CHARAKTERISTIKA NEMOCNÝCH S HFmrEF
+Je podobná jako u HFrEF, častěji se jedná o mladé muže s ischemickou chorobou srdeční.
+6.3. LÉČBA HFmrEF
+• Diuretika jsou doporučena na snížení symptomů a známek kongesce – doporučení I C.
+• ACEI mohou být zváženy s cílem snížit hospitalizace a mortalitu – doporučení IIb C.
+• ARBmohoubýtzváženyscílemsnížithospitalizaceamortalituunemocnýchnetolerujícíchACEI–doporučení
+IIb C.
+• Beta-blokátory mohou být zváženy s cílem snížit hospitalizace a mortalitu – doporučení IIb C.
+• MRAmohoubýtzváženyscílemsnížithospitalizaceamortalitu–doporučeníIIbC.
+• ARNI mohou být zváženy s cílem snížit hospitalizace a mortalitu – doporučení IIb C.
+6.3.1. DALŠÍ LÉKY
+Ve studii DIG digoxin naznačil u nemocných s HFmrEF trend ke snížení hospitalizací. O ivabradinu není dostatek dat.
+6.4. PŘÍSTROJOVÁ LÉČBA
+U nemocných s HFmrEF není dostatek dat podporujících účinnost ICD či ICD/SRL.
+7. SRDEČNÍ SELHÁNÍ SE ZACHOVANOU EJEKČNÍ FRAKCÍ
+7.1. KLINICKÁ CHARAKTERISTIKA NEMOCNÝCH S CHF A ZACHOVANOU EJEKČNÍ FRAKCÍ
+Pacienti s HFpEF jsou starší, častěji ženy, mají častěji fibrilaci síní, renální insuficienci a jiné než kardiovaskulární komorbidity.
+7.2. DIAGNÓZA SRDEČNÍHO SELHÁNÍ SE ZACHOVANOU EJEKČNÍ FRAKCÍ
+Bylo navrženo několik klasifikací srdečního selhání se zachovanou ejekční frakcí. Většinou se jedná o echokardiografické parametry a kromě ejekční frakce je komentována velikost levé síně nad 32 ml/m2 nebo vlna E < 90 cm/s či poměr E/e > 9. Tato doporučení navrhují, že diagnóza by měla zahrnout:
+• symptomy a známky srdečního selhání,
+• hodnotuejekčnífrakce≥50%,
+• objektivní průkaz strukturálních změn srdce.
+7.3. LÉČBA SRDEČNÍHO SELHÁNÍ SE ZACHOVANOU EJEKČNÍ FRAKCÍ
+V současné době máme k dispozici inovativní data o pozitivním efektu gliflozinů v léčbě pacientů se srdečním selháním se zachovalou EF LK. Studie s empagliflozinem a dapagliflozinem (EMPEROR-PESERVED a DELIVER) jasně ukazují nejen vliv na symptomy a prognózu srdečního selhání, ale i na nefroproprotektivní efekt těchto molekul, což je v této kohortě pacientů nesmírně důležité. Dávkování je velmi jednoduché – 1 x denně 10 mg, léčba CHSpEF je určena jak pro pacienty s diabetem, tak pro nemocné bez diabetu. Důležitá je edukace pacientů ve smyslu zejména hygienických opatření s cílem zabránit potencionálním infekčním komplikacím při zvýšeném vylučování glukózy močí.
+Úhrada této indikace bude z prostředků veřejného zdravotního pojištění dostupná pro dg. HFpEF od dubna 2023.
+V současné době neexistují data pro žádnou další léčbu, která by snižovala mortalitu a/nebo morbiditu. Snížení morbidity a mortality neprokázaly studie PEP-CHF (perindopril), CHARM-Preserved (candesartan), I-PRESERVE (irbesartan), TOPCAT (spironolacton), DIG preserved (digoxin) ani PARAGON-HF (sacubitril/valsartan). Studie
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+PARAGON-HF ukázala snížení hospitalizací u nemocných s EF < 57 %. Ve studii TOPCAT u populace zařazené v Americe ukázal spironolacton významnou redukci hospitalizací a úmrtí.
+Léčba by se měla řídit symptomy, doporučena jsou diuretika, jak kličková, tak thiazidová – doporučení na úrovni I C. Redukce hmotnosti je nutná u obézních pacientů, stejně tak dobrá kontrola krevního tlaku u hypertoniků – doporučení I C.
+Dyslipidemie by měla být léčena statiny – doporučení I.
+Je doporučeno nekouřit a konzumovat jen minimální množství alkoholu – doporučení I C.
+8. MULTIDISCIPLINÁRNÍ TÝMOVÝ MANAGEMENT PRO PREVENCI A LÉČBU CHRONICKÉHO SRDEČNÍHO SELHÁNÍ
+8.1. EDUKACE PACIENTA, SELF-MANAGEMENT A RADY OHLEDNĚ ŽIVOTNÍHO STYLU
+Adekvátní péče pacienta o sebe sama (self-care, self-management) je nezbytnou součástí efektivního managementu srdečního selhání. Umožňuje pacientům pochopit, co je prospěšné, podílet se na monitorování a řízení léčby. Pacienti se srdečním selháním, kteří uvádějí účinnější péči o sebe, mají lepší kvalitu života, nižší výskyt opakovaných hospitalizací a sníženou úmrtnost. Edukace pacienta ke zlepšení péče o sebe by měla být přizpůsobena konkrétnímu jednotlivci a být, pokud je to možné, podložena vědeckými důkazy či názory odborníků.
+Existují konzistentní důkazy o tom, že fyzický trénink zlepšuje u pacientů se srdečním selháním toleranci zátěže a kvalitu života související se zdravím.
+8.2. VYŠETŘOVACÍ PROGRAM PACIENTŮ S CHSS
+8.2.1.
+Vyšetření EKG by mělo být prováděno každoročně k detekci prodloužení trvání komplexu QRS, protože pacienti s tímto nálezem mohou být kandidáti srdeční resynchronizační léčby. Navíc může EKG odhalit poruchy vedení nebo fibrilaci síní.
+8.2.2.
+Pravidelná echokardiografická vyšetření nejsou nutná u všech pacientů, kontrolní vyšetření by ale mělo být provedeno při zhoršení klinického stavu. Dále by mělo být opakováno po 3–6 měsících od optimalizace standardní terapie HFrEF k určení, zda je potřebné modifikovat farmakologickou léčbu či uvažovat o léčbě přístrojové.
+8.2.3. MONITORACE BIOMARKERŮ
+Studie využívající biomarkery (zejména BNP a/nebo NT-proBNP) pro vedení farmakoterapie HFrEF přinesly protichůdné výsledky. Jedná se nepochybně o dobré prognostické markery, nicméně z koncepčního hlediska se nezdá, že by strategie titrace léků, jež vychází z hodnot biomarkerů, mohla nabídnout něco navíc oproti strategii důsledného využívání farmakologických možností opřených o evidenci. Současné důkazy tedy nepodporují rutinní měření BNP nebo NT-proBNP za účelem titrace léčby.
+8.3. TELEMONITORING, DISTANČNÍ MEDICÍNA
+Telemonitoring a distanční medicína umožňují pacientům poskytovat na dálku digitální zdravotní informace k podpoře a optimalizaci péče. Údaje například o příznacích, hmotnosti, srdeční frekvenci či krevním tlaku mohou být shromažďovány, uloženy do elektronických zdravotních záznamů a využity k vedení pacientů (přímo nebo prostřednictvím zdravotnického pracovníka), úpravě terapie nebo vyhledání další rady. Domácí telemonitoring (HTM) může pomoci udržet kvalitu péče, usnadnit rychlý přístup ke specializované péči v případě potřeby, snížit cestovní náklady pacientů a minimalizovat frekvenci návštěv ambulance.
+U pacientů se srdečním selháním lze tedy zvážit neinvazivní HTM za účelem snížení rizika kardiovaskulárních hospitalizací a hospitalizací pro srdeční selhání. Očekáváme další důkazy pro management srdečního selhání vedený implantovanými systémy.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 13
+ 
+ 14
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+9. PALIATIVNÍ PÉČE O NEMOCNÉ S TERMINÁLNÍM SRDEČNÍM SELHÁNÍM
+Přístup k těmto pacientům je navrhován na bázi paliativního týmu. Paliativní péče snižuje hospitalizace, nemá jasný vliv na přežití, ale má efekt na kvalitu života a symptomy (Tabulka 9).
+Je potřeba symptomatická léčba, která by mohla obsahovat další intervence nad rámec optimální léčby: Dušnost: zvážit opakované dávky opiátů, i když jejich efekt nebyl prokázán. Při užívání opiátů informovat všechny pacienty o nežádoucích účincích, jako je zácpa, nauzea, retence moči a změny duševního stavu. V případě selhání opiátů a nefarmakologické léčby mohou být podány jako lék druhé nebo třetí volby benzodiazepiny. Zvyšování koncentrace vdechovaného kyslíku může napomoci zmírnění dušnosti.
+Bolest: přínosná může být nefarmakologická péče. Navíc opioidy, oxycodon, hydromorphon a fentanyl jsou považovány za bezpečné a mohou být podávány perorálně, intravenózně a transdermálně, zvláště v nemocnicích, paliativní nebo hospicové péči.
+Strach a deprese: má být poskytnuta adekvátní konvenční léčba. Plánování a provádění paliativní péče musí být dokumentováno, pravidelně kontrolováno a komunikováno se všemi, kteří se péče o pacienta účastní. Poskytovatelé zdravotní péče by si měli být jisti, že jsou respektována přání pacientů, kdykoliv je to možné. Měli by vzít v úvahu, že pacienti nemusejí být nebo nejsou schopni vyjádřit své preference (např. kvůli symptomům nebo kognitivnímu zhoršení). Právě zde je nezastupitelná úloha VLP a jejich komunikace s paliativními týmy.
+ Tabulka 9: Pacienti, u kterých by měla být zvážena terminální péče, cíle léčby
+     DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+10. LITERATURA:
+1. McDonagh TA et al. Eur J Heart Fail 2022:24:4-131.
+2. Málek F et al. Cor Vasa 2022, DOI: 10.33678/cor.2022.058.
+3. Táborský M. et al. Eur J Heart Fail 2021: 8: 3800–3808.
+4. Málek F et al. Cor Vasa 2021, Cor et Vasa 63(5):619-625
+5. Haluzík M et al. Cor et Vasa 2021, 63(5):630-636 | DOI: 10.33678/cor.2021.108
+6. Melenovský V et al. Vnitr Lek 2021, 67(8):495-497 | DOI: 10.36290/vnl.2021.126
+7. Linhart A. et al: Informace pro pacienty se srdečním selháním. Informace pro pacienty s chronickým srdečním selháním - II. interní klinika
+kardiologie a angiologie 1. LF UK a VFN (cuni.cz)
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 15
+ 
+ 16
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+CHRONICKÉ SRDEČNÍ SELHÁNÍ - NOVELIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 17
+ 
+  Společnost všeobecného lékařství ČLS JEP Centrum doporučených postupů pro praktické lékaře Sokolská 31, 120 00 Praha 2
+e–mail: svl@cls.cz http://www.svl.cz
+ISBN 978-80-88280-38-5
+ ISBN 978-80-88280-38-5
+© 2023, Společnost všeobecného lékařství ČLS JEP
