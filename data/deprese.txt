@@ -1,0 +1,782 @@
+  Doporučené diagnostické a terapeutické postupy pro všeobecné praktické lékaře
+DEPRESE
+Autoři:
+doc. MUDr. Martin Anders, Ph.D.
+Psychiatrická společnost ČLS JEP
+MUDr. Rudolf Červený, Ph.D.
+Společnost všeobecného lékařství ČLS JEP
+  NOVELIZACE 2023
+Centrum doporučených postupů pro praktické lékaře
+Společnost všeobecného lékařství ČLS JEP, Sokolská 31, Praha 2
+ 
+Tisk podpořen firmou
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+
+DEPRESE
+Doporučený diagnostický a terapeutický postup pro všeobecné praktické lékaře 2023
+Autoři:
+doc. MUDr. Martin Anders, Ph.D.
+Psychiatrická společnost ČLS JEP
+MUDr. Rudolf Červený, Ph.D.
+Společnost všeobecného lékařství ČLS JEP
+Oponenti:
+MUDr. Magdaléna Boháčová
+Psychiatrická společnost ČLS JEP
+MUDr. Astrid Matějková
+Společnost všeobecného lékařství ČLS JEP
+Původní DP Deprese, který byl novelizován,
+byl vypracován pod vedením prof. MUDr. Jiří Rabocha, DrSc.
+DEPRESE - NOVELIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+1
+   
+DEPRESE - NOVELIZACE 2023
+OBSAH
+1.ÚVOD. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. EPIDEMIOLOGIE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3. DIAGNOSTIKA PODLE MKN-10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . .
+. 3 . 3 3
+4 . 4 . 4 . 5
+. 7 . 7
+. 8 . 8
+. 8 . 9 10
+16 16
+3.1. PODLE MKN-10 JE FORMÁLNĚ PRO DIAGNÓZU DEPRESIVNÍ EPIZODY NEZBYTNÁ PŘÍTOMNOST
+2 HLAVNÍCH A ALESPOŇ DVOU VEDLEJŠÍCH PŘÍZNAKŮ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.2. SYMPTOMY MUSÍ TRVAT ALESPOŇ 2 TÝDNY, PŘIČEMŽ BY MĚLY BÝT PŘÍTOMNY MINIMÁLNĚ DVAHLAVNÍAJEDENVEDLEJŠÍPOVĚTŠINUDNŮAVĚTŠINUČASUBĚHEMDNE . . . . . . . . . . . . . . . . . . 3
+3.3.SOMATICKÝSYNDROM..................................................................... 3.4. DEPRESIVNI EPIZODA F32.X . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.5. PERIODICKÁ (REKURENTNÍ) DEPRESIVNÍ PORUCHA F33. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.6. TRVALÉ PORUCHY NÁLADY F34 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4. ROZPOZNÁNÍ A ZHODNOCENÍ PORUCHY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5. POSOUZENÍ RIZIKA SUICIDIA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.DIFERENCIÁLNÍDIAGNOSTIKADEPRESIVNÍHOSYNDROMU. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6.1. SMÍŠENÁ ÚZKOSTNÁ A DEPRESIVNÍ PORUCHA F41.2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7. LÉČBA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7.1. NEFARMAKOLOGICKÉ PŘÍSTUPY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7.2.FARMAKOTERAPIE.........................................................................
+8. POSUDKOVÁ HLEDISKA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.LITERATURA..................................................................................
+. . . . . . . .
+. . . .
+. . . .
+. . . . .
+. .
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+2
+   
+1. ÚVOD
+Nová verze 2023 doporučeného postupu (DP) Deprese aktualizuje předchozí DP SVL ČLS JEP z let 2008, 2013 a 2018 (2), a reflektuje aktuální doporučené postupy Psychiatrické společnosti ČLS JEP (1).
+Předmětem doporučeného postupu jsou epizody unipolární depresivní poruchy, která se řadí mezi nejčastější onemocnění, a též mezi nejčastější důvody vyhledání lékařských konzultací ve zdravotním systému. Kromě významného snížení kvality života mají depresivní epizody negativní vliv na prognózu chronických somatických onemocnění a jsou jednou z nečastějších příčin invalidity. Většina osob, které ukončily život sebevraždou (v ČR ročně kolem 1 300), trpěla některou z afektivních poruch.
+Cílem tohoto postupu je zvýšení míry včasného rozpoznání, diagnostiky a léčby depresivních poruch u dospělých pacientů v úrovni primární péče.
+Problematika týkající se pacientů mladších 18 let, závažných forem poruch a problematiky lůžkové péče není v postupu zohledněna.
+2. EPIDEMIOLOGIE
+Celoživotní prevalence depresivní poruchy v běžné populaci je odhadována na 5-16 %. Praktický lékař může ve své denní klientele očekávat asi 10 % depresivních nemocných. Ženy trpí depresí přibližně 2× častěji než muži. U žen se celoživotní prevalence obecně udává do 20 %. Deprese velmi často doprovází chronická somatická onemocnění, zejména onkologická a kardiovaskulární, endokrinopatie (poruchy štítné žlázy, Addisonova choroba, dlouhodobá terapie kortikoidy, diabetes, obezita), nemoci revmatické, infekční (hepatitida, mononukleóza, endokarditida), neurologické (roztroušená skleróza, centrální mozková příhoda, Parkinsonova choroba), chronickou bolest, abúzus alkoholu nebo jiných návykových látek. Častější výskyt deprese je také v období šestinedělí a perimenopauzy, v období dospívání a u seniorů.
+Příklady jednoroční prevalence depresivní poruchy u vybraných somatických onemocnění: • chronicky nemocní celkově: 9,4 %,
+• hospitalizovaní pacienti celkově: 33 %,
+• hospitalizovaní onkologičtí pacienti: 42 %,
+• cévní mozkové příhody: 47 %, infarkt myokardu: 45 %.
+3. DIAGNOSTIKA PODLE MKN-10
+3.1. PODLE MKN-10 JE FORMÁLNĚ PRO DIAGNÓZU DEPRESIVNÍ EPIZODY NEZBYTNÁ PŘÍ- TOMNOST 2 HLAVNÍCH A ALESPOŇ DVOU VEDLEJŠÍCH PŘÍZNAKŮ.
+Hlavní příznaky:
+1. přetrvávající smutek nebo pokleslá nálada pro jedince nenormální,
+2. výrazné (zřetelné) snížení zájmu či schopnosti prožívat potěšení v aktivitách, které dříve jedince těšily,
+3. pokles energie ústící do zvýšené únavnosti a snížené aktivity, výrazná únavnost i po pouze malé námaze.
+Vedlejší příznaky:
+• snížená schopnost soustředění a pozornosti,
+• ztráta sebedůvěry a sebeúcty,
+• neoprávněné sebevýčitky a bezdůvodné pocity viny,
+• smutné a pesimistické výhledy do budoucnosti,
+• myšlenky nebo pokusy o sebepoškození nebo sebevraždu,
+• porucha spánku (snížení nebo zvýšení v porovnání k předchozímu stavu/ normě), • snížená nebo zvýšená chuť k jídlu s odpovídající změnou hmotnosti
+3.2. SYMPTOMY MUSÍ TRVAT ALESPOŇ 2 TÝDNY, PŘIČEMŽ BY MĚLY BÝT PŘÍTOMNY MINI- MÁLNĚ DVA HLAVNÍ A JEDEN VEDLEJŠÍ PO VĚTŠINU DNŮ A VĚTŠINU ČASU BĚHEM DNE.
+DEPRESE - NOVELIZACE 2023
+    DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+3
+   
+ 4
+DEPRESE - NOVELIZACE 2023
+3.3. SOMATICKÝ SYNDROM
+Některé z příznaků (2.1) mohou mít zvláštní klinický význam - tzv. „somatické“ příznaky: • ztráta zájmu nebo potěšení v činnostech, které obvykle působí radost,
+• buzení se časně ráno, 2 nebo více hodin před obvyklým časem vstávání,
+• depresivní nálada je výraznější ráno,
+• objektivní průkaz psychomotorického zpomalení nebo neklidu (udávaný druhými osobami), • zřejmá ztráta chuti k jídlu,
+• zřetelné snížení tělesné hmotnosti (5 % a více za poslední měsíc),
+• zřetelné snížení libida.
+Somatický syndrom je definován přítomností alespoň 4 z výše uvedených symptomů.
+3.4. DEPRESIVNI EPIZODA F32.X
+Diagnóza depresivní epizody je stanovena pouze, pokud se jedná o jednu (první) epizodu deprese. V pořadí další depresivní epizody by měly být klasifikovány jako rekurentní depresivní porucha (F33.x).
+3.4.1. KATEGORIE DEPRESIVNÍ EPIZODY
+Podle závažnosti poruchy (počet, typ a tíže přítomných symptomů) je určována:
+F32.0 Mírná depresivní epizoda (přítomny alespoň 2 hlavní + 2 vedlejší příznaky, žádný z příznaků by neměl být intenzivní),
+F32.00 bez somatického syndromu (přítomno jen 1-3 nebo žádný somatický symptom),
+F32.01 se somatickým syndromem (4 nebo více somatických symptomů, může být i menší počet, pokud jsou
+příznaky neobvykle silné).
+F32.1 Středně těžká depresivní epizoda. Měly by být přítomny alespoň 2 hlavní + alespoň 4 vedlejší příznaky. Některé symptomy by měly být výrazné, ale v případě většího počtu příznaků není výrazná intenzita symptomů podmínkou. Pacient má obvykle výrazné obtíže při sociálních, pracovních nebo domácích aktivitách,
+F32.10 bez somatického syndromu (přítomno jen 1-3 nebo žádný somatický symptom)
+F32.11 se somatickým syndromem (4 nebo více somatických symptomů, může být i menší počet, pokud jsou
+příznaky neobvykle silné)
+F32.2 Těžká depresivní epizoda bez psychotických příznaků symptomů. Měly by být přítomny všechny 3 hlavní + minimálně 5vedlejších příznaky, z nichž některé být těžké. V přítomnosti důležitých symptomů, jako je neklid nebo zpomalení, však pacient nemusí být schopen popsat další symptomy. Pacient není schopen výkonu sociálních, pracovních nebo domácích aktivit, nebo je vykonává jen ve velmi omezené míře.
+F32.3 Těžká depresivní epizoda s psychotickými příznaky symptomy. Kromě splnění podmínek pro F32.2 se upacienta objevují bludy (hřích, chudoba, hrozící katastrofa, osobní odpovědnost za zlo a vina), halucinace (sluchové - obviňující, hanlivé, urážející; vztahovačné, hypochondrické), psychomotorické zpomalení může přejít do depresivního stuporu.
+F32.8 Jiné depresivní epizody
+Depresivní epizody, které nesplňují kritéria F32.0-F32.3, ale celkový diagnostický dojem indikuje, že se jedná ve své podstatě o depresivní onemocnění. Příkladem jsou fluktuující smíšené depresivní symptomy (obzvláště somatické povahy) s nediagnostickými symptomy, jako je napětí, obavy a tíseň, a směsice somatických symptomů s perzistující bolestí nebo únavou bez organické příčiny. Patří sem například „atypická deprese“, či dnes již obsolentní „larvovaná“ deprese.
+F32.9 Depresivní epizoda, nespecifikovaná (NS)
+3.5. PERIODICKÁ (REKURENTNÍ) DEPRESIVNÍ PORUCHA F33.X
+Porucha je charakterizovaná opakovanými depresivními epizodami (analogickými F32.0 - F32.3) trvajícími min. 2 týdny a oddělená od současné epizody obdobím minimálně 2 měsíců bez výrazných emočních příznaků, bez jakékoliv anamnézy výskytu epizod povznesené nálady a hyperaktivity, které by splňovaly kritéria hypo/mánie.
+       DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+První epizoda se nejčastěji vyskytne v 5. deceniu. Jednotlivé epizody trvají 3-12 měsíců. Vyléčení mezi jednotlivými epizodami je obvykle kompletní, pouze u menšiny pacientů dojde k přechodu do perzistující epizody, zejména pak ve starším věku. Jednotlivé epizody jsou obvykle vyvolávány stresovými životními situacemi. Porucha je 2x častější u žen, než u mužů. Pokud se vyskytne manická epizoda, diagnóza by měla být změněna na bipolární afektivní poruchu.
+3.5.1. KATEGORIE REKURENTNÍ DEPRESIVNÍ PORUCHY JE URČOVÁNA NEJPRVE PODLE TÍŽE PRÁVĚ PROBÍHAJÍCÍ DEPRESIVNÍ EPIZODY, A DÁLE PODLE PŘEVAŽUJÍCÍHO TYPU PŘEDCHO- ZÍCH EPIZOD.
+F33.0 Rekurentní depresivní porucha, současná epizoda mírná (splňuje kritéria pro F32.0 a současně v minulosti by měly proběhnout minimálně 2 depresivní epizody, které trvaly minimálně 2 týdny s odstupem minimálně 2 měsíců bez výraznější poruchy nálady).
+F33.00 se somatickým syndromem F33.01 bez somatického syndromu
+F33.1 Rekurentní depresivní porucha, současná epizoda středně těžká (splňuje dg. kritéria pro F32.1 a F33.x) F33.10 se somatickým syndromem
+F33.11 bez somatického syndromu
+F33.2 Rekurentní depresivní porucha, současná epizoda těžká bez psychotických symptomů (splňuje dg. kritéria pro F32.2 a F33.x)
+F33.3 Rekurentní depresivní porucha, současná epizoda těžká bez psychotických symptomů (splňuje dg. kritéria pro F32.3 a F33.x)
+F33.4 Rekurentní depresivní porucha, v remisi (splňuje dg. F33.x, ale v současné době nejsou splněna kritéria pro depresivní epizodu žádného stupně). Tato dg. kategorie může být použita i v případě, užívá-li pacient udržovací léčbu ke snížení rizika návratu dalších epizod.
+F33.8 Jiné rekurentní depresivní poruchy
+Pro sezónní afektivní poruchu (SAD) je typické, že se rozvíjí na podzim, přetrvává přes zimu, a na jaře obvykle mizí. Bývá fotosenzitivní.
+F33.9 Rekurentní depresivní porucha, nespecifikovaná (NS)
+3.6. TRVALÉ PORUCHY NÁLADY F34.X
+Perzistující a obvykle fluktuující poruchy nálady, ve kterých individuální epizody jsou vzácně dostatečně těžké, aby splnily kritéria hypomanické nebo mírné depresivní epizody. Trvají roky, nezřídka po většinu života a zahrnují značné subjektivní utrpení a disabilitu. Na tuto perzistující poruchu mohou nasedat epizody manické nebo depresivní.
+3.6.1. KATEGORIE TRVALÉ PORUCHY NÁLADY
+F34.0 Cyklotymie
+Minimálně 2 roky trvající nestabilita nálady, která zahrnuje četné mírné depresivní periody a mírně povznesené nálady, přičemž mohu, ale nemusí být období normální nálady. Začíná obvykle v časné dospělosti a má chronický průběh, i když někdy může přetrvávat normální nálada po několik měsíců. Diagnostika vyžaduje dlouhý čas observace nebo velmi dobrou znalost anamnézy poruchy v minulosti. Porucha je častá u příbuzných pacientů s bipolární afektivní poruchou, která se může u některých pacientů objevit.
+F34.1 Dystymie
+Minimálně 2 roky trvající nebo se vracející depresivní nálada, která nesplňuje kritéria pro mírnou depresivní epizodu rekurentní depresivní poruchy (F33.0). Kritéria mírné depresivní epizody ale mohly být v minulosti splněny, zejména v období vzniku poruchy. Proporcionalita mezi jednotlivými mírnými depresivními epizodami
+DEPRESE - NOVELIZACE 2023
+          DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 5
+ 
+ 6
+DEPRESE - NOVELIZACE 2023
+a období normální nálady jsou velmi variabilní. Postižení obvykle mají období dnů nebo týdnů, kdy se cítí dobře, ale většinu času (často po období měsíců) se cítí unavení a mají pokleslou náladu, všechno je pro ně obtížné a z ničeho se neradují. Trápí se a stěžují si, špatně spí a cítí se být neschopní, ale obvykle jsou schopní plnit úkoly každodenního života. Porucha obvykle začíná v časné dospělosti nebo i dospívání. Trvá minimálně po několik let, někdy celoživotně. Pokud vznikne později v životě, je často následkem diskrétní depresivní epizody (F32.x) a bývá spojená s úmrtím blízké osoby nebo jiným stresem.
+F34.8 Jiné perzistující afektivní poruchy
+Patří sem perzistující poruchy nálady, které nesplňují kritéria ani pro cyklotymii, ani dystymii, ani pro depresivní epizodu, nicméně jsou klinicky významné.
+F34.9 Perzistující afektivní porucha, nespecifikovaná
+Algoritmus 1: Diagnóza depresivní epizody podle MKN 10
+       Hlavní symptomy
+• pokleslá, depresivní nálada
+• pokles zájmů, anhedonie
+• pokles energie, zvýšená únava
+  Vedlejší symtomy
+• snížená schopnost soustředění a pozornosti,
+• snížené sebehodnocení a sebedůvěra,
+• pocity neopodstatněné viny a bezcennosti,
+• smutné a pesimistické výhledy do budoucnosti,
+• myšlenky nebo pokusy o sebepoškození nebo
+sebevraždu,
+• poruchy spánku,
+• snížená chuť k jídlu.
+tíže epizody
+další symptomy
+klasifikace dle průběhu
+2
++++
+3–4
+symptomy trvají ≥ 2 týdny
+≥4
+         
+středně
+     
+DEPRESIVNÍ EPIZODA
+těžká
+  somatické symptomy?
+psychotické symptomy?
+    první/ izolovaná
+rekurentní/ periodická
+bipolární
+   dle MKN 10 F32 F33 F31
+2
+2
+  2
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+4. ROZPOZNÁNÍ A ZHODNOCENÍ PORUCHY
+4.1 Na možnou přítomnost poruchy nálady je nutné aktivně myslet, zejména u osob s anamnézou depresivních epizod nebo trvalým zdravotním postižením (viz odstavec 2).
+4.2 V případě podezření na přítomnost depresivní poruchy je vhodné pacientovi položit 2 úvodní otázky:
+ 1. Trápila (obtěžovala, tížila) vás v období posledního měsíce smutná nebo pokleslá nálada nebo pocity beznaděje?
+2. Trápil (obtěžoval, tížil) vás v období posledního měsíce malý zájem nebo malé potěšení při práci a ostatních činnostech?
+4.3 4.4
+Pokud dotazovaný odpoví alespoň na jednu z otázek kladně, měla by být zvážena přítomnost depresivní epizody a doplněny dotazy na přítomnost dalších symptomů (viz odst. 3.1, 3.4).
+Při hodnocení osoby s podezřením na depresivní epizodu je potřeba provést komplexní zhodnocení, při
+kterém je kromě součtu symptomů nutné posoudit:
+• dobutrvánípotíží,
+• zdajdeoprvní,neboopakovanouepizodu,
+• závažnostsymptomů,
+• stupeň funkčního postižení a/nebo disability,
+• přítomnost somatického syndromu,
+• přítomnostpsychotickýchpříznaků,
+• výskyt předchozích epizod mánie či hypomanie,
+• rizikosuicidia,
+• dostupnostsociálnípodpory,
+• OAaRAsohledemnavýskytporuchnálady,psychóz,suicidiínebopokusůoně,
+• možnou souvislost vzniku depresivní epizody v časové souvislosti s tělesným onemocněním;
+• možnou souvislost vzniku depresivní epizody se zahájenou jakoukoliv medikamentózní léčbou včetně
+užívání antikoncepce
+Při hodnocení osoby s podezřením na depresivní epizodu je vhodné zvážit použití validovaného dotazníku (např. příloha č. 2 dotazník PHQ-9).
+4.5
+5. POSOUZENÍ RIZIKA SUICIDIA
+5.1 Jestliže osoba, u níž byla identifikována depresivní epizoda, vykazuje známky přímého ohrožení pro sebe nebo ostatní, je nutné ji neodkladně odeslat do péče specialisty v oboru psychiatrie, případně přímo k hospitalizaci v psychiatrickém zařízení, a to i ve spolupráci se záchrannou službou.
+5.2 Pokud je u osoby shledáno riziko suicidia, je nutné
+• zvážit toxicitu při možném předávkování léky, a to jak předepsaného antidepresiva, tak dalších léků, které
+pacient pravidelně užívá, a případně omezit množství léků, které má pacient k dispozici,
+• zvážit zvýšení úrovně podpory, jako např. častější kontrolní návštěvy nebo telefonní kontakt, • zvážit předání pacienta do specializované psychiatrické péče.
+5.3 Riziko suicidia by mělo být zvažováno při každém kontaktu s pacientem trpícím depresivní epizodou, případně dále podrobněji vyšetřeno.
+DEPRESE - NOVELIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 7
+ 
+ 8
+DEPRESE - NOVELIZACE 2023
+6. DIFERENCIÁLNÍ DIAGNOSTIKA DEPRESIVNÍHO SYNDROMU 6.1. SMÍŠENÁ ÚZKOSTNÁ DEPRESIVNÍ PORUCHA F41.2
+Tato diagnostická kategorie by měla být použita, pokud jsou přítomny symptomy, jak úzkostné, tak depresivní, ale žádná ze skupin symptomů hodnocených odděleně nepřevažuje, aby splnila kritéria depresivní nebo úzkostné poruchy. Pokud je přítomna výrazná úzkost společně s mírným stupněm deprese, mela by být použita příslušná diagnostická kategorie pro úzkostnou nebo fobickou poruchu. Pokud jsou přítomné příznaky, jak úzkostné, tak depresivní dostatečné pro stanovení jednotlivých diagnóz, stanoví se diagnózy odděleně (např. F41.1+F32.0). Pokud by měla být stanovena pouze jedna diagnóza, má přednost diagnóza depresivní poruchy.
+6.2 Přítomnostdemencenebomentálníretardacenevylučujepřítomnostdepresivnísymptomatiky.Vzhledem ke komunikačním obtížím je často nutné se více spoléhat na objektivní známky somatických symptomů, jako je psychomotorické zpomalení, ztráta chuti k jídlu, pokles váhy a poruchy spánku.
+6.3 Hypotyreóza, zejména v těžším stupni, může imitovat depresivní epizodu (psychomotorické zpomalení, porucha koncentrace, pokles zájmu o činnosti, emocionální oploštění).
+6.4 Fyziologický smutek, např. po úmrtí blízké osoby, je méně intenzivní, nebrání adaptaci na běžnou životní zátěž, má zjevnou příčinu, většinou odezní do 6-12 měsíců.
+6.5 Bipolární afektivní porucha. První depresivní epizoda může být prvním projevem bipolární afektivní poruchy. Depresivní epizoda bipolární afektivní poruchy se na rozdíl od unipolární formy vyskytuje v rodinách s výskytem duševních onemocnění, psychosociální zátěžové faktory jsou při jejím vzniku méně patrné a začíná v časnějším věku. Diferenciální diagnostika je velmi důležitá, protože léčba je odlišná (cave monoterapie AD, indikovány jsou vždy stabilizátory nálady) a patří do rukou psychiatrů.
+7. LÉČBA
+7.01 Charakter onemocnění, u kterého lze indikovat pouze podpůrnou psychoterapii, aktivní sledování a doporučení úpravy životního stylu:
+• čtyři nebo méně symptomů (viz 3.1) s nevýraznou přidruženou disabilitou,
+• symptomyjsouobčasnénebotrvajíméněnež2týdny,
+• nedávný vznik obtíží se známým spouštěcím faktorem,
+• negativníosobníirodinnáanamnézatýkajícíseporuchnálady,
+• dostatečnásociálnípodporapacienta,
+• nepřítomnostsuicidálníchmyšlenek.
+7.02 Charakter onemocnění, u kterého je indikována aktivní léčba v primární péči:
+• pětnebovícesymptomů(viz3.1)spřidruženoudisabilitou,
+• perzistující nebo dlouhodobé potíže,
+• pozitivní osobní nebo rodinná anamnéza týkající se poruchy nálady,
+• nízkásociálnípodpora,
+• občasnésuicidálnímyšlenky.
+7.03 Charakter onemocnění, u kterého je indikováno odeslání pacienta do specializované psychiatrické péče:
+• nedostatečná nebo nepřiměřená odpověď na poskytnutou léčbu,
+• opakovanéepizodyvjednomroce,
+• manická či hypomanická epizoda v anamnéze
+• pacient trpící depresivní epizodou nebo jeho rodina žádá specializovanou léčbu,
+• přetrvávajícísuicidálnímyšlenky,
+• zanedbávánísebepéče.
+7.04 Indikace neodkladného odeslání pacienta do specializované psychiatrické péče:
+• aktivní myšlenky na smrt nebo suicidální plány,
+• psychotickésymptomy,
+• těžkýnekliddoprovázejícízávažnésymptomynebovýraznýpsychomotorickýútlum(ažmelancholický
+stupor),
+• významnézanedbávánísebepéče.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+7.1. NEFARMAKOLOGICKÉ PŘÍSTUPY
+7.1.1. SPECIFICKÁ PSYCHOTERAPIE (PT)
+Je zaměřena přímo na léčbu poruchy nálady. Jde o časově ohraničené, strukturované postupy, při nichž léčba obvykle trvá 12–16 týdnů. Provádí ji specializovaný odborník (klinický psycholog, psychiatr, praktický nebo jiný lékař) se specializovaným výcvikem. Psychoterapeutické metody podložené důkazy – interpersonální PT, kognitivně-behaviorální PT a krátká dynamická PT – jsou u většiny pacientů v akutní etapě léčby mírné a středně těžké depresivní epizody srovnatelně účinné jako farmakoterapie. Měly by být rovnocenně zvažovány při první volbě léčby, zejména pak u pacientů, kteří tento druh léčby upřednostňují. Není-li znatelné žádné zlepšení po 6–8 týdnech léčby nebo není-li dosaženo remise do 12 týdnů, je doporučeno podávání antidepresiv. Kombinace psychoterapie a medikamentózní léčby by měla být zvážena u pacientů, kteří léčebně nedostatečně odpověděli na samotnou léčbu antidepresivy nebo na samotnou psychoterapii. Význam psychoterapie v dlouhodobé léčbě depresivní poruchy není dostatečně prozkoumán. Studie posledních let potvrzují, že kvalitnějších léčebných výsledků je dosahováno při kombinaci farmakoterapie a psychoterapie.
+7.1.2. PODPŮRNÁ PSYCHOTERAPIE
+Měla by být součástí léčby každého pacienta. Provádí ji ošetřující lékař. Základními prostředky jsou empatie, laskavost, naslouchání, porozumění, podpora a povzbuzování, realistické cíle a informování pacienta o léčbě a očekávaném vývoji. Podpůrná psychoterapie zvyšuje adherenci pacienta k léčbě, sama o sobě však k léčbě depresivních epizod není dostatečná.
+7.1.3. ELEKTROKONVULZIVNÍ TERAPIE (EKT)
+Personalizovaná EKT je stále nejrychleji a nejintenzivněji působící léčbou především u těžkých depresivních epizod spojených se sebevražednými sklony. Provádí se většinou během hospitalizace, byť v současné době je již možno tyto zákroky provádět i ambulantně včetně tzv. udržovací léčby, která zabrání nástupu dalších epizod.
+7.1.4. FOTOTERAPIE
+Fototerapie patří mezi metody první volby v léčbě sezónní afektivní poruchy, ale existuje stále více důkazů o její účinnosti při léčbě unipolárních depresivních epizod. Je doporučována v době těhotenství, při premenstruační dysforické poruše a jiných depresivních stavů včetně depresivní epizody při bipolární afektivní poruše.
+7.1.5. TĚLESNÉ CVIČENÍ
+Přibývá důkazů o příznivém účinku především aerobního cvičení u osob trpících depresivní poruchou. Doporučuje se např. 3-5 tréninků v týdnu o délce 45–60 minut s 50–80% maximální tepovou frekvencí. Terapeutický efekt se objevuje po 4 týdnech s maximem po 10–12 týdnech této pohybové aktivity.
+7.1.6. MODIFIKACE ŽIVOTNÍHO STYLU, DIETA
+Kromě fyzické aktivity sem patří správná výživa, redukce stresu, organizace volného času a sociální podpora. Vyšší konzumace „středomořského“ typu diety je spojována s nižším výskytem depresivních epizod. Dieta s dostatečným zastoupením omega-3-nenasycených mastných kyselin, o kterých existuje nejvíce údajů (důležité je především množství EPA), vitaminů B, C, D, zinku, hořčíku, metylfolátu či tryptofanu, a dalších vhodných živin je doporučována jako vhodné doplnění psychofarmakologické a psychoterapeutické léčby. V některých případech je vhodné i využít kvalitní potravinové doplňky.
+7.1.7. PŘERUŠENÍ KOUŘENÍ TABÁKOVÝCH VÝROBKU
+Existují přesvědčivé důkazy o tom, že přerušení kouření tabákových výrobků vede ve svém důsledku k pozitivním změnám afektivity. U jedinců, kteří přestanou kouřit, dochází ke snížení míry závažnosti úzkosti, depresivní nálady a pocitu stresu. Naopak se u nich zvyšuje pozitivní nálada a kvalita života ve srovnání s těmi, kteří nadále kouří.
+7.1.8. DALŠÍ BIOLOGICKÉ LÉČEBNÉ PROSTŘEDKY
+V současné době jsou k dispozici i další biologické léčebné postupy, jako jsou spánková deprivace a jiné spánkové manipulace, nověji různé druhy stimulace mozku, jako třeba repetitivní transkraniální magnetická stimulace, vagová stimulace, hluboká mozková stimulace či transkraniální stimulace stejnosměrným proudem. Tyto metody jsou u nás používány většinou jen na speciálních odděleních univerzitních klinik.
+DEPRESE - NOVELIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 9
+ 
+ 10
+DEPRESE - NOVELIZACE 2023
+7.2. FARMAKOTERAPIE
+Farmakoterapie antidepresivy by měla být užita při léčbě středně těžkých a těžkých forem onemocnění.
+Léčba antidepresivy by nemělo být paušálně zahajováno jako první volba léčby u mírných depresivních epizod, ale pouze po pečlivém zvážení poměru užitku a rizika.
+Při léčbě mírných forem depresivní epizody může být léčba antidepresivy užita při:
+• přání/preferencipacienta,
+• dobré předchozí zkušenosti s léčbou antidepresivy,
+• perzistujícísymptomaticevzdornefarmakoterapeutickýmopatřením,
+• upacientůsdepresivnímiepizodamistřednězávažnéhoažtěžkéhoprůběhuvanamnéze.
+Graf.1. Etapy léčby depresivní epizody dle Kupfera (1991)
+7.2.1. AKUTNÍ ETAPA LÉČBY
+Jde o období do odeznění akutních příznaků nemoci, čili dosažení remise. Toto období trvá zpravidla několik týdnů až měsíců – podle zvolené terapie a závažnosti depresivní epizody.
+7.2.2. POKRAČOVACÍ ETAPA LÉČBY
+Jde o období po odeznění akutních příznaků nemoci, trvající několik měsíců. Léčba probíhá stejným způsobem jako v etapě akutní a zajišťuje prevenci relapsu depresivní epizody.
+7.2.3. PROFYLAKTICKÁ (UDRŽOVACÍ) LÉČBA
+Cílem profylaktické léčby je zabránit recidivě. Remise ještě neznamená vyléčení, i když pacient již nesplňuje kritéria pro depresivní poruchu, a nemá žádné nebo jen minimum příznaků nízké intenzity, které neomezují výkon běžné práce a aktivit. Předčasné ukončení léčby vždy zvyšuje riziko relapsu. Na konci akutní etapy léčby je riziko relapsu kolem 50 %. Dávka léku u profylaktické léčby je shodná s dávkou, která vedla k dosažení remise.
+Tab. 1: Doporučená délka léčby po dosažení remise
+    9 měsíců
+5 let celoživotně
+první depresivní epizoda
+po 3. depresivní epizodě po 4. depresivní epizodě
+ 2 roky
+   • po druhé depresivní epizodě
+• předcházel vážný suicidální pokus
+• přítomnost rodinné zátěže depresivní poruchou
+• nemocnýjevevěku65letavíce
+• neúplná remise
+    Tab. 2: Indikace k dlouhodobé profylaktické léčbě
+   Velmi důrazné doporučení
+• třiavícedepresivníchepizod
+   Důrazné doporučení
+• dvětěžkédepresivníepizodyabipolárníporuchavRA,
+• dvě těžké depresivní epizody v posledních 3 letech,
+• recidiva depresivní epizody do jednoho roku od          předchozí úspěšné léčby,
+• přítomnostrekurentníchtěžkýchdepresivníchepizodvRA(tj.výskytzřetelnýchprojevůualespoňjednoho
+z příbuzných prvního stupně),
+• prvnídepresivníepizodyvevyššímvěku(po60.roce)neboumladistvých(před20.rokem),
+   DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+DEPRESE - NOVELIZACE 2023
+   • U depresivních nemocných sexuálně aktivních a vyžadujících dlouhodobou léčbu antidepresivy můžeme upřednostnit trazodon, mirtazapin, a specialisté i agomeation a vortioxetin, vzhledem k jejich minimálnímu vlivu na sexuální funkce.
+• Pacienti užívající extrakt z třezalky, levandule nebo šafrán by měli být informováni o proměnlivém obsahu účinné látky v dostupných přípravcích, a s tím související terapeutickou nejistotou, což může být problémem zejména při léčbě těžších depresivní epizod. Dále by měli být informováni o možnosti závažných interakcí s jinými léky (včetně kontraceptiv, antikoagulancií a antiepileptik).
+• Popsána byla souvislost mezi celkovou denní dávkou citalopramu nebo escitalopramu a prodloužením QT intervalu, což může vést ke vzniku komorových arytmií. Proto lze maximální denní dávku citalopramu snížit ze 60 mg na 40 mg/d, u starších pacientů nebo pacientů se sníženou funkcí jater na 20 mg/den, dávka escitalopramu zůstává na max. 20 mg/den. Vhodná je kontrola EKG u rizikových nemocných.
+Po ukončení pokračovací léčby je třeba stále počítat s rizikem rekurence onemocnění. Ukazuje se, že je méně rizikové v léčbě pokračovat, než ji přerušovat.
+V udržovací léčbě se mají používat stejné dávky antidepresiv jako při léčbě, která vedla k dosažení remise. Při dlouhodobém stavu úplné remise se lze s opatrností pokusit o postupné snižování udržovací dávky.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 11
+   počáteční dávka mg/den
+ terapeutická dávka, (maximální d.) mg/den
+ Inhibitory zpětného vychytávání (RUI)
+    TCA
+imipramin amitriptylin nortriptylin dosulepin clomipramin dibenzepin
+  25-50 25
+50
+25 25-75 240
+   75-200 75-150 (300) 100-300 75-150 (300) 75-150 (300) 240-720
+  SSRI
+fluvoxamin citalopram escitalopram fluoxetin sertralin paroxetin
+  50
+20
+10
+20
+50
+20
+  100-300 20-40 (60) 10-20 (30) 20-60 (80) 50-150 (200) 20-60
+  SNRI
+venlafaxin duloxetin
+ 37,5 30
+ 75-225 (375) 30-60 (120)
+ NaSSA
+mirtazapin mianserin
+  15 30
+  15-45 (45) 30-120
+   Inhibitory monoaminooxidázy
+Jiná
+     Tab. 3: Přehled antidepresiv dostupných v ČR
+ TeCA
+maproptilin 50
+SARI
+trazodon 75
+NDRI
+bupropion 150
+RIMA
+moklobemid 150
+GM
+tianeptin
+MASSA
+agomelatin
+SMRI
+vortioxetin
+75-150
+75-300 (600)
+150-300 (450)
+300-600 (900)
+   37,5 25 10
+37,5 (37,5) 25-50 (50) 5-20
+       
+ 12
+DEPRESE - NOVELIZACE 2023
+7.2.4. VÝBĚR ANTIDEPRESIVA PŘI VOLBĚ AD VYCHÁZÍME:
+• zpředchozízkušenostipacientasléčbou,pokudnějakoumá,
+• zklinickéhoobrazudepresivníepizody(skladbypříznaků),
+• zeznalostívedlejšíchúčinků,bezpečnostiasnášenlivostijednotlivýchAD.
+• léčbou první volby depresivní poruchy v primární péči jsou antidepresiva ze skupiny SSRI.
+• duální antidepresiva (SNRI, NaSSA) lze využít při selhání SSRI nebo v kombinaci s SSRI.
+• tricyklická antidepresiva (TCA) mají častější závažné nežádoucí účinky, jako je např. delirium, poruchy
+paměti, poruchy převodu a arytmie, retence moči. Nejsou proto doporučována pacientům vyššího věku
+v ambulantní péči.
+• inhibitorymonoaminooxidázyjsoutakévhodnoualternativouSSRIunemocnýchvyššíhověku.
+• u depresivních poruch s převažující úzkostí a insomnií, která bývá častá (až 80 %), lze s výhodou indikovat
+trazodon nebo mirtazapin.
+Vysvětlivky zkratek: RUI (inhibitory zpětného vychytávání), TCA (tricyklická antidepresiva), TeCA (tetracyklická antidepresiva), SSRI (selektivní inhibitory zpětného vychytávání serotoninu), SARI (serotoninoví antagonisté a inhibitory zpětného vychytávání), SNRI (inhibitory zpětného vychytávání serotoninu a noradrenalinu), NaSSA (noradrenergní a specificky serotonergní antidepresiva), NDRI (inhibitory zpětného vychytávání dopaminu a noradrenalinu)
+RIMA (reverzibilní inhibitory monoaminoxidázy typu A), GM
+(glutamátový modulátor), MASSA (melatoninový agonista a selektivní serotoninový antagonista), SMRI (serotoninový modulátor a inhibitor zpětného vychytávání)
+ Tab. 4: Nejčastěji předepisovaná antidepresiva podle klinického účinku
+ Skupina
+  Silně tlumící
+  Tlumící
+  Netlumící
+  TCA
+NaSSA
+SARI
+GM
+RIMA
+NDRI
+MASSA
+ mitriptylin
+ irtazapin
+ razodon
+ osulepin
+ lomipramin
+ SSRI
+      italopram  scitalopram  ertralin  luoxetin
+ SNRI
+         enlafaxin  uloxetin  ilnacipran
+    ianeptin
+ oklobemid
+ upropion
+ gomelatin
+    7.2.5. ZAHÁJENÍ LÉČBY ANTIDEPRESIVY
+Pro úspěch léčby je zásadní poučit pacienta o principu a předpokládané délce léčby, stanovit reálné cíle, upozornit na možné nežádoucí účinky a zdůraznit jejich častou přechodnost.
+Léčbu zpravidla začínáme poloviční dávkou dávky obvyklé pro léčbu, po několika dnech (individuálně) při dobré snášenlivosti zvyšujeme na obvyklou dávku. Při výskytu nežádoucích účinků prodloužíme tento interval užívání poloviční dávky nebo i dávku na čas snížíme, a pak pomalu stoupáme až k dávce obvyklé.
+Obzvláště při započetí léčby SSRI je třeba věnovat pozornost
+• vzniku aktivačního syndromu spojeného se zvýšením rizika suicidia (zejména u mladších věkových skupin
+pacientů), které bývá spojováno s nárůstem energie, excitací, motorickým neklidem, kdy na místě je aktivní vyhledávání takových příznaků v prvních dnech léčby, vyhodnocení závažnosti stavu, případná hospitalizace, korekce dávky nebo kombinace s anxiolytiky.
+• možnosti vzniku serotoninového syndromu (zmatenost, třes, pocení, hypertenze, myoklonus, mydriáza), ten může vzniknout nejen kombinací serotoninergních léků, ale i jejich současným užíváním s doplňky stravy s obsahem třezalky nebo tryptofanu
+• rizikuGITkrvácenípřisoučasnémužíváníNSA,
+• hyponatrémie - zejm. u starších osob (SIADH = zvýšená produkce nebo účinek antidiuretického hormonu ADH),
+• průjmu,
+• pacientibymělibýtinformováninazačátkuléčbyomožnostechvýskytutěchtosymptomů.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+7.2.6. NEDOSTATEČNÁ ODPOVĚĎ NA LÉČBU
+U 2/3 léčených monoterapií dojde k dostatečné odpovědi na léčbu (tj. alespoň k 50% zmírnění depresivní symptomatiky) během 4–6 týdnů, 1/3 ani po 8 týdnech na léčbu neodpoví. Pokud se neprojeví zřetelné efekt v období 3-4 týdnů při léčbě obvyklými klinicky účinnými dávkami, je nutné zvážit důvod, kterým může být nedostatečná adherence pacienta nebo nedostačující dávka antidepresiva.
+Zvýšení dávky
+Oproti TCA jsou vysoké dávky SSRI povětšinou dobře snášeny, např. fluoxetin v dávce 40–60 mg může být úspěšný u nonrespondentů na 20 mg. Při nedostatečné odpovědi je vždy prvním krokem zvýšení dávky.
+Změna antidepresiva
+Účinnost AD lze spolehlivě hodnotit až po 4-6 týdnech léčby. Léčebný neúspěch při podávání maximálních, ještě tolerovaných dávek po dobu alespoň 2 týdnů je indikací ke změně antidepresiva. Volí se buď AD s jiným mechanismem účinku, nebo AD ze stejné skupiny (u SSRI). Při každé změně je nutné zvážit lékové interakce, které mohou nastat. Převádění AD s krátkým na AD s dlouhým vylučovacím poločasem může být spojeno s rizikem vzniku syndromu z vysazení – např. při převodu ze sertralinu na fluoxetin je třeba podávat oba léky současně po dobu 7 dnů. Při převádění antidepresiva s dlouhým na krátký vylučovací poločas naopak hrozí riziko vzniku serotoninového syndromu – např. při převodu z fluoxetinu na sertralin se sertralin podává až za 3 dny po ukončení léčby fluoxetinem, další tři dny se podává poloviční dávka a podle snášenlivosti se zvýší na obvyklou dávku. TCA je možno převést na SSRI přímo ze dne na den. Při inkompatibilitě léků je nezbytné původní léčbu ukončit a teprve po uplynutí vymývací periody zahájit novou léčbu. Při selhání 2 a více monoterapií lze přistoupit ke kombinaci AD.
+Augmentace a kombinace léčby
+Augmentace znamená přidání jiného léčebného prostředku, který nemá primárně antidepresivní účinek (např. lithium). Kombinace znamená současné podávání dvou nebo více léčiv s antidepresivním účinkem. K tomu je potřeba dobrá znalost farmakokinetiky a farmakodynamiky použitých látek, a proto tento způsob terapie patří převážně do kompetence psychiatra. Přípustné kombinace: SSRI + TCA, SSRI + NaSSA, SSRI + SNRI,
+SSRI + SARI, SSRI + DNRI, SNRI + NaSSA, SNRI + NDRI, SNRI + SARI.
+Zásadně inkompatibilní jsou kombinace s IMAO (v ČR dostupný pouze psychiatrům isokarboxazid).
+7.2.7. SLEDOVÁNÍ LÉČBY
+Pro úspěch léčby antidepresivy je důležité sledovat její průběh a dokončení.
+V období léčby akutní etapy (prvních 4–6 týdnů) zveme pacienta častěji – 1–2× týdně, ve druhém měsíci 1x za 2 týdny, některé návštěvy můžeme nahrazovat telefonickými konzultacemi. Je třeba sledovat:
+• nárůstenergienebovznikaktivačníhosyndromuvúvoduléčby,
+• dodržování léčby, její léčebné i vedlejší účinky,
+• suicidálnítendence,případnénovědiagnostikovanékomorbidity.
+Je třeba upevňovat terapeutický vztah, spolupráci s rodinnými příslušníky, opakovaně edukovat pacienta i jeho příbuzné nebo pečovatele o depresivní poruše a její léčbě, o potřebě omezení izolace pacienta, pomoci při rozvíjení aktivity.
+Po dosažení remise stačí zvát pacienta 1x za měsíc, později při stabilním stavu kontrolujeme pacienta po každých 3-6 měsících. Pacienta poučíme, aby nás kontaktoval v případě změn stavu, problémů s léčbou nebo při úmyslu změnit nebo ukončit léčbu.
+7.2.8. UKONČENÍ LÉČBY
+Náhlé přerušení užívání antidepresiv může způsobit syndrom z vysazení (závratě, pocení, chřipkové příznaky, nauseu, vomitus, nechutenství, parestézie, ataxii, třes, zvýšenou iritabilitu, akatizii, insomnii, děsivé sny, senzorickou hypersenzitivitu, cefalgie, nesoustředěnost, únavnost, agresivitu, suicidální úvahy) a cholinergní rebound fenomén.
+Syndrom z náhlého vysazení SSRI je nejčastější po paroxetinu, fluvoxaminu a výjimečně jej způsobuje náhlé vysazení citalopramu nebo sertralinu. Výjimkou je fluoxetin, jehož dlouhodobý poločas vede sám o sobě k pozvolnému poklesu plazmatických koncentrací a riziko vzniku syndromu z vysazení je velmi nízké. Příznaky vzniknou během 1–7 dnů po přerušení léčby nebo skokovém snížení dávky AD po nejméně jednoměsíčním podávání, a mohou být snadno zaměněny za relaps a vést ke zbytečnému návratu k dlouhodobé léčbě. Příznaky vymizí do 24 hodin po opětovném podání AD, neléčené trvají 7-14 dní. Prevencí je postupné přerušování léčby AD, a to o 20-30 % týdně po dobu minimálně 4 týdnů, a podle potřeby déle.
+DEPRESE - NOVELIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 13
+ 
+ DEPRESE - NOVELIZACE 2023
+  Algoritmus 2. Léčba depresivní epizody
+Diferenciální diagnóza deprese
+mírná deprese? středně závažná deprese?
+ano ano
+těžká deprese? ano
+                            
+           vzájemná dohoda o léčbě s pacientem
+ano
+ 
+obezřetné vyčkávání (14 dnů)
+ 
+přetrvávání/zhoršování symptomatologie?
+ 
+Psychoterapie nebo farmakoterapie
+vzájemná dohoda o léčbě s pacientem
+ano
+ 
+vzájemná dohoda o léčbě s pacientem
+ano
+ 
+                
+            Psychoterapie nebo farmakoterapie
+Psychoterapie
+a
+farmakoterapie
+        
+kontroly 1x týdně
+ 
+klinické zhodnocení účinku léčby po 3-4 týdnech
+  
+                   >50 %                    <50 %
+ano ano
+  
+Pokračování Zvýšení dávky/ v léčbě augmentace léčby
+  
+Sledování každé 2-4 týdny,
+po dosažení remise za 1-3 sledování po 1-2 týdnech
+měsíce
+                               14
+DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+
+7.2.9. LÉČBA RELAPSU A RECIDIVY DEPRESIVNÍ PORUCHY
+V případě relapsu depresivní poruchy při zavedené léčbě se doporučuje jako první krok zvýšení dávky stejného AD. V případě relapsu po ukončení léčby se doporučuje opětovné podávání í AD, které bylo použito v předchozí léčbě.
+7.2.10. LÉČBA DYSTYMIE
+Vzdor relativně nevýrazným subjektivním obtížím pacienta znamená tato porucha mnohaletou, někdy celoživotní zátěž, a tím i nezanedbatelnou psychosociální újmu pro postiženého i jeho okolí. Léčbou volby u dystymie v primární péči je podávání SSRI antidepresiv či amisulpridu nebo specifická psychoterapie. Strategie podávání SSRI antidepresiv se neliší od léčby depresivních epizod, pouze délka léčby je vzhledem k chronicitě poruchy mnohaletá až celoživotní. Přestože psychoterapie byla u dystymie dlouho považována za léčebnou možnost, její účinnost byla prokázána pouze u interpersonální psychoterapie a u kognitivně-behaviorální terapie.
+Rozhodnutí o zahájení léčby u dystymického pacienta je individuální a závislé na jeho preferencích.
+7.2.11. LÉČBA ÚZKOSTI A INSOMNIE DOPROVÁZEJÍCÍ DEPRESIVNÍ EPIZODY
+Zhruba 2/3 depresivních nemocných trpí současně úzkostí. Úzkost a nespavost zvyšují utrpení depresivního pacienta a zvyšují riziko sebevraždy. Po podávání některých SSRI se může zpočátku projevit nežádoucí účinek nárůstu úzkosti. SSRI sice mají anxiolytické účinky, ale k těm dochází až po 2–3 týdnech léčby. V případě masivní komorbidní úzkosti je proto vhodná počáteční kombinace SSRI s benzodiazepiny (např. s alprazolamem – až do dávek 4–5 mg/den, klonazepamem – až do dávek 4–6 mg na den). Jejich podávání by mělo být časově omezeno, doporučená doba jsou 4-6 týdnů..
+Výhodnější než kombinace s benzodiazepiny, zejména u pacientů s rizikem vzniku závislosti, může být podání trazodonu nebo mirtazapinu v monoterapii nebo v kombinaci s SSRI. Pokud jde o lehčí formu insomnie, může být dostačující přechodné podávání hypnotik (zopiclon, zolpidem), i samotná léčba depresivní epizody vede do 2–3 týdnů ke zmírnění lehčích spánkových poruch.
+7.2.12. LÉČBA DEPRESIVNÍCH SENIORŮ
+Pro snížení renálních a hepatálních funkcí a časté komorbidity jsou senioři více ohroženi nežádoucími účinky a dalšími farmakologickými interakcemi. Z tohoto důvodu nejsou u seniorů doporučena TCA a jednoznačně jsou upřednostňována antidepresiva ze skupiny SSRI. Léčbu zahajujeme nízkými dávkami, zvyšování dávek má být pozvolnější než u mladších jedinců („start low, go slow“). V případě úporné insomnie lze celkem bezpečně použít mirtazapin nebo trazodon. Množí se informace o efektivitě večerního podávání melatoninu, obvykle po dobu tří měsíců (nutné udržovat stabilní dobu podávání) v kombinaci s antidepresivy, jež není doprovozáneo negativním neuroplastickým vlivem.
+7.2.13. LÉČBA DEPRESIVNÍCH EPIZOD PŘI DEMENCI
+Obecně jsou pacienti s tzv. organickým mozkovým onemocněním léčeni stejným způsobem jako starší pacienti bez organického mozkového onemocnění. Ovšem je nutné se vyhnout lékům se sedativním a/nebo anticholinergním působením, které prohlubují kognitivní deficit a benzodiazepinům. I zde, pro poruchy spánku je možností využít melatoninu.
+7.2.14. 7.2.14 LÉČBA DEPRESIVNÍCH EPIZOD V TĚHOTENSTVÍ A PŘI LAKTACI
+V současné době stále není dostatek informací o vlivu psychofarmak v tomto reprodukčním období. Zejména v prvním trimestru těhotenství jsou upřednostněny psychoterapeutické metody, případně fototerapie, rTMS a doporučení úpravy životního stylu včetně konzumace potravin či látek s vysokým obsahem nenasycených mastných kyselin (NMK). Souborná literatura z posledních let, která se zaměřuje na nežádoucí vlivy AD při léčbě gravidních pacientek, se shoduje v názoru, že většina preparátů nemá nežádoucí účinky pro plod ani pro matku (mezi nimi všechny SSRI s výjimkou fluoxetinu a paroxetinu).
+Do mateřského mléka se dostává okolo 0,3 % celkového množství požitého léku. Rozhodnutí o podávání antidepresiva u těhotných a kojících žen je multidisciplinární otázkou, užitek musí převážit nad možným rizikem poškození plodu nebo dítěte.
+Nejpříznivější poměry má v tomto ohledu sertralin.
+7.2.15. 7.2.15 LÉČBA DEPRESIVNÍCH ŽEN VE FERTILNÍM VĚKU
+Ženy ve fertilním věku je třeba upozornit na možné riziko působení antidepresiva na plod, doporučit účinnou antikoncepci a případně individuálně rozhodnout o další léčbě v případě plánovaného nebo vzniklého těhotenství.
+DEPRESE - NOVELIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 15
+ 
+ 16
+DEPRESE - NOVELIZACE 2023
+7.2.16. 7.2.16 SCHOPNOST ŘÍZENÍ MOTOROVÝCH VOZIDEL PŘI LÉČBĚ ANTIDEPRESIVY
+Možnost řízení motorových vozidel při léčbě AD není absolutně kontraindikována. TCA prodlužují reakční dobu mnohem výrazněji než SSRI. Citlivost je individuální a je třeba opatrnosti, zejména v začátku léčby a při zvyšování dávek. Na druhou stranu, sama neléčená depresivní epizoda je doprovázena kognitivním postižením a vhodně indikovaná léčba jej odstraňuje.
+8. POSUDKOVÁ HLEDISKA
+Potřeba vystavení pracovní neschopnosti (PN) u lehké a středně těžké depresivní epizody je individuální, obvykle trvá po dobu akutní etapy léčby. U těžších stupňů depresivních epizod je PN nevyhnutelná. Chronická depresivní porucha patří mezi časté příčiny trvalé invalidity.
+9. LITERATURA
+1. Raboch, J. et al, Psychiatrie. Doporučené postupy psychiatrické péče IV. Česká psychiatrická společnost, Praha 2014.
+2. Raboch J., Pavlovský P. et al. Psychiatrie. Karolinum, Praha 2012.
+3. Laňková, J., Raboch , J. Deprese. Doporučené diagnostické a léčebné postupy pro praktické lékaře. CDP-PL
+2008,2013.
+4. Raboch, J. Životní styl a afektivní poruchy. ČLS 156, 2017, 2, s. 74–80.
+5. Depression in adults: recognition and management. www.nice.org.uk/guidance/eg90/chapter/1-guidance.
+6. Wirz-Justice, A., Benedetti, F., Terman, M. Chronotherapeutics for affective disorders. Karger, Basel 2009.
+7. Hales, R.E., Yudofsky, S.C., Roberts, L.W. Textbook of psychiatry. APP, Washington 2014.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+PŘÍLOHA Č. 1: POSUZOVACÍ STUPNICE TÍŽE DEPRESE PHQ-9
+(modifikovaná verze diagnostického nástroje pro diagnostiku běžných psychických onemocnění v primární péči PRIME-MD)
+DEPRESE - NOVELIZACE 2023
+  Objevují se u Vás během posledních 2 týdnů následující obtíže?
+   Vůbec ne
+ Několikrát
+   Více času než polovina
+  Téměř pořád, téměř každý den
+   1. Smutná nebo pokleslá nálada nebo pocity beznaděje? 0
+4. Únava nebo nedostatek energie? 0
+5. Nechuť k jídlu, nebo naopak sklon k přejídání? 0
+6. Pocity vlastní nedostatečnosti nebo selhání, viny?
+1 2 3
+1 2 3
+1 2 3
+0 1 2 3
+  2. Malá nebo žádná radost; malé nebo žádné potěšení z práce, koníčků, věcí?
+ 0
+ 1
+ 2
+  3
+  3. Špatný spánek, problémy s usínáním, buzení se, nebo naopak nadměrné spaní?
+  0
+  1
+  2
+   3
+     7. Potíže soustředit se - např. při studiu, problém číst noviny, knížku, sledovat pořad v televizi?
+ 0
+ 1
+ 2
+  3
+  8. Pomalé myšlení, mluvení nebo pohybování, nebo naopak nervozita a neschopnost vydržet chvíli v klidu?
+ 0
+ 1
+ 2
+  3
+  9. Myšlenky na to, že by bylo lepší vůbec nebýt, nebo si dokonce vzít život?
+ 0
+ 1
+ 2
+  3
+ Bodové skóre:
+        Hodnocení tíže deprese podle bodového skóre: 0–4: stav bez přítomnosti poruchy nálady 5–9: mírná depresivní epizoda (F320)
+10–14: středně těžká depresivní epizoda (F321) 15–19: těžká depresivní epizoda (F322)
+20–27: velmi těžká depresivní epizoda (F322)
+   DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 17
+ 
+        Počáteční dávka mg/den
+Obvyklá terapeutická dávka (mg/ den)
+t1/2
+Ovlivnění 5-HT/NA/DA
+         imipramin
+3x 25
+75-300
+4-18
++++/++/0
+          amitriptylin
+dosulepin
+dibenzepin
+2x25 nebo 50mg na noc
+75
+50-300
+9-46
+14-40
+++++/++++/0+
+    nortriptylin
+2x25
+75-150
+18-96
+++/+++/0
+    50-150
++/+/+
+    klomipramin
+1x25-100
+25-250
+19-37
++++/+/0
+    3x80
+80-560
+4-12
++/++++/0
+    maprotilin
+3x25
+25-225
+12-108
+0/++++/0
+        fluvoxamin
+1x50
+50-300
+16
+++++/0/0+
+    citalopram
+1x20
+20-60
+35
+++++/0/0
+    escitalopram
+sertralin
+venlafaxin
+1x10
+10-20mg
+27-32
+++++/0/0
+    fluoxetin
+1x20
+20-80
+48-72
+++++/0/0+
+    1x50 ráno
+50-200
+26
+++++/0/+
+    paroxetin
+1x12,5
+12,5-62,5
+21
+++++/0+/0+
+        trazodon
+  moclobemid
+ tianeptin
+3x50
+150-600
+3-7
+++/0/0
+         300
+150-600
+1-2
+cytoplazmatické zvýšení koncentrace monoaminů
+       3x12,5
+37,5
+++++/0/+
+        1x75
+75-225
+3-7
+++++/+++/0+
+    milnacipran
+2x25
+do 400
+8-10
++++/+++/0
+        mirtazapin
+1x15 na noc
+15-45
+20-40
++++/++/0
+    mianserin
+1x30-40
+30-90
+0/0/+
+        bupropion
+  agomelatin
+2x100
+200-450
+14
+0+/+/++
+         25 ve večerních hodinách
+25-50
+1-2
+antagonista 5-HTC2C bez vlivu na koncentraci serotoninu/0/0
+           vortioxetin
+10mg - 5mg u starších 65 let
+10-20
+66
+Inhibitor zpětného vychytávání serotoninu; antagonista 5-HT3, 5-HT7 a 5-HT1D, parciální agonista receptoru 5-HT1B, agonista receptoru 5-HT1A
+              
+účinky závažné intenzity
+  18
+DEPRESE - NOVELIZACE 2023
+RUI (TCA, TeCA)
+SSRI
+SARI RIMA
+SRE SNRI
+NaSSA
+DNRI MASSA
+Multimodální
+  účinky žádné nebo pouze minimální intenzity
+  účinky mírné intenzity
+   účinky střední intenzity
+                   DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+                        
+  DEPRESE - NOVELIZACE 2023
+              Anticho- linergní působení
+Kardio- vaskulární nežádoucí účinky
+Nauzea
+Sedace
+Riziko při předávkování
+Prokonvulzivní působení
+Indukce sexuálních dysfunkcí
+Nutnost úpravy dávky ve stáří
+                                    
+      ano       ano
+                     ano
+                
+              
+               
+      ano
+       ano
+      ano
+                         ano
+              
+           
+          
+          
+          
+          
+            
+    ano
+     ne
+     ano
+     ano
+     ne
+      ano
+     ano
+                      ?   ne
+               ano
+                  ne
+              ne
+                 ne
+               
+                 ano
+              ne
+               ano
+RUI – inhibitory zpětného vychytávání, SSRI – selektivní inhibitory zpětného vychytávání serotoninu, SARI – serotoninoví antagonisté a inhibitory zpětného vychytávání, SNRI - inhibitory zpětného vychytávání serotoninu a noradrenalinu, NaSSA - noradrenergní a specificky serotonergní antidepresiva, DNRI - inhibitory zpětného vychytávání dopaminu a noradrenalinu, RIMA – reverzibilní inhibitory monoaminoxidázy typu A, SRE - stimulanty zpětného vychytávání serotoninu (serotonin reuptake enhancer), MASSA- melatoninergní a specificky serotoninergní antidepresiva
+                                                DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+19
+
+DEPRESE - NOVELIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+20
+   
+DEPRESE - NOVELIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+21
+   
+  Společnost všeobecného lékařství ČLS JEP Centrum doporučených postupů pro praktické lékaře Sokolská 31, 120 00 Praha 2
+e–mail: svl@cls.cz http://www.svl.cz
+ISBN 978-80-88280-43-9
+ ISBN 978-80-88280-43-9
+© 2023, Společnost všeobecného lékařství ČLS JEP
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
