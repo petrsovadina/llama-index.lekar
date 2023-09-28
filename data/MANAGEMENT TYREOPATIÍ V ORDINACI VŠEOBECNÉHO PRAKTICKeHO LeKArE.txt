@@ -1,0 +1,481 @@
+  Doporučené diagnostické a terapeutické postupy pro všeobecné praktické lékaře
+MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PRAKTICKÉHO LÉKAŘE
+Autoři:
+doc. MUDr. Jan Jiskra, Ph.D.
+Česká endokrinologická společnost ČLS JEP
+MUDR. Dana Moravčíková
+Společnost všeobecného lékařství ČLS JEP
+MUDr. Igor Karen
+Společnost všeobecného lékařství ČLS JEP
+prof. MUDr. Michal Kršek, CSc.
+Česká endokrinologická společnost ČLS JEP
+  NOVELIZACE 2023
+Centrum doporučených postupů pro praktické lékaře
+Společnost všeobecného lékařství ČLS JEP, Sokolská 31, Praha 2
+ 
+Tisk podpořen firmou
+ 
+ MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+ MANAGEMENT TYREOPATIÍ
+V ORDINACI VŠEOBECNÉHO
+PRAKTICKÉHO LÉKAŘE
+Doporučený diagnostický a terapeutický postup pro všeobecné praktické lékaře 2023
+Autoři:
+doc. MUDr. Jan Jiskra, Ph.D.
+Česká endokrinologická společnost ČLS JEP
+MUDR. Dana Moravčíková
+Společnost všeobecného lékařství ČLS JEP
+MUDr. Igor Karen
+Společnost všeobecného lékařství ČLS JEP
+prof. MUDr. Michal Kršek, CSc.
+Česká endokrinologická společnost ČLS JEP
+Oponenti:
+doc. MUDr. Zdeňka Límanová, CSc.
+Česká endokrinologická společnost ČLS JEP
+Koordinátorka doporučeného postupu: MUDr. Dana Moravčíková
+Společnost všeobecného lékařství ČLS JEP
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 1
+ 
+  2
+MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+ OBSAH
+1. Epidemiologie, kompetence. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. Diagnostika tyreoidální dysfunkce . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3. Vyšetření příčiny tyreoidální dysfunkce . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4. Léčba hypotyreózy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5. Hypertyreóza, nežádoucí účinky tyreostatik. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6. Tyreoiditidy...................................................................
+7. Funkční tyreopatie v graviditě . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8. Tyreoidální uzly a struma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9. Screening tyreopatií . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10. Štítná žláza ve stáří . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11. Literatura.....................................................................
+12. Tabulky......................................................................
+.... 3 .... 3 .... 4 .... 4 .... 4 .... 5 .... 5 .... 5 .... 6 .... 7 .... 7 .... 8
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+ MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+ Nový doporučený postup „Management tyreopatií v ordinaci všeobecného praktického lékaře“ není úplné novum, ale jde o aktualizovanou a zjednodušenou verzi doporučeného postupu „Diagnostika a léčba tyreopatií“, vydaného Společností všeobecného lékařství ČLS JEP v Novelizaci 2015 (DP Štítná žláza.indd (svl.cz)). Současná verze se více věnuje těm tyreopatiím, jejichž management je v kompetenci všeobecných praktických lékařů, a také se převážně zabývá diagnostikou a léčbou. Důvodem k revizi původního textu a doplnění nových tabulek, které nahradily původní schémata, byla snaha vytvořit jednoduchý a přehledný doporučený postup, který se stane užitečným pomocníkem všeobecného praktického lékaře při každodenní práci v ordinaci.
+1. EPIDEMIOLOGIE, KOMPETENCE
+Tyreopatie jsou častým onemocněním a postihují 5–15 % populace. V souvislosti se širokou dostupností laboratorních tyreoidálních testů a zobrazovacích metod v oblasti krku se zvyšuje často náhodný záchyt mírných, většinou subklinických forem, nebo jen přechodných laboratorních odchylek, které často nevyžadují specializovanou péči a jejich management je v kompetenci všeobecného praktického lékaře (VPL). Základní kompetence VPL v managementu tyreopatií je v Tabulce 1.
+2. DIAGNOSTIKA TYREOIDÁLNÍ DYSFUNKCE
+Klinické příznaky hypo- a hypertyreózy jsou v Tabulce 2. Tyto příznaky jsou však málo specifické i málo senzitivní, proto musí být diagnóza potvrzena laboratorním vyšetřením. Základními testy jsou TSH (tyreoidální stimulační hormon), FT4 (volný tyroxin) a TPOAb (protilátky proti tyreoidální peroxidáze), při podezření na hypertyreózu často i FT3 (volný trijódtyronin). Definice primárních (periferních) funkčních tyreopatií na základě laboratorních testů jsou uvedeny v Tabulce 3. Základní doporučené postupy pro diagnostiku primárních funkčních tyreopatií VPL jsou uvedeny v Tabulkách 4, 5, 6 a 7. Při interpretaci laboratorních nálezů je třeba mít na paměti, že referenční meze se liší podle metody příslušné laboratoře, jsou odlišné v graviditě (viz Kapitola 7) a horní hranice pro TSH stoupá s věkem (od 40 let o cca 0,3 mU/L každých 10 let). Dále je třeba vědět, že mírné přechodné snížení a zvýšení TSH s normálními ostatními laboratorními parametry může být nespecifické (způsobené netyreoidálními vlivy – Tabulka 8), neznamená automaticky tyreoidální dysfunkci, a většinou nevyžaduje žádnou specifickou terapii, pouze kontrolu s časovým odstupem 3–6 měsíců.
+Při indikaci a interpretaci laboratorních testů je vhodné rozlišovat dvě základních situace:
+A) Jsou přítomné typické klinické příznaky hypo- nebo hyperfunkce
+V těchto případech vyšetřujeme najednou TSH a FT4 (u hypotyreózy) a TSH, FT4 a FT3 (u hypertyreózy) (Tabulka 4). U rozvinuté hypotyreózy je TSH zvýšený a FT4 snížený. U rozvinuté hypertyreózy je TSH snížený a FT4 a/nebo FT3 zvýšený. Při potvrzené rozvinuté hypertyreóze by měl být případ co nejdříve vyšetřen/konzultován endokrinologem, který určí další postup.
+B) Nejsou přítomné typické příznaky nebo je pacient asymptomatický
+V těchto případech stačí jako screeningový test k vyloučení primární (periferní) tyreoidální dysfunkce TSH (Tabulka 5).
+Pokud je TSH normální, je aktuální primární (periferní) funkční tyreopatie vyloučena
+a další vyšetření není potřeba.
+Je-li TSH snížený, doplní se FT4 a FT3 (optimálně ze vzorku uchovaného v laboratoři), a jsou-li normální, opakuje se TSH, FT4 a FT3 2x v odstupu 3 měsíců. Nedošlo-li k normalizaci a TSH je opakovaně (při kontrole za 3 a 6 měsíců) snížený a FT4 a FT3 normální, může jít o subklinickou hypertyreózu a pacient by měl být odeslán/konzultován na endokrinologii stejně jako při progresi do manifestní hypertyreózy (Tabulka 6). Suprese TSH při normálním FT4 a FT3 je také fyziologická v prvním trimestru gravidity, může jít o důsledek léčby tyreoidálními hormony nebo doznívání hypertyreózy při tyreostatické léčbě. Snížený TSH a snížený FT4 bývá u vzácné sekundární (centrální) hypotyreózy.
+Je-li TSH zvýšený a nejde o gravidní ženu, kdy je postup odlišný (měl by se co nejdříve konzultovat endokrinolog a zahájit terapie levotyroxinem), doplní se FT4 a TPOAb (optimálně ze vzorku uchovaného v laboratoři). Je-li FT4 normální (bez ohledu na výsledek TPOAb), opakuje se TSH a FT4 2x v odstupu 3 měsíců. Nedojde-li k normalizaci a TSH je opakovaně (při kontrole za 3 a 6 měsíců) zvýšený a FT4 normální, může jít o subklinickou hypotyreózu, event. může mít mírná elevace TSH i netyreoidální příčinu [v těchto případech bývají negativní TPOAb a normální nález na ultrazvuku štítné žlázy (UZ)] (Tabulka 7). U subklinické hypotyreózy obvykle zahajujeme léčbu levotyroxinem(LT4) při TSH >10 mU/L nebo ji zvažujeme v případech podle Tabulky 9. Je-li při kontrole zvýšený TSH a současně došlo k progresi do hypotyroxinémie (snížený FT4), jde o manifestní hypotyreózu a zahajuje se léčba LT4.
+  DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 3
+ 
+  4
+MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+ Případy, kdy je opakovaně (při kontrole za 3 a 6 měsíců) zvýšený FT4 při nesuprimovaném TSH (TSH je normální nebo dokonce zvýšený), je třeba odeslat k vyšetření na endokrinologii. Může jít o sekundární (centrální) hypertyreózu, genetické příčiny (rezistence na tyreoidální hormony, familiární dysalbuminemická hypertyroxinémie), interferující protilátky či sníženou adherenci (malcompliance) k substituční léčbě LT4.
+Pokud nejsou jasné klinické příznaky tyreoidální dysfunkce, není vhodné vyšetřovat tyreoidální testy v době probíhajícího akutního onemocnění a v období rekonvalescence (cca 2 měsíce po odeznění příznaků), protože výsledky jsou často zkreslené základní netyreoidální chorobou (Tabulka 8). Jde o tzv. „syndrom netyreoidálního onemocnění či syndrom nízkého T3“, který neznamená poruchu štítné žlázy a nevyžaduje specifickou tyreoidální léčbu. V krvi bývá zpočátku snížený FT3 (TT3), později i FT4 a TSH může být snížený a pozdějších fázích i mírně zvýšený, stejně jako FT4. TSH také není vhodné vyšetřovat po dobu 1 měsíce po podání jodové RTG kontrastní látky, kdy může být přechodně snížený.
+Poznámky k tyreoidální laboratorní diagnostice jsou v tabulce 10.
+3. VYŠETŘENÍ PŘÍČINY TYREOIDÁLNÍ DYSFUNKCE
+Po stanovení diagnózy tyreoidální dysfunkce je nutné objasnění příčiny.
+U hypotyreózy svědčí pozitivní TPOAb pro autoimunitní tyreoiditidu. Pokud jsou TPOAb negativní, doplní se UZ štítné žlázy a krku (u 10–15 % případů autoimunitní tyreoiditidy mohou být protilátky negativní a diagnostický je právě nález na ultrazvuku), event. protilátky proti tyreoglobulinu (TgAb). Jsou-li negativní TPOAb, TgAb i UZ, je nutno zvažovat méně obvyklé příčiny hypotyreózy (Tabulka 11). UZ se také provádí, pokud je palpační nález na krku (uzel nebo uzly, struma, event. hmatná štítná žláza), nebo má pacient lokální příznaky (tlaky, bolest či diskomfort na krku, dysfagie, chrapot).
+Diferenciální diagnostika příčin hypertyreózy patří do kompetencí endokrinologa. Kromě TPOAb se vyšetřují protilátky proti TSH receptoru (TRAK), provádí se UZ a někdy scintigrafie štítné žlázy.
+4. LÉČBA HYPOTYREÓZY
+K substituční léčbě levotyroxinem (LT4) je vždy indikována manifestní hypotyreóza a v některých případech i subklinická hypotyreóza (Tabulka 9).
+Denní potřeba LT4 je individuální. Orientační denní dávka je 1,6 μg LT4 na 1 kg tělesné hmotnosti při naprostém chybění funkční tyreoidální tkáně, ale u subklinické hypotyreózy jsou dávky menší a v některých případech manifestní hypotyreózy i vyšší. V úvahu vždy bereme, zda jde o rozvinutou či subklinickou hypotyreózu, zda jde o hypotyreózu v graviditě (léčba se vždy zahajuje plnou dávkou), délku trvání choroby, komorbidity pacienta (zejména kardiovaskulární) a jeho celkový stav. Dávku stanovujeme individuálně pro každého pacienta s využitím všech možností, které jednotlivé přípravky umožňují. U pacientů po totální tyreoidektomii a v graviditě zahajujeme substituci vždy plnou dávkou určenou orientačně podle hmotnosti. V ostatních případech dávku více či méně titrujeme. U starších polymorbidních osob s kardiovaskulárním rizikem zahajujeme léčbu menší dávkou (12,5–25 μg denně) a zvyšujeme pomalu a postupně (cca o 25 μg za 4–6 týdnů), zatímco u zdravých mladých osob můžeme zahájit dávkou vyšší (50–75 μg) a zvyšovat rychleji (cca o 50 μg za 2–4 týdny). LT4 se užívá nalačno, 30–60 minut před jídlem a ostatními léky, a zapíjí se výhradně čistou vodou (ne čajem ani kávou). Výjimečně jej lze užívat i na noc 3–4 hodiny po posledním jídle. K rutinní monitoraci substituce primární (periferní) hypotyreózy slouží TSH. FT4 se vyšetřuje pouze u pacientů na supresní léčbě pro diferencovaný karcinom štítné žlázy a u pacientů na substituci pro sekundární (centrální) hypotyreózu, kde naopak nemá význam vyšetřovat TSH. Kontroly TSH a klinického stavu provádíme 6–8 týdnů po zahájení terapie, pak 1x za 2–3 měsíce do stabilizace dávky a stavu a pak 1x za 6–12 měsíců. Cílové hodnoty TSH jsou referenční meze příslušné laboratorní metody. Výjimkou je léčba hypotyreózy v graviditě a u pacientů s tyreoidálními uzly, kdy je cílový TSH v pásmu 0,5–2,5 mU/L. V současnosti jsou na trhu přípravky s dávkami LT4 od 13 do 200 μg a ve většině případů je možné zachovat stejnou denní dávku. Na trhu jsou i přípravky s LT4 ve formě gelových kapslí, které – jak ukázaly klinické studie – lze využít zejména v případech, kdy je obtížné běžnými dávkami dosáhnout cílových hodnot TSH a/nebo je podezření na poruchu sekrece žaludeční kyseliny, malabsorpci, či potravinové alergie.
+5. HYPERTYREÓZA, NEŽÁDOUCÍ ÚČINKY TYREOSTATIK
+Pacienty s manifestní a perzistující subklinickou hypertyreózou by měl VPL odeslat na endokrinologii. V případě potřeby může VPL léčbu hypertyreózy zahájit, vždy však na základě doporučení endokrinologa po předchozí konzultaci. VPL by měl být informován o nežádoucích účincích tyreostatik. Relativně časté (10–15 %) jsou kožní exantém a gastrointestinální intolerance, které nejsou závažné a nevedou obvykle k přerušení léčby. Kožní exantém obvykle během několika dnů sám ustoupí, nebo se podávají protialergické léky (antihistaminika, event. malá dávka prednisonu). Závažné nežádoucí účinky (agranulocytóza, hepatopatie a vaskulitida) jsou sice
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+ MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+ relativně vzácné (< 0,5 % pacientů), jsou však vždy důvodem k přerušení terapie. Záměna jednotlivých tyreostatik se zejména u závažných nežádoucích účinků nedoporučuje, protože riziko zkřížené reakce je poměrně velké. Závažné nežádoucí účinky se obvykle rozvíjejí během prvních 3 měsíců a jsou častější při vyšších dávkách (methimazolu > 10 mg denně). Před zahájením tyreostatik je proto nutné vyšetřit krevní obraz a jaterní testy. Další monitorace krevního obrazu a JT není pro časný záchyt toxicity dostatečně efektivní, je ale nutné o projevech nežádoucích účinků pacienty adekvátně poučit (Informace pro pacienty léčené tyreostatiky - endokrinologie.cz).
+6. TYREOIDITIDY
+Jde o skupinu onemocnění štítné žlázy s různou etiologií, průběhem, důsledky i způsobem léčby. Jejich přehled je v tabulce 12. VPL může diagnostikovat a léčit pacienty s autoimunitní tyreoiditidou, která vede k hypotyreóze, a diagnostikovat a sledovat pacienty s eufunkční autoimunitní tyreoiditidou (pozitivní protilátky TPOAb a/nebo TgAb a/nebo typický nález na UZ). Progrese eufunkční autoimunitní tyreoiditidy do hypotyreózy není vzácná (cca 10 % případů ročně). Pacienti s ostatními tyreoiditidami by měly být odeslání/konzultováni na endokrinologii.
+7. FUNKČNÍ TYREOPATIE V GRAVIDITĚ
+Všechny ženy ve fertilním věku by měly být svým ošetřujícím/dispenzarizujícím lékařem (endokrinolog, gynekolog, všeobecný praktický lékař) poučeny o nutnosti suplementace jódem v těhotenství a během kojení. Výjimkou jsou pacientky s nevyřešenou hypertyreózou, u kterých se suplementace jódem nepodává. Doporučená denní dávka je 150–200 μg elementárního jodu nad rámec běžného příjmu v potravě. Je možné užívat „těhotenské vitaminy“ s obsahem jódu 150–200 μg (1 tableta denně), nebo tablety s obsahem jódu 100 μg (1–2 denně), nebo minerální vodu Vincentku (vypít 20 ml denně).
+Ženy se substituovanou hypotyreózou vyžadují od 4.–6. týdne zvýšení substituční dávky levotyroxinu o 30–50 %, někdy i více. V praxi se doporučuje zvýšit dva dny v týdnu obvyklou dávku na dvojnásobek. Následně se dávky upravují podle vyšetření TSH, která se provádějí 1x za 4 týdny do 20. týdne gravidity, a 1–2 týdny po porodu se ženy vrací k dávce jako před těhotenstvím. Kontroly krve na TSH jsou nutné po šestinedělí, 3–6 měsíců po porodu a 1 rok po porodu. Je-li stav stabilizovaný, stačí další kontroly 1x ročně. Těhotné ženy s již známou stabilizovanou hypotyreózou na substituci, které byly před graviditou výhradně v péči praktického lékaře, by měl v graviditě a cca 6 měsíců po porodu (případně v komplikovaných případech i déle) převzít do péče endokrinolog (spíše výjimečně mohou za předpokladu úzké spolupráce s endokrinologem zůstat v péči VPL).
+Pokud VPL diagnostikuje v těhotenství hypotyreózu nově, zahájí co nejdříve substituci LT4. Jde-li o plně rozvinutou hypotyreózu (elevace TSH a pokles FT4) zahajuje se substituce v plné dávce 1,5–2,3 μg/kg tělesné hmotnosti dle stupně hypotyreózy, jde-li o subklinickou hypotyreózu dávkou 1,0–1,5 μg/kg tělesné hmotnosti, obojí dle stupně hypotyreózy. Následně gravidní ženy s hypotyreózou obvykle přebírá do péče endokrinolog.
+Léčbu žen s prokázanou hypertyreózou v graviditě zajišťuje výhradně endokrinolog. Odlišit je třeba fyziologickou supresi TSH v prvním trimestru vlivem choriového gonadotropinu (hCG), tzv. „tranzientní gestační hypertyreózu“, která se neléčí (diferenciální diagnostiku zajišťuje endokrinolog).
+Ženy s pozitivními TPOAb mají zvýšené riziko poporodní tyreoiditidy. Ta se projeví obvykle 1–3 měsíce po porodu, výjimečně i později, a manifestuje se jako tyreoidální hyperfunkce, následovaná fází hypotyreózy. Konečnou fází je buď úprava ad integrum, nebo trvalá hypotyreóza s nutností substituce. Někdy si fáze hyperfunkce vyžádá přechodnou terapii betablokátory, lehčí případy žádnou terapii nevyžadují. Od poporodní tyreoiditidy je třeba odlišit relaps Gravesovy-Basedowovy choroby po porodu. Obě nemoci spadají do kompetence endokrinologa.
+8. TYREOIDÁLNÍ UZLY A STRUMA
+Struma znamená jakékoliv zvětšení štítné žlázy nad horní limit velikosti (dle WHO 18 ml u žen a 22 ml u mužů). Difuzní eufunkční struma z nedostatku jódu je dnes již vzácná, častěji se může vyskytnout u dětí a adolescentů nebo u těhotných žen. Léčí se suplementací jódem (viz kapitola 7). Difuzní struma je součástí klinického obrazu hypertyreózy (tyreotoxikózy) při Gravesově-Basedowově nemoci, jejíž management je v kompetenci endokrinologů.
+Častější než struma jsou dnes uzly v nezvětšené štítné žláze. Kompetence VPL v diagnostice a dispenzarizaci tyreoidálních uzlů jsou v tabulce 1. Tyreoidálním uzlem se rozumí jakékoliv ložisko ve štítné žláze bez ohledu na jeho biologickou povahu či etiologii. Uzly mohou být solitární, často jsou ale mnohočetné, a je-li současně štítná žláza zvětšená, hovoříme o polynodózní strumě. Každý uzel ≥ 5 mm zachycený palpačně nebo zobrazovací metodou má být vyšetřen ultrazvukem. Hmatný rychle rostoucí uzel v oblasti krku či rychle rostoucí struma by měly být co nejdříve vyšetřeny UZ. Naopak asymptomatické náhodně zachycené uzly < 5 mm bez dalších rizikových faktorů u dospělých žádná další vyšetření ani dispenzarizaci nevyžadují.
+Ultrazvuk štítné žlázy
+  DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 5
+ 
+  6
+MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+ Ultrazvuk štítné žlázy (UZ) provádí endokrinolog nebo radiolog. V případě, že je u pacienta plánováno vyšetření endokrinologem, je zbytečné, aby se před tím prováděl UZ i na radiologii. UZ radiologem indikuje VPL v případech, kdy diagnostiku a léčbu řídí sám (bez endokrinologického vyšetření), nebo jde o urgentní situaci (rychle rostoucí nebo bolestivý útvar na krku, floridní hypertyreóza apod.) a endokrinologické vyšetření nebo konzultace nejsou dostupné v přijatelném časovém horizontu.
+Kromě popisu velikosti uzlu/uzlů má součástí UZ být i zhodnocení rizika malignity podle některého z klasifikačních systémů: EU-TIRADS (European Thyroid Association TIRADS | Radiology Reference Article | Radiopaedia.org), American Thyroid Association (ATA Guidelines & Statements (thyroid.org)), ČES ČLS JEP (Doporučení pro tyreoidální uzly - endokrinologie.cz), ACR-TIRADS TI-RADS | American College of Radiology (acr.org)) a doporučení ke zvážení aspirační biopsie tenkou jehlou (FNAB) cytologickým vyšetřením. Bez toho není UZ vyšetření provedeno lege artis a odesílající lékař by měl tyto informace požadovat.
+Aspirační biopsie tenkou jehlou (FNAB – fine needle aspiration biopsy)
+U nás FNAB provádí většinou endokrinolog, někdy radiolog, a má být provedena u všech uzlů, které splní kritéria podle některého z klasifikačních systémů (viz výše) a doporučení k FNAB by primárně měl dát vyšetřující sonografista. FNAB může být zvážena i u uzlů, které kritéria nesplní, ale vyskytují se u rizikových pacientů (Tabulka 13).
+Z hlediska rizika krvácení je FNAB považována na nízkorizikový výkon a může být provedena i u pacientů, kteří mají oprávněnou indikaci k antiagregační nebo antikoagulační léčbě. U pacientů na LMWH/nových perorálních antikoagulanciích se v den FNAB doporučuje aplikovat injekci/užít tabletu až po FNAB, u pacientů na warfarinu má být INR v pásmu 2–2,5. Antiagregancia u rizikových pacientů (zejména s koronárními stenty) nevysazujeme, protože rizika trombózy převyšují rizika krvácení. Po dobu duální antiagregační léčby primárně doporučujeme FNAB odložit. V případě nejasností je vhodné konzultovat pracoviště, které bude FNAB provádět, a případně i pracoviště, které antikoagulační/duální antiagregační terapii indikovalo.
+Management pacientů s tyreoidálními uzly
+Strategie péče o pacienty s tyreoidálními uzly je cílená především na včasný záchyt malignity. Základní schéma diagnostického postupu a dispenzarizace u pacienta s tyreoidálním uzlem/uzly je v Tabulce 14. Vyšetření zahrnuje zejména palpační vyšetření krku (štítná žláza a lymfatické uzliny), TSH v krvi a UZ štítné žlázy. Poté je rozhodnuto, zda má být provedena FNAB. FNAB je indikována u uzlů, které splňují UZ kritéria podle některého z klasifikačních systémů (doporučení má dát vyšetřující sonografista) a někdy i uzlů které sice kritéria nesplňují, ale vyskytují se u rizikových pacientů (Tabulka 13). Další postup závisí na výsledku FNAB, který spadá do jedné z kategorií tzv. Bethesda klasifikace (Tabulka 15). V praxi většinu pacientů s tyreoidálními uzly sledujeme klinicky a UZ. Pro praxi je důležité, aby kontrolní UZ prováděl pokud možno stejný vyšetřující, aby se eliminovala interpersonální variabilita měření. Uzly s nízkým rizikem, které nevyžadují FNAB, nebo s benigním výsledkem FNAB (Bethesda II), může dispenzarizovat VPL.
+V minulosti široce užívaná supresní a euthyroxinemická léčba se dnes u benigních tyreoidálních uzlů nedoporučuje. V případě subklinické či manifestní hypotyreózy postupujeme standardním způsobem a substituujeme levotyroxinem (Tabulka 9).
+9. SCREENINGTYREOPATIÍ
+Plošný pravidelný screening funkčních tyreopatií pomocí laboratorních testů (TSH) součástí preventivních prohlídek u VPL není. Doporučuje se však v rámci preventivních prohlídek provádět palpační vyšetření krku a zvažovat vyšetření TSH u rizikových pacientů (tabulka 16), zejména u diabetiků 1. typu. Pravidelný plošný screening tyreopatií se u diabetiků 2. typu nedoporučuje, pouze při klinickém podezření (důvodem může být i špatná kompenzace diabetu). Naopak vyšetřit TSH v krvi a substituovat případnou hypotyreózu (i subklinickou) je nutné u pacientů s dyslipidemií před zahájením farmakologické hypolipidemické léčby (zejména statiny).
+UZ screening s cílem odhalit klinicky němý karcinom štítné žlázy se doporučuje u pacientů po předchozím terapeutickém zevním ozáření krku a horní poloviny těla 1x za 1–2 roky, v ostatních případech (včetně autoimunitní tyreoiditidy) se UZ screening nedoporučuje. Screening funkčních tyreopatií pomocí TSH je doporučen co nejdříve u rizikových žen v graviditě (Tabulky 17). Vyšetření TSH je sice součástí vyšetření obézního pacienta, nicméně je třeba mít na paměti, že mírné zvýšení TSH s normálními ostatními parametry (FT4 a TPOAb) je u obezity většinou netyreoidální etiologie (vliv leptinu a dalších hormonů tukové tkáně na citlivost zpětné vazby v hypotalamu) a často nevyžaduje substituční terapii.
+      DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+ MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+10. ŠTÍTNÁ ŽLÁZA VE STÁŘÍ
+Ve stáří přibývá tyreoidálních uzlů a na UZ může být parenchym štítné žlázy více nehomogenní a někdy i lehce hypoechogenní. U starších osob jsou také častější pozitivní TPOAb, které ale u eutyroidního pacienta s normálními ostatními tyreoidálními parametry nevyžadují léčbu, pouze sledování stran možné progrese do hypotyreózy. TSH stoupá s věkem a horní hranice referenčního rozmezí stoupá od 40 let každých 10 let o cca 0,3 mU/L. Kromě toho může být hodnota TSH a dalších tyreoidálních parametrů ovlivněna i některými léky, které starší osoby často užívají. U starších osob častěji ponecháváme subklinickou hypotyreózu bez léčby (lze tolerovat hodnoty TSH až do 10 mU/L) a naopak častěji přistupujeme k léčbě subklinické hypertyreózy, jejíž kardiovaskulární a kostní rizika jsou zejména ve stáří vyšší. S věkem také klesá potřeba tyreoidálních hormonů u pacientů s hypotyreózou na substituci a dávky by se podle toho měly upravit.
+11. LITERATURA
+1. Biondi B, Bartalena L, Cooper DS, Hegedüs L, Laurberg P, Kahaly GJ. The 2015 European Thyroid Association Guidelines on Diagnosis and Treatment of Endogenous Subclinical Hyperthyroidism. Eur Thyroid J. 2015 Sep;4(3):149–63.
+2. Boucai L, Hollowell JG, Surks MI. An approach for development of age-, gender-, and ethnicity-specific thyrotropin reference limits. Thyroid 2011, 21: 5–11.
+3. De Groot L, Abalovich M, Alexander EK, Amino N, Barbour L, Cobin RH, Eastman CJ, Lazarus JH, Luton D, Mandel SJ, Mestman J, Rovet J, Sullivan S. Management of thyroid dysfunction during pregnancy and postpartum: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab 2012, 97: 2543–65.
+4. Ferraz C, Eszlinger M, Paschke R. Current state and future perspective of molecular diagnosis of fine-needle aspiration biopsy of thyroid nodules. J Clin Endocrinol Metab 2011, 96: 2016–26.
+5. Garber JR, Cobin RH, Gharib H, Hennessey JV, Klein I, Mechanick JI, Pessah-Pollack R, Singer PA, Woeber KA. American Association Of Clinical Endocrinologists And American Thyroid Association Taskforce On Hypothyroidism In Adults. Clinical practice guidelines for hypothyroidism in adults: cosponsored by the American Association of Clinical Endocrinologists and the American Thyroid Association. Thyroid 2012, 22: 1200–35.
+6. Haugen BR, Alexander EK, Bible KC, Doherty GM, Mandel SJ, Nikiforov YE, Pacini F, Randolph GW, Sawka AM, Schlumberger M, Schuff KG, Sherman SI, Sosa JA, Steward DL, Tuttle RM, Wartofsky L. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid 2016, 26: 1–133.
+7. Jiskra J, Límanová Z. Doporučení pro prevenci, časný záchyt a léčbu tyreopatií v těhotenství, doporučený postup České endokrinologické společnosti ČLS JEP, 2018, doporuceni-pro-prevenci-endokrinologove-nahled.pdf (windows.net)
+8. Jiskra J. Diagnostika a další péče o pacienty s tyreoidálními uzly: doporučení American Thyroid Association 2015 modifikované pro podmínky České republiky, doporučený postup České endokrinologické společnosti ČLS JEP, 2016, 2016-11-doporuceni-pro-tyreoidalni-uzly-final-sloucene. pdf (windows.net)
+9. Jiskra J. Incidentalomy štítné žlázy. Vnitr Lek 2022, 68: 465–474.
+10. Jiskra J: Racionální diagnostika a léčba nemocí štítné žlázy. Med. Pro Praxi 2010, 7: 167–172.
+11. Jonklaas J, Bianco AC, Bauer AJ, Burman KD, Cappola AR, Celi FS, Cooper DS, Kim BW, Peeters RP, Rosenthal MS, Sawka AM. American Thyroid
+Association Task Force on Thyroid Hormone Replacement. Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid
+Association task force on thyroid hormone replacement. Thyroid 2014, 24: 1670–751.
+12. Lazarus J, Brown RS, Daumerie C, Hubalewska-Dydejczyk A, Negro R, Vaidya B. 2014 European Thyroid Association Guidelines for the
+Management of Subclinical Hypothyroidism in Pregnancy and in Children. Eur Thyroid J, 2014: 3: 76-94.
+13. Límanová et al. Doporučení pro diagnostiku a léčbu onemocnění štítné žlázy v těhotenství a pro ženy s poruchou fertility. Klin Biochem Metab,
+2013, 21: 41–64.
+14. Límanová Z, Jiskra J, Moravčíková D, Karen I. Diagnostika a léčba tyreopatií, Novelizace 2015, Centrum doporučených postupů pro praktické
+lékaře, Společnost všeobecného lékařství, 2015, DP Štítná žláza.indd (svl.cz)
+15. Límanová Z, Laňková J, Zamrazil V. Funkční poruchy ŠŽ, Doporučený diagnostický a léčebný postup pro všeobecné praktické lékaře 2008
+16. Pearce SH, Brabant G, Duntas LH, Monzani F, Peeters RP, Razvi S, Wemeau JL. 2013 ETA Guideline: Management of Subclinical Hypothyroidism.
+Eur Thyroid J. 2013, 2: 215–28.
+17. Pearce SHS, Brabant G, Duntas LH, Monzani F, Peeters RP, Razvi S, Wemeau JL. 2013 ETA guideline: management of subclinical hypothyroidism.
+Eur Thyroid J, 2013, 2: 215–228.
+18. Russ G, Bonnema SJ, Erdogan MF, Durante C, Ngu R, Leenhardt L. European Thyroid Association Guidelines for ultrasound malignancy risk
+stratification of thyroid nodules in adults: The EU-TIRADS. Eur Thyroid J. 2017 Sep;6(5):225–237.
+19. Vanderpump MP, Tunbridge WM, French JM et al: The incidence of thyroid disorders in the community: a twenty-year follow-up of the
+Whickham Survey. Clin Endocrinol (Oxf ), 1995, No. 43, p. 55–68.
+20. Zamrazil V. Nemoci štítné žlázy v klinické praxi. Postgraduální medicína 2013, 15: 720–729.
+21. Zamrazil V. Role praktického lékaře při diagnostice endokrinních chorob. Medicína po promoci 2011, 12: 59–65.
+  DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 7
+ 
+  8
+MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+ Seznam zkratek:
+VPL: všeobecný praktický lékař
+TSH: tyreoidální stimulační hormon
+FT4: volný tyroxin
+T4: tyroxin
+TT4: celkový tyroxin
+FT3: volný trijodtyronin
+T3: trijodtyronin
+TT3: celkový trijodtyronin
+TPOAb: protilátky proti tyreoidální peroxidáze
+TgAb: protilátky proti tyreoglobulinu
+TRAK: protilátky proti TSH receptoru
+Tg: tyreoglobulin
+TGB: tyroxin vázající globulin
+hCG: choriový gonadotropin
+LT4: levotyroxin (levotočivý enantiomer používaný v léčbě) UZ: ultrazvuk štítné žlázy a krku
+FNAB: aspirační biopsie štítné žlázy tenkou jehlou
+12. TABULKY
+Tabulka 1: Základní kompetence všeobecných praktických lékařů v managementu tyreopatií
+ Hypotyreóza
+  Hypertyreóza
+  Tyreoidální uzly
+   Diagnostikovat a léčit nekomplikovanou subklinickou i manifestní hypotyreózu
+Odlišit mírnou tranzientní elevaci TSH od skutečné hypotyreózy
+Předat gravidní ženy s hypotyreózou do péče endokrinologa, nebo s ním konzultovat další postup
+Diagnostikovat hypertyreózu a odeslat pacienta k endokrinologovi
+  Odlišit tranzientní supresi TSH od skutečné hypertyreózy
+Rozpoznat závažné nežádoucí účinky tyreostatik (léčbu ukončit) a odlišit je od mírných (v léčbě pokračovat
+  Sledovat uzly, které nesplňují kritéria k FNAB (aspirační biopsie tenkou jehlou), u pacientů bez hypertyreózy
+Sledovat neprogredující uzly s výsledkem FNAB Bethesda II u pacientů bez hypertyreózy
+K endokrinologovi odeslat (nebo s ním konzultovat):
+- uzly s výsledkem FNAB Bethesda III, IV, V, VI, a opakovaně Bethesda I
+– symptomatické uzly
+– uzly u pacientů s hypertyreózou – uzly s progresí (Tabulka 14)
+  Tabulka 2: Hlavní příznaky hypo- a hypertyreózy
+ Příznaky hypotyreózy
+  Příznaky hypertyreózy
+   • Únava, zpomalené psychomotorické tempo • Hypomimie
+• Zimomřivost
+• Suchá kůže
+• Špatná kvalita vlasů, vymizení axilárního či pubického ochlupení
+• Bradykardie, AV blokáda
+• Poruchy menstruačního cyklu, potrácení, sterilita, snížené
+libido, erektilní dysfunkce
+• Typické laboratorní změny: hypercholesterolémie, elevace
+kreatinkinázy a jaterních enzymů, mírná elevace kreatininu a hyponatrémie (u těžké hypotyreózy), mírná normocytární/ makrocytární anémie
+  • Nervozita, podrážděnost, neklid • Palpitace
+• Třes
+• Pocení, intolerance tepla
+• Hmotnostní úbytek
+• Svalová slabost
+• Sinusová tachykardie, arytmie (fibrilace a flutter síní)
+• Poruchy menstruačního cyklu, potrácení a další komplikace
+v graviditě
+• Typické laboratorní změny: mírná elevace jaterních enzymů,
+zejména alkalické fosfatázy, mírná normochromní anémie, mírná neutropenie (až u 10 % pacientů s Gravesovou- Basedowovou tyreotoxikózou)
+   DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+ MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+ Tabulka 3: Definice funkčních tyreopatií podle laboratorních testů
+ Hypotyreóza
+Hypertyreóza
+Manifestní Subklinická Manifestní
+Subklinická
+Zvýšený TSH a snížený FT4
+Opakovaně (při kontrole za 3 a 6 měsíců) zvýšený TSH a normální FT4
+Snížený TSH a zvýšený FT4 a/nebo FT3
+Opakovaně (při kontrole za 3 a 6 měsíců) snížený TSH a normální FT4 a FT3
+  Tabulka 4: Postup při silném klinickém podezření na primární (periferní) tyreoidální dysfunkci u pacienta s typickými příznaky hypo- nebo hypertyreózy (netýká se gravidních žen)
+ TSH a FT4
+U příznaků hypertyreózy i FT3
+Vše normální TSH snížený (primární tyreoidální dysfunkce vyloučena) FT4 a/nebo FT3 zvýšený
+TSH zvýšený
+FT4 snížený nebo normální
+Dále dle Tabulky 7
+  V přítomnosti rizikových faktorů (Tabulka 16) kontroly TSH á 2–4 roky
+Dále dle Tabulky 6
+ Tabulka 5: Postup u pacienta s netypickými nebo žádnými příznaky (netýká se gravidních žen)
+ TSH1
+ Snížený
+Doplnit FT4 a FT3
+Normální
+Zvýšený
+Doplnit FT4 a TPOAb
+Dále dle Tabulky 7
+  Užívá amiodaron
+Endokrinologické vyšetření/ konzultace co nejdříve
+Neužívá amiodaron
+Dále dle Tabulky 6
+Primární tyreoidální dysfunkce vyloučena
+V přítomnosti rizikových faktorů (Tabulka 16) kontroly TSH á 2–4 roky
+  1 TSH není vhodné vyšetřovat v době probíhajícího jiného akutního onemocnění nebo v době rekonvalescence z něj, protože v těchto případech je vysoký záchyt falešně abnormálních nálezů.
+Tabulka 6: Postup při nálezu sníženého TSH v ordinaci všeobecného praktického lékaře (netýká se gravidních žen)
+ TSH snížený FT4 a/nebo FT3 zvýšený
+   TSH snížený FT4 a FT3 normální
+   Rozvinutá hypertyreóza
+  Pacient je symptomatický a/nebo užívá amiodaron
+  Pacient je asymptomatický a neužívá amiodaron
+ 2x opakovat TSH, FT4 a FT3 v odstupu 3 měsíců nebo dříve při zhoršení klinického stavu
+ Endokrinologické vyšetření/konzultace co nejdříve
+TSH opakovaně snížený FT4 a FT3 normální
+Subklinická hypertyreóza
+TSH snížený FT4 a/nebo FT3 zvýšený
+Rozvinutá hypertyreóza
+Normalizace
+Kontroly TSH (a klinického stavu) za 3–6 měsíců, pak za 1 rok a pak v přítomnosti rizikových faktorů (Tabulka 16) á 2–4 roky
+  Endokrinologické vyšetření do 3 měsíců
+   Endokrinologické vyšetření/konzultace co nejdříve
+      DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 9
+ 
+  10
+MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+ Tabulka 7. Postup při nálezu zvýšeného TSH v ordinaci všeobecného praktického lékaře (netýká se gravidních žen)
+Doplnit FT4 a TPOAb
+Doplnit UZ štítné žlázy a krku, jsou-li negativní TPOAb a/nebo je hmatný uzel a/nebo struma
+ Pacient zůstává v péči praktického lékaře nebo je v komplikovaných a/nebo nejasných případech odeslán na endokrinologii
+   TSH zvýšený FT4 snížený
+   TSH zvýšený FT4 normální
+ Subklinická hypotyreóza
+    Rozvinutá hypotyreóza
+TSH > 10 mU/L
+Progrese (TSH > 10 mU/L a/ nebo snížený FT4)
+TSH ≤ 10 mU/L
+Zvážit terapii levotyroxinem podle Tabulky 9
+2x opakovat TSH, FT4 v odstupu 3–6 měsíců nebo dříve při zhoršení klinického stavu
+       TSH opakovaně zvýšený ≤ 10 mU/L a FT4 normální
+Normalizace
+   Terapie levotyroxinem
+ Kontroly TSH a klinického stavu za 6–8 týdnů, 2–3 měsíce, 6 měsíců a pak 1–2x ročně a 3–6 měsíců po každé změně medikace
+   Kontroly TSH
+(a klinického stavu) za 3–6 měsíců,
+pak za 1 rok a pak
+v přítomnosti rizikových faktorů (Tabulka 16) á 2–4 roky
+     Tabulka 8: Hlavní klinicky významné příčiny netyreoidální suprese a elevace TSH
+ Netyreoidální pokles (suprese) TSH
+  Netyreoidální elevace TSH
+   • Hospitalizace
+• Akutní infekce
+• Závažná celková akutní a chronická netyreoidální onemocnění • Léky (levotyroxin, glukokortikoidy, katecholaminy, méně
+často dopaminergní agonisté, analoga somatostatinu) • 1. trimestr gravidity (vliv choriového gonadotropinu)
+• Po podání jódové RTG kontrastní látky (cca 1 měsíc)
+• Sekundární (centrální) hypotyreóza
+• Diurnální variabilita (v noci,nižší odpoledne)
+• Tranzientní suprese TSH neznámé etiologie
+  • Vyšší věk1
+• Fáze rekonvalescence (2–8 týdnů po akutním onemocnění)
+• Obezita vyššího stupně
+• Chronické onemocnění ledvin
+• Léky (clomifen, neuroleptika a další dopaminergní antagonisté,
+např. metoclopramid, kortikoliberin)
+• Rezistence na tyreoidální hormony
+• TSH–secernující adenom hypofýzy
+• Individuální „setpoint“ tyreoidální osy, inaktivační mutace
+TSH-receptoru
+• Tranzientní elevace TSH neznámé etiologie
+  1 ve studii NHANES u populace > 30 let stoupal 97,5. percentil referenčního rozmezí pro TSH každých 10 let o 0,3 mU/L, což nebylo ovlivněno hmotností, tyreoidálními protilátkami, ani jodurií (Boucai et al. 2011)
+Tabulka 9: Rámcové indikace k léčbě subklinické hypotyreózy
+1 v graviditě a u žen plánujících graviditu se léčba subklinické hypotyreózy zahajuje vždy
+ Spíše ne
+  Spíše ano
+   • Věk > 70 let a < 40 let
+• TSH ≤ 10 mU/L
+• Přítomnost fibrilace/flutteru síní, ischemické chroroby srdeční,
+srdečního selhání u starších osob (>70 let)
+• Polypragmazie
+• Žádné příznaky hypotyreózy
+• Výrazný kognitivní deficit u starších pacientů, kde je riziko
+nesprávného užívání
+• Jiné závažné choroby se zkrácenou „life expectancy“
+  • Věk 40–70 let
+• TSH > 10 mU/L
+• Přítomnost kardiovaskulárních nemocí a/nebo a jejich
+rizikových faktorů u pacientů ve věku 40–70 let
+• Symptomy hypotyreózy
+• Gravidita a plánovaná gravidita1
+• Mírný kognitivní deficit u mladších pacientů
+• Přítomnost uzlů > 1 cm, které nejsou cystoidy/spongiformní
+   DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+ MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+ Tabulka 10: Poznámky k laboratorní tyreoidální diagnostice
+Vyšetření FT3 (TT3) není základní vyšetření, indikujeme ho jen když je při podezření na hyperfunkci snížený TSH a normální FT4. FT3 (TT3) může být snížený v rámci syndromu nízkého T3.
+Protilátky TRAK jsou pozitivní u GB choroby a endokrinní orbitopatie a jejich hodnota odráží aktivitu onemocnění. Normalizují se při remisi, zvýšení signalizuje relaps. Jejich vyšetření většinou indikuje endokrinolog.
+Tyreoglobulin (Tg) je marker určený k monitoraci pacientů po ablaci štítné žlázy pro diferencovaný karcinom (nelze jej použit jako diagnostický marker). Jeho vyšetření v jiných případech nemá v rutinní diagnostice klinický význam.
+Kalcitonin (hormon produkovaný C buňkami štítné žlázy) je markerem medulárního karcinomu štítné žlázy. Jeho vyšetření většinou indikuje endokrinolog.
+Většina laboratoří nabízí vyšetření thyroxin vázajícího globulinu (TBG), v běžné praxi se nepoužívá.
+1 ve studii NHANES u populace >30 let stoupal 97,5tý percentil referenčního rozmezí pro TSH každých 10 let o 0,3 mU/L (Boucai et al. 2011)
+Tabulka 11: Hlavní příčiny tyreoidální dysfunkce u dospělých
+   TSH je nejsenzitivnější marker primární (periferní) tyreoidální dysfunkce, má však nízkou specificitu (normální TSH primární poruchu spolehlivě vyloučí, patologické hodnoty však mohou být způsobeny i netyreoidálními faktory – Tabulka 8). Referenční meze pro TSH jsou odlišné v graviditě (kapitola 7) a stoupají s věkem1
+   T4 a T3 jsou v krvi vázány na bílkovinné nosiče, takže hodnoty TT4 (celkový T4) a TT3 (celkový T3) jsou ovlivněny některými fyziologickými a dalšími okolnostmi (gravidita, estrogeny včetně antikoncepce, léky apod.). Proto je výhodnější vyšetřovat volné frakce (FT4 event. FT3).
+    K monitoraci substituce primární (periferní) hypotyreózy používáme TSH v krvi. V den odběru není třeba vynechávat ranní dávku LT4. Pokud výjimečně indikujeme i vyšetření FT4, je nutné dávku LT4 vzít až po krevním odběru, nebo počítat s falešně vyšší hodnotou. K monitoraci substituce sekundární (centrální) hypotyreózy naopak použijeme poze FT4 a v tomto případě je odběr krve nutný před ranní dávkou LT4.
+   TPOAb jsou diagnostickým markerem autoimunitní tyreoiditidy (jsou pozitivní asi u 85–90 % případů). Pozitivita přetrvává obvykle po celý život, absolutní hodnoty jsou závislé na použité metodě a nejsou ovlivnitelné léčbou. Jejich sledování nemá klinický význam.
+   TgAb mají menší diagnostický přínos a vyšetřují se pouze v případě, když jsou u hypotyreózy negativní TPOAb a UZ. Mají současně se stanovením tyreoglobulinu (Tg) význam při sledování pacientů s nádory štítné žlázy (pozitivní TgAb mohou způsobit falešně nízkou koncentraci Tg), což je v kompetenci endokrinologa.
+      Příčiny hypotyreózy
+  Příčiny hypertyreózy
+   Primární (periferní) – časté
+• Autoimunitní tyreoiditida se strumou (Hashimotova tyreoiditida) nebo bez strumy (atrofická forma)
+• Nedostatek/nadbytek jódu
+• Po prodělané tyreoiditidě (subakutní, poporodní, silentní)
+• Pooperační
+• Postradiační (ozáření zevní nebo radiojódem)
+• Poléková (amiodaron, cytokiny, lithium, check-point inibitory aj.)
+• Infiltrace (lymfom, hemochromatóza, amyloidóza, Riedelova
+tyreoiditida)
+ Primární (periferní) – časté
+• Gravesova-Basedowova nemoc
+• Hyperfunkční tyreoidální uzly (solitární či mnohočetné)
+• Tyreoiditidy (subakutní, poporodní, silentní, úvodní fáze
+autoimunitní tyreoiditidy)
+• Poléková (amiodaron, náhlý přísun jódu, cytokiny, check-
+point inhibitory)
+• Předávkování tyreoidálními hormony
+  Sekundární (centrální) – vzácné
+• nádory, infekce, úraz, operace, ozáření, vrozené defekty
+     Sekundární (centrální) – vzácné
+• TSH produkující adenom
+• rezistence na tyreoidální hormony (kombinují se příznaky
+hypo- a hypertyreózy)
+   Ektopická (raritní)
+• ektopická tyreoidální tkáň v ovariích, paraneoplastická nadprodukce choriového gonadotropinu (hCG), metastáza karcinomu štítné žlázy
+   DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 11
+ 
+  12
+MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+ Tabulka 12: Přehled tyreoiditid
+ Typ tyreoiditidy
+  Charakteristika
+  Léčba
+   Akutní (hnisavá) tyreoiditida
+ Vzácný až raritní výskyt Bolestivé postižení štítné žlázy septickým (nejčastěji metastatickým) procesem u imunokompromitovaných osob, s tvorbou abscesu nebo flegmony.
+   Chirurgická incise a drenáž abscesu, event. lobektomie, systémová léčba ATB.
+Léčbu řídí spádový endokrinolog či internista ve spolupráci s chirurgií, obvykle za hospitalizace.
+   Subakutní (DeQuervainova)
+tyreoiditida
+Navazuje na infekci (obvykle virovou) horních dýchacích cest). Projeví se bolestivostí štítné žlázy, subfebrilitami, někdy i febrilitami a u 1/3 případů přechodnou fází tyreoidální hyperfunkce. Typické jsou středně zvýšená sedimentace erytrocytů a CRP a poměrně specifický obraz na UZ.
+  Nesteroidní antirevmatika nebo glukokortikoidy.
+Léčbu má vést endokrinolog.
+ Autoimunitní tyreoiditida (chronická lymfocytární tyreoiditida)
+  Je nejčastější příčinou hypotyreózy, může však být i eutyroidní. Diagnostické jsou protilátky TPOAb a/ nebo TgAb a/nebo typický obraz na UZ. V současnosti převažují formy atrofické nad formami se strumou.
+  Substituce levotyroxinem při hypotyreóze. Léčba eufunkčních pacientů se rutinně nedoporučuje, nutná je ale dispenzarizace 1x ročně z důvodu rizika progrese do hypotyreózy.
+   Riedleova tyreoiditida
+ Vzácné fibrotizující zánětlivé onemocnění štítné žlázy neznámé etiologie, které se může až invazivně šířit do okolí.
+   Léčba spadá do kompetencí endokrinologa a je obtížná. Podávají se glukokortikoidy, zkouší se biologická léčba, při strumě a invazivním růstu je někdy nutná operace, která je však zatížena vysokým rizikem komplikací.
+  Tabulka 13: Klinické rizikové faktory malignity u tyreoidálního uzlu
+1 u diferencovaných tyreoidálních mikrokarcinomů se klinicky signifikantní maligní charakter uzlu manifestuje častěji u mladších osob (< 40 let), naopak u starších osob (≥ 60 let) ve většině případů diferencovaný mikrokarcinom neprogreduje do klinicky signifikantního onemocnění
+   • Radiační expozice
+• Karcinom štítné žlázy v rodinné/osobní anamnéze
+• Signifikantně zvýšený bazální kalcitonin, MEN2 syndrom (mnohočetná endokrinní neoplazie) • Palpační nález na krku a/nebo příznaky suspektní z malignity
+• Zvýšené vychytávání 18F-fluorodeoxyglukózy v uzlu
+• „Letitá struma“ na dlouhodobé terapii tyreostatiky
+• Věk1
+ Tabulka 14: Vyšetření při nálezu tyreoidálního uzlu
+Hmatný uzel nebo uzel ≥ 5 mm zjištěný zobrazovací metodou
+  Fyzikální vyšetření krku TSH
+TSH normální/zvýšený
+Ultrazvuk štítné žlázy (UZ) na endokrinologii/radiologii Zhodnocení klinických rizikových faktorů pro tyreoidální malignitu (Tabulka 13)
+TSH snížený
+Endokrinolog
+   Indikace k FNAB ne
+Endokrinolog
+Indikace k FNAB ano
+Bez progrese1 Progrese1
+      UZ kontroly za 1 rok,
+2 roky a 3–5 let a/nebo dle doporučení sonografisty Klinické kontroly á 1–2 roky
+Bethesda I
+Bethesda II
+Bethesda ≥III
+        Progrese1
+Opakovat FNAB s odstupem
+3 měsíců
+UZ kontroly za 1 rok, 2 roky a 3–5 let a/nebo dle doporučení sonografisty Klinické kontroly á 1–2 roky
+      UZ kontroly za 1 rok, 2 roky a 3–5 let a/ nebo dle doporučení sonografisty Klinické kontroly á 1–2 roky
+  Endokrinolog
+   Endokrinolog při výsledku jiném než Bethesda II
+Endokrinolog
+ Substituce hypotyreózy, je-li manifestní nebo trvalá subklinická hypotyreóza TSH
+ FNAB: aspirační biopsie tenkou jehlou
+1Za progresi se považuje zejména změna UZ charakteru uzlu (přechod do vyšší kategorie podle některé z UZ klasifikací) a/nebo přítomnost patologických lymfatických uzlin a/nebo přímá extratyreoidální propagace a/nebo nárůst objemu o > 50 % nebo zvětšení v alespoň 2 rozměrech o > 20 %, nejméně však o 2 mm. Mírný nárůst velikosti je u benigních uzlů běžný a nejsou důkazy, že by byla prediktorem malignity uzlu.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+ MANAGEMENT TYREOPATIÍ V ORDINACI VŠEOBECNÉHO PL - NOVELIZACE 2023
+ Tabulka 15: Bethesda klasifikace cytologických nálezů u tyreoidálních uzlů
+I. Nediagnostický nebo nedostatečný vzorek (méně než 6 skupin po 10 tyreocytech)
+II. Benigní
+III. Atypie/folikulární léze nejistého významu (AUS, FLUS)
+IV. Folikulární neoplazie nebo podezření na ní (uvést, zda onkocytární)
+V. Podezření z malignity
+VI. Maligní
+Tabulka 16: Osoby se zvýšeným rizikem vzniku tyreopatií
+ Bethesda kategorie
+ Charakteristika
+                  • Tyreopatie v osobní a rodinné anamnéze
+• Hmatná struma
+• Autoimunitní onemocnění v osobní anamnéze (diabetes mellitus 1. typu, céliakie, perniciosní anemie, revmatoidní artritida apod.) • Současná/předchozí léčba některými léky (amiodaron, cytokiny, lithium, sunitinib, check-point inhibitory, analoga gonadoliberinu aj.) • Pozitivní protilátky proti tyreoidální peroxidáze a/nebo tyreoglobulinu
+• Nadměrný přísunu nebo dlouhodobý nedostatek jódu
+• Předchozí ozáření krku a horní poloviny těla
+• Přechozí léčba radiojódem 131I
+• Předchozí operace štítné žlázy
+• Chromozomální aberace (Turnerův, Downův a Klinefelterův syndrom)
+ Tabulka 17: Ženy se zvýšeným rizikem rozvoje klinicky významné tyreopatie v těhotenství
+   • Věk nad 30 let
+• Autoimunitní tyreopatie či hypotyreóza v rodinné anamnéze • Struma
+• Pozitivní protilátky proti tyreoidální peroxidáze (TPOAb)
+• Příznaky tyreoidální hypofunkce
+• Diabetes mellitus 1. typu nebo jiné autoimunitní onemocnění • Infertilita
+• Potrat nebo předčasný porod v anamnéze
+• Ozáření hlavy a/nebo krku v anamnéze
+• Žena žije v oblasti s jódovým deficitem
+• Ženy s BMI ≥ 40 kg/m2
+  DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 13
+ 
+  Společnost všeobecného lékařství ČLS JEP Centrum doporučených postupů pro praktické lékaře Sokolská 31, 120 00 Praha 2
+e–mail: svl@cls.cz http://www.svl.cz
+ISBN 978-80-88280-39-2
+ ISBN 978-80-88280-39-2
+© 2023, Společnost všeobecného lékařství ČLS JEP
