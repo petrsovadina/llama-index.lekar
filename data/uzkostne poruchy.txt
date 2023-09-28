@@ -1,0 +1,726 @@
+  Doporučené diagnostické a terapeutické postupy pro všeobecné praktické lékaře
+ÚZKOSTNÉ PORUCHY
+Autoři:
+MUDr. Věra Vobořilová
+Psychiatrická společnost ČLS JEP
+MUDr. Rudolf Červený, Ph.D.
+Společnost všeobecného lékařství ČLS JEP
+  AKTUALIZACE 2023
+Centrum doporučených postupů pro praktické lékaře
+Společnost všeobecného lékařství ČLS JEP, Sokolská 31, Praha 2
+ 
+Tisk podpořen firmou
+
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+ÚZKOSTNÉ PORUCHY
+Doporučený diagnostický a terapeutický postup pro všeobecné praktické lékaře 2023
+Autoři:
+MUDr. Věra Vobořilová
+Psychiatrická společnost ČLS JEP
+MUDr. Rudolf Červený, Ph.D.
+Společnost všeobecného lékařství ČLS JEP
+Oponenti:
+Prof. MUDr. Ján Praško, CSc.
+Psychiatrická společnost ČLS JEP
+MUDr. Astrid Matějková
+Společnost všeobecného lékařství ČLS JEP
+Aktualizace poslední revize DP Úzkostné poruchy, Doporučený diagnostický a léčebný postup pro všeobecné praktické lékaře, 2018, autoři: MUDr. Věra Vobořilová, Psychiatrická společnost ČLS JEP, MUDr. Rudolf Červený, Ph.D., Společnost všeobecného lékařství ČLS JEP.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 1
+ 
+ 2
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+OBSAH
+1. ÚVOD......................................................................................................... 3
+2. EPIDEMIOLOGIE.............................................................................................. 3
+3. KLASIFIKACE ÚZKOSTNÝCH PORUCH PODLE MKN - 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.1. PANICKÁ PORUCHA (F410). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3.2. GENERALIZOVANÁÚZKOSTNÁPORUCHA(F411)........................................................... 3
+3.3. SMÍŠENÁ ÚZKOSTNĚ DEPRESIVNÍ PORUCHA (F412). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.4. AGORAFOBIE(F400).......................................................................................... 4
+3.5. SOCIÁLNÍFOBIE(F401)....................................................................................... 4
+3.6. SPECIFICKÉFOBIE(F402)..................................................................................... 4
+4. DIAGNOSTICKÝ POSTUP, VYŠETŘENÍ A HODNOCENÍ PACIENTA S ÚZKOSTÍ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.1. ANAMNÉZA.................................................................................................. 4
+4.2. NYNĚJŠÍONEMOCNĚNÍ...................................................................................... 5
+4.3. ZÁKLADNÍ FYZIKÁLNÍ VYŠETŘENÍ A DLE POTŘEBY DOPLNĚNÍ LABORATORNÍHO VYŠETŘENÍ K VYLOUČENÍ
+TĚLESNÉCHOROBY........................................................................................... 5
+4.4. DIFERENCIÁLNÍDIAGNÓZAÚZKOSTNÝCHPORUCH........................................................ 6
+4.4.1. DEPRESE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 4.4.2. PSYCHOTICKÉPORUCHY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 4.4.3. ZÁVISLOSTI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 4.4.4. OBSEDANTNĚKOMPULZIVNÍPORUCHA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 4.4.5.NÁSLEDKYPOTRAUMATU................................................................................. 6 4.4.6.POSTTRAUMATICKÁSTRESOVÁPORUCHA(PTSD)......................................................... 6 4.4.7.PORUCHYPŘÍJMUPOTRAVY............................................................................... 6 4.4.8. JINÉPSYCHICKÉPORUCHY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+5. LÉČBA......................................................................................................... 8
+5.1. EDUKACEPACIENTA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.2.TERAPEUTICKÉMOŽNOSTIUÚZKOSTNÝCHPORUCH–VŠEOBECNÉZÁSADY............................. 5.3.FARMAKOTERAPIE........................................................................................... 5.3.1.ZÁSADYFARMAKOTERAPIE............................................................................... 5.3.2. VÝBĚRLÉKU. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.3.3.DÁVKOVÁNÍADÉLKAFARMAKOTERAPIE................................................................. 5.3.4. RIZIKO VZNIKU ZÁVISLOSTI NA LÉČBĚ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.3.5.KDYUKONČITFARMAKOTERAPII.......................................................................... 5.3.6. KDY ZMĚNIT MEDIKACI. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.3.7. ZMĚNA LÉKU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.3.8. AUGMENTACELÉČBY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.3.9. KOMBINAČNÍLÉČBA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.3.10. LÉČBA PACIENTA S KOMORBIDITOU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.3.11. LÉČBA PACIENTA S PORUCHOU SPÁNKU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.4.PSYCHOTERAPIEÚZKOSTNÝCHPORUCH................................................................... 5.4.1. DYNAMICKÁ PSYCHOTERAPIE A PSYCHOANALÝZA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5.4.2.SKUPINOVÁPSYCHOTERAPIE............................................................................. 5.4.3.KOGNITIVNĚBEHAVIORÁLNÍTERAPIE..................................................................... 5.4.4.ON-LINETERAPEUTICKÉPROGRAMY......................................................................
+6. LITERATURA.................................................................................................
+. 8 . 8 . 8 . 8 . 8 . 8
+10
+10
+10
+11
+11
+11
+11
+11
+12
+12
+12
+12
+12
+12
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+1. ÚVOD
+Úzkostné poruchy jsou skupinou psychických poruch, u kterých je úzkost dominantním příznakem. Vyznačují se záchvatovými nebo kolísavě intenzivními stavy, při kterých se bez vazby na reálné nebezpečí objevují tělesné a psychické projevy úzkosti nebo strachu. Podle klasické evropské psychopatologie má strach svůj objekt (člověk ví, čeho se bojí), zatímco úzkost objekt nemá (člověk má pocit strachu, ale neví, čeho se bojí). Patologický stav nastává, když je překročena schopnost organismu se s úzkostí vyrovnat - objevuje se příliš často, trvá příliš dlouho a její intenzita je vzhledem k situaci, která ji spustila, příliš velká nebo se objevuje v nepřiměřených situacích.
+V těchto případech projevy úzkostné poruchy negativně zasahují do života jedince, snižují kvalitu jeho života, omezují pracovní schopnost a narušují sociální vztahy.
+2. EPIDEMIOLOGIE
+Pro primární péči je typické, že většina úzkostných pacientů nepřichází k lékaři pro úzkost samotnou, ale pro polymorfní somatické příznaky, které úzkostnou poruchu doprovázejí nebo domněle či skutečně vyvolávají. Praktický lékař by proto měl na možnost úzkostné poruchy vždy pomyslet a zhodnotit, jak velkou úlohu v obtížích pacienta může úzkost hrát a po vyloučení somatických příčin zavést odpovídající léčbu nebo pacienta doporučit ke specializované péči. Úzkostné poruchy jsou často poddiagnostikovány či nerozpoznány, a tudíž nedostatečně léčeny, nejčastěji z důvodu obav z psychiatrické stigmatizace.
+Úzkostné poruchy patří mezi nejčastější psychiatrické diagnózy. V průběhu života si nějakou fází úzkostné poruchy projde až 15 % populace. Úzkostné poruchy se mohou objevit v komorbiditě s depresivní poruchou a závislostmi na návykových látkách.
+3. KLASIFIKACE ÚZKOSTNÝCH PORUCH PODLE MKN - 10
+Úzkost může „volně plynout“ bez omezení na zvláštní okolnosti, nebo se může projevit v záchvatech.
+Pokud se objeví náhle a bez zjevné příčiny, mluvíme o spontánní úzkosti. Pokud se týká konkrétních situací, kterých se běžně lidé nebojí, hovoříme o fobii. Pokud se úzkost rozvine při očekávání ohrožující situace, mluvíme o anticipační úzkosti (tzv. „strach ze strachu“).
+Mezi úzkostné poruchy patří:
+3.1. PANICKÁ PORUCHA (F410)
+Panická porucha je dvakrát častější u žen a postihuje cca 1-3 % populace.
+Hlavním rysem jsou náhlé, opakované epizody intenzivní úzkosti (paniky), které nejsou vázány na žádnou konkrétní situaci a pacient je neumí předvídat. Při záchvatu dochází k rozvoji intenzivního strachu, dojmu, že se něco hrozného přihodí, že se postižený zblázní, že umírá, či k pocitu ztráty kontroly. Ataka je spojena s řadou intenzivních příznaků vegetativní reakce (bušení srdce, pocení, třes), příznaků somatických (potíže s dechem, bolesti na hrudi, nevolnosti), psychických (strach ze ztráty kontroly, ze smrti, zbláznění se, derealizace) či celkových (návaly horka či chladu, mravenčení). Jednotlivé ataky většinou trvají 5–20 minut (výjimečně déle). Po záchvatu někdy přetrvává třes, napětí či únava, jindy dochází k uvolnění až letargii. Na ataku často navazuje strach z dalšího záchvatu (anticipační úzkost), důsledkem záchvatů bývá potom snaha vyhnout se situacím, kde k panice došlo. Průběh nemoci bývá často chronický, s možností spontánního uzdravení, ale i opětovné recidivy.
+3.2. GENERALIZOVANÁ ÚZKOSTNÁ PORUCHA (F411)
+Typickým projevem této poruchy je nadměrné zaobírání se starostmi a stresujícími myšlenkami, týkajícími se často běžných každodenních starostí, obav o zdraví svoje i rodiny, obav o finanční záležitosti, strachu ze selhání v práci, obav z budoucnosti. To vede k úzkostnosti, únavě a nepříjemným tělesným pocitům. Příznaky se objevují nenápadně a pozvolna, bývají nadměrné a nekontrolované a trvají minimálně půl roku. Celoživotní prevalence je mezi 5-10 %, poměr žen a mužů 2:1. Popisujeme volně plynoucí úzkost, která jedince obtěžuje prakticky neustále, bez provázanosti na specifickou okolnost. Z tělesných příznaků dominuje svalové napětí, neklid, neschopnost uvolnit se, podrážděnost, roztřesenost, závratě, nevolnost, bolesti hlavy, bušení srdce, třes, suchost v ústech, nadměrné pocení, obtížné dýchání apod. Stav je měnlivý a většinou trvá léta. U řady lidí se potíže zhoršují v situacích zdánlivého klidu, např. o dovolené nebo o víkendu.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 3
+ 
+ 4
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+3.3. SMÍŠENÁ ÚZKOSTNĚ DEPRESIVNÍ PORUCHA (F412)
+U této poruchy se mísí příznaky úzkosti s příznaky deprese, nicméně ani příznaků deprese ani příznaků úzkosti není tolik, aby zdůvodňovaly diagnózu depresivní poruchy či některé z úzkostných poruch. Typická je trvalá nebo vracející se dysforická nálada, obtížná koncentrace nebo pocit „prázdna v hlavě“, obtíže s usínáním nebo udržením spánku, neklidný spánek, pocit únavy, nedostatku energie, podrážděnost, nadměrná ostražitost, tendence k plačtivosti po nepatrných podnětech, pesimistická očekávání do budoucna, anticipace horšího, nízké sebevědomí nebo pocity méněcennosti. Tato porucha je často podceňována a nedostatečně léčena, neboť příznaky deprese jsou méně hluboké, než je tomu u depresivní poruchy a příznaky úzkosti jsou méně výrazné, než je tomu u úzkostných poruch.
+3.4. AGORAFOBIE (F400)
+Projevuje se strachem z otevřených prostranství, přeplněných míst, z opuštění domova, z obchodů, cestování dopravními prostředky, pobytem v dopravní zácpě, pobytem v davu, čekáním v řadě, z jízdy výtahem, z uzavřených prostor apod. Celoživotní prevalence je 3-6 %, u žen bývá výskyt 2-3x častější. Úzkost je vyvolána jak přítomností fobického podnětu, tak vzdálením se z místa bezpečí. Strach se pojí s očekáváním něčeho nepříjemného, co by se mohlo přihodit, a zvyšuje se, pokud si postižený uvědomí, že únik není možný či by únikem na sebe upoutal pozornost. Podstatou agorafobie je strach z panického záchvatu v situaci, ve které není rychle dostupná pomoc či ze které je obtížné se vzdálit. Komorbidita s panickou poruchou je velmi vysoká, přes 50 %. Může tak dojít k rozvoji vyhýbavého chování, někdy s progresí až do maximální sociální izolace postiženého jedince s invalidizací.
+3.5. SOCIÁLNÍ FOBIE (F401)
+Projevuje se strachem a vyhýbáním se situacím, v nichž může být člověk pozorován a posuzován jinými lidmi. Postižený má strach z kontaktu s jinými lidmi, obává se, že ho nepřijmou, že před nimi nepodá očekávaný výkon, že si všimnou jeho potíží. Tato fobie může mít formu strachu ze setkání s neznámými lidmi, mluvení na veřejnosti, z jedení a pití před lidmi, z psaní před druhými apod. Celoživotní prevalence je kolem 5 %. Rozlišujeme izolované sociální fobie, kdy postižený jedinec nezvládá jednu oblast sociálního fungování, nebo sociální fobie generalizované, kdy pacient nezvládá více zátěžových společenských situací. Tyto situace u postiženého vyvolávají různé vegetativní či celkové příznaky, obdobně jako jsou u panické poruchy. Typicky se projevuje anticipační úzkost, která často vede k vyhýbavému chování a následnému celkovému životnímu omezení až vyloučení ze sociálního života.
+3.6. SPECIFICKÉ FOBIE (F402)
+Jedná se o skupinu poruch, pro které je typická přítomnost nepřiměřeného strachu z určitého konkrétního objektu nebo situace (vyjma agorafobie nebo sociální fobie). Postižený netrpí příznaky úzkosti, pokud se nesetká nebo se neobává setkání s fobickým podnětem, pokud se s podnětem setká či se ho obává, dochází k typické úzkostné reakci či panické atace. Nemocný si je však vědom, že jeho strach není racionálně odůvodněný, čímž se liší např. od paranoidního pacienta, přesto mu ubezpečení, že není čeho se bát, nepomáhá. U rozvinuté specifické fobie se rozvíjí anticipační úzkost s vyhýbavým chováním. Specifické fobie jsou nejčastějšími úzkostnými poruchami, postihují až 10 % populace, dvakrát častěji jsou postiženy ženy. Mezi nejčastější specifické fobie patří fobie ze zvířat (psi, hmyz, hadi, myši), z přírodních živlů (bouřka, voda, výšky), ze specifických míst (uzavřené prostory, letadlo, výtah) či pohledu na krev, odběru krve, zranění.
+4. DIAGNOSTICKÝ POSTUP, VYŠETŘENÍ A HODNOCENÍ PACIENTA S ÚZKOSTÍ
+Naprostá většina pacientů s úzkostnou poruchou nepřichází do ordinace praktického lékaře pro úzkost, ale pro somatické příznaky.
+4.1. ANAMNÉZA
+• Rodinná a osobní anamnéza zaměřená na psychiatrická onemocnění a léčbu, zejména anamnéza separační úzkosti v dětství
+• Osobní anamnéza zaměřená na tělesná onemocnění spojená s úzkostnou symptomatologií (viz tab. č. 1)
+• Anamnéza abusu (alkohol, stimulační látky, kofein, kouření, gambling)
+• Farmakoterapie (užívá pacient léky na spaní?, na uklidnění?, farmaka, která mohou vyvolávat úzkostné stavy-viz
+tab. č. 2)
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+4.2. NYNĚJŠÍ ONEMOCNĚNÍ
+• typické situace, které vyvolávají úzkost nebo strach
+• charakter úzkostných stavů (atak); kdy, kde, jak, s kým a s kým nikoliv se úzkostné projevy objevují, čeho se
+nejvíce obává, jaké tělesné reakce se objevují, jak se přitom chová, jak reaguje na druhé lidi; jaká jsou typická
+témata (obsahy) úzkostných myšlenek nebo strachů;
+• čemu se díky úzkostným příznakům vyhýbá (např. cestování, mluvení s cizím člověkem apod.) a jak se proti
+úzkosti zabezpečuje (např. nosí s sebou alprazolam, láhev s pitím, igelitový sáček apod.), zda se naučil nějaké
+strategie, jak si sám pomoci;
+• jaké jsou projevy anticipační úzkosti;
+• co stavy úzkosti, strach, obavy a starosti modifikuje (aktivity, léky, menstruace, přítomnost druhých osob apod.)
+• v čem ho úzkostné stavy, strach, obavy, starosti a úzkostnost omezují v životě (pracovně, v rodinném životě, ve
+volném čase)
+4.3. ZÁKLADNÍ FYZIKÁLNÍ VYŠETŘENÍ A DLE POTŘEBY DOPLNĚNÍ LABORATORNÍHO VYŠETŘENÍ K VYLOUČENÍ TĚLESNÉ CHOROBY
+Úzkostnými příznaky se může již od počátečních stádií projevovat řada nemocí: epilepsie, cévní mozkové příhody, Parkinsonova choroba, roztroušená skleróza, bolesti hlavy, neuroborelióza, nádorová onemocnění, angina pectoris, srdeční arytmie, srdeční selhání, infarkt myokardu, prolaps mitrální chlopně, astmatické záchvaty, chronická bronchopulmonální choroba, hyperventilační syndrom, endokrinopatie, malnutrice, chronická bolest apod. U některých žen může přinést řadu úzkostných a depresivních příznaků menopauza. Při podezření na organické postižení mozku je nutné doplnění neurologického vyšetření.
+Obrázek č. 1: Bludný kruh příznaků
+  DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 5
+ 
+ 6
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+4.4. DIFERENCIÁLNÍ DIAGNÓZA ÚZKOSTNÝCH PORUCH
+Příznaky úzkosti se může projevovat celá řada psychických onemocnění.
+4.4.1. DEPRESE
+V průběhu depresivní epizody se může objevit nadměrný strach z určitých konkrétních objektů, je však založen na depresivním přesvědčení, že postižený není schopen situaci zvládnout. Například má obavu z výšek, protože je přesvědčen, že by neodolal nutkání z výšky skočit. Tento pocit je však součásti obrazu deprese a po zlepšení nálady mizí. V depresi je také typické vyhýbání se sociálním situacím, imitujícím sociální fobii. Mezi typické depresivní příznaky patří patologický pocit smutku či prázdnoty trvající min. dva týdny, ztráta zájmu nebo potěšení při aktivitách dříve příjemných, ranní pesima, změny psychomotorického tempa, změny chuti k jídlu, poruchy spánku.
+4.4.2. PSYCHOTICKÉ PORUCHY
+Počáteční stádia psychotického onemocnění se mohou projevovat úzkostně depresivní symptomatologií. Proto musíme vždy pátrat po specifických psychotických příznacích, na které si pacient nemusí spontánně stěžovat. U schizofrenie se někdy objeví strach ze specifických situací, který připomíná fobii. Důvod strachu však bývá bludný. Další příznaky, jako je bludné myšlení, poruchy vnímání, kognitivní změny a rozvolnění asociací, ukazují na závažnější poruchu. Při úzkostné poruše má postižený náhled a vždy si uvědomuje, že jeho strachy jsou přehnané nebo nesmyslné. Mezi typické psychotické příznaky patří ozvučování, vkládání nebo odnímání myšlenek, bludy paranoidní, perzekuční či jiného typu, halucinace hlasů či jiného typu, neologismy, katatonní chování, inkoherentní myšlení či zřetelná apatie a ochuzení řeči.
+4.4.3. ZÁVISLOSTI
+Upozornit na přítomnost závislosti na alkoholu nebo jiných látkách může anamnéza, informace od blízkých, ale také zvýšené hodnoty jaterních enzymů v krvi. Dlouhodobý abusus návykových látek může vést k úzkostně depresivní symptomatologii, rovněž se mohou úzkostné příznaky objevit v rámci syndromu z vysazení. U pacientů s úzkostnou poruchou může dojít druhotně k rozvoji závislosti, když se snaží„samoléčbou“ zmírnit příznaky pitím alkoholu nebo užíváním benzodiazepinových preparátů. Někdy je těžké odlišit od sebe příčinu a následek.
+4.4.4. OBSEDANTNĚ KOMPULZIVNÍ PORUCHA
+Může se projevit nadměrným strachem a vyhýbáním se situacím nebo místům s možností nákazy. Ovšem kromě vyhýbavého chování a obavy z některých míst a situací se objevují typické obsese a kompulze.
+4.4.5. NÁSLEDKY PO TRAUMATU
+Důsledkem traumatické události může dojít u zranitelných jedinců k rozvoji poruchy adaptace. Podobně po ztrátě blízkého člověka. Diferenciálně diagnosticky je obtížné odlišení mezi poruchou adaptace se smíšenou úzkostně depresivní symptomatologií a smíšenou úzkostně depresivní poruchou. Často rozhodne teprve průběh – příznaky poruchy adaptace po vymizení stresu netrvají déle než 6 měsíců, výjimkou je její protrahovaná forma, která může trvat až 2 roky, zatímco smíšená úzkostně depresivní porucha může přetrvávat i léta. Relativně nenápadná anamnéza až do kritické události u adaptačních poruch svědčí spíše pro reaktivní stav.
+4.4.6. POSTTRAUMATICKÁ STRESOVÁ PORUCHA (PTSD)
+Projevuje se vyhýbáním situacím a předmětům připomínajícím trauma; kromě zjevné souvislosti s traumatickou události se objevují další typické příznaky PTSD, jako jsou flashbacky a noční můry.
+4.4.7. PORUCHY PŘÍJMU POTRAVY
+Vyhýbání se jídlu může někdy zpočátku imponovat jako úzkostná porucha, zejména pak specifická fobie. Ovšem důvod vyhýbání je u poruch příjmu potravy v přání snížit váhu a navíc jsou zde zpravidla další příznaky, jako je zvracení, bulimické záchvaty, užívání projímadel apod.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+4.4.8. JINÉ PSYCHICKÉ PORUCHY
+U dalších psychických poruch, jako jsou somatoformní poruchy, poruchy spánku, sexuální dysfunkce se mohou objevovat příznaky úzkosti nebo dysforie, nicméně intenzita dalších specifických příznaků je vyšší.
+Kardiovaskulární angina pectoris, arytmie, srdeční selhávání, infarkt myokardu
+Endokrinní hypertyreóza, hypoglykémie, menopauza, feochromocytom, premenstruační syndrom Respirační astmatické záchvaty, chronická obstrukční bronchopulmonální choroba, hyperventilační syndrom, hypoxie
+Neurologické epilepsie, cévní mozkové příhody, Parkinsonova choroba, roztroušená skleróza, vestibulární dysfunkce
+Bolest chronická bolest, bolesti hlavy, renální nebo biliární kolika, vředová choroba žaludku, vertebrogenní bolesti
+Tabulka č. 1: Nejčastější somatické stavy spojené s úzkostnou symptomatologií
+Angina pectoris, arytmie, srdeční selhávání, infarkt myokardu
+Hypertyreóza, hypoglykémie, menopauza, feochromocytom, premenstruální syndrom
+   Kardiovaskulární
+  Endokrinní
+     Respirační
+Astmatické záchvaty, chronická obstrukční bronchopulmonální choroba, hyperventilační syndrom, hypoxie
+     Neurologické
+Epilepsie, cévní mozkové příhody, parkinsonova choroba, roztroušená skleróza, vestibulární dysfunkce
+     Bolest
+Chronická bolest, bolesti hlavy, renální nebo biliární kolika, vředová choroba žaludku, vertebrogenní bolesti
+     Užívání psychoaktivních látek Intoxikace Odvykací příznaky
+Anticholinergní látky, Acylpyrin, kofein, steroidy, sympatomimetika psychostimulancia, některá starší antikonvulzíva, např. barbituráty, tetrahydrocannabinol (THC), alkohol, narkotika, sedativa, hypnotika
+ Tab. č. 2: Nejčastější farmaka spojená s úzkostnou symptomatologií
+   anestetika, analgetika
+antihypertenziva (methyldopa, betablokátory)
+antibiotika
+anticholinergní léky (atropin, antiarytmika, myorelaxancia, antiepileptika) antipsychotika
+estrogeny
+inzulín
+levodopa
+protizánětlivé nesteroidní látky
+steroidy
+stimulancia (kofein, tein, amfetamin, kokain)
+sympatomimetika (efedrin, teofylin)
+tyreoidální hormony
+  DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 7
+ 
+ 8
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+5. LÉČBA
+5.1. EDUKACE PACIENTA
+Léčbu zahajujeme edukací. Pacient potřebuje získat jednoduché a přitom adekvátní informace o tom, co se s ním děje – edukace o psychické poruše. Vhodné je poskytnout edukaci o tzv. stresové reakci, ze které lze vysvětlit celou řadu příznaků úzkostné poruchy. Na místě je i edukace o tzv. bludném kruhu, ze kterého pacient může pochopit souvislost mezi psychickými a tělesnými příznaky. V druhém kroku se potřebuje dozvědět, jakým způsobem se bude léčit – edukace o léčbě.
+5.2. TERAPEUTICKÉ MOŽNOSTI U ÚZKOSTNÝCH PORUCH – VŠEOBECNÉ ZÁSADY
+Úzkostné poruchy lze léčit jak psychoterapeuticky (individuální, skupinová, kognitivně behaviorální terapie), tak farmakoterapeuticky (antidepresiva, anxiolytika). Optimální je kombinace obou metod. Psychofarmaka zpravidla působí dříve. Psychoterapie je náročnější, její výsledek je však trvalejší.
+Léčba lehčích forem úzkostných poruch může být vedena psychoterapeuticky nebo farmakoterapeuticky, přednost by však měla mít psychoterapie, pokud je dostupná. Z dlouhodobého hlediska je vhodnější psychoterapie. Pacient ji však může odmítat nebo systematická psychoterapie pro něj nemusí být dostupná (v okolí není vycvičený terapeut) nebo vhodná (např. při intelektové nedostatečnosti).
+Od počátku je třeba vytvořit dohodu o léčbě, cílech léčby a léčebném plánu. Cíle léčby by měly
+explicitně směřovat k fungování v práci a v rodině, a nikoliv jen k odstranění příznaků. V počáteční fázi léčby je nejdůležitějším úkolem kontrolovat příznaky. Než je tohoto cíle dosaženo, může proběhnout 2–6 měsíců léčby. Proto je potřebné pacienta posilovat v trpělivosti, vysvětlit mu, že příznaky budou odeznívat pozvolna a že je potřebné, aby i v průběhu léčby pozvolna zvyšoval nároky na sebe. Cílem není úplné odstranění příznaků, ale kvalitní fungování v životě.
+Postoj k psychofarmakům je potřebné důkladně probrat a uvést na pravou míru mýty o psychofarmacích, kterými trpí jak pacient, tak jeho příbuzní, jinak hrozí, že pacient nebude předepsané léky užívat. Dále je potřebné vysvětlit, za jak dlouho mohou čekat, že se účinek objeví a jaké se mohou objevit vedlejší účinky, eventuálně co s nimi má dělat. Je třeba počítat s tím, že pacient si zpravidla přečte letáček u léků, kde jsou uvedeny i nejvzácnější vedlejší účinky, a že vzhledem k úzkostné poruše má větší pravděpodobnost je prožít nebo vnímat intenzivněji. Součástí léčby jsou také režimová opatření, aktivní relaxace, dostatek spánku, zvýšení fyzické aktivity, a v neposlední řadě i omezení příjmu kofeinu.
+5.3. FARMAKOTERAPIE
+5.3.1. ZÁSADY FARMAKOTERAPIE
+Vzhledem k tomu, že úzkostné poruchy vesměs mívají chronický průběh, léčba anxiolytiky benzodiazepinové řady (alprazolam, clonazepam, bromazepam, diazepam, oxazepam) není vhodná, protože na ně snadno vzniká tolerance a závislost.
+Výhodnější je podávání nebenzodiazepinových anxiolytik (hydroxyzin, buspiron), antidepresiv (paroxetin, citalopram, escitalopram, sertralin, fluoxetin, fluvoxamin, clomipramin, venlafaxin, moklobemid) či nízké dávky antipsychotik druhé generace (quetiapin). Platí zásada začínat nízkou dávkou antidepresiva (zpravidla poloviční, než je uvedená na příbalovém letáku), až pak po jednom až dvou týdnech dávku zvýšit. Důvodem je zvýšená citlivost pacientů s úzkostnými poruchami na nežádoucí účinky léků (zejména pacienti s panickou poruchou a generalizovanou úzkostnou poruchou).
+Vzhledem k opožděnému nástupu účinku SSRI antidepresiv a jejich iniciální aktivaci 5HT2 receptorů, která může paradoxně vést k dočasnému zhoršení anxiety, je u pacienta s akutními příznaky úzkosti výhodné začít léčbu kombinací benzodiazepinu s SSRI a upozornit na to, že benzodiazepin bude vysazen po několika týdnech, když začne působit SSRI.
+5.3.2. VÝBĚR LÉKU
+První volbou u úzkostných poruch jsou SSRI. Jedná se o skupinu léků, které kromě vysoké účinnosti mají minimum vedlejších účinků, jsou relativně bezpečné, nejsou kardiotoxické, lze je podávat i seniorské populaci, nemají potenciál k rozvoji závislosti a dají se podávat v jedné denní dávce.
+5.3.3. DÁVKOVÁNÍ A DÉLKA FARMAKOTERAPIE
+Léčba úzkostných poruch bývá zpravidla dlouhodobá. Je důležité podávat na počátku velmi nízkou dávku. Po DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+  
+ Tab. č. 4: Obvykle předepisovaná psychofarmaka u úzkostných poruch
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+jednom až dvou týdnech je možné velmi pomalu titrovat na plnou dávku léku. První známky zlepšení stavu se neobjevují dříve než za 3 až 6 týdnů. Ústup potíží bývá pomalý, u většiny pacientů trvá 8–12 týdnů. Pokud pacient zareaguje jen částečně na základní dávku během 4–6 týdnů, je vhodné postoupit na maximální dávku a s ní vytrvat alespoň 2 týdny. Po ústupu příznaků je vhodné pokračovat v léčbě alespoň 12–18 měsíců. Vysazování antidepresiv je zpravidla postupné, trvá nejméně měsíc. Pokud se však příznaky objeví znovu, je na místě se k lékům vrátit a v terapii pokračovat.
+Tabulka č. 3: Základní zásady farmakoterapie úzkostných poruch v primární péči
+   • Nejvhodnější volbou jsou antidepresiva a to zejména skupiny SSRI - paroxetin, citalopram, escitalopram, sertralin, fluoxetin, fluvoxamin
+• Začínat nízkou dávkou - počáteční nežádoucí účinky může pacient hůře tolerovat a být více úzkostný – edukovat
+• Účinek se dostavuje za 3–12 týdnů - edukovat
+• Podávat dostatečně dlouhou dobu: 12–18 měsíců udržovací léčba
+• Před vysazením postupně snižovat dávku, vysazovat minimálně 1 měsíc
+• Anxiolytika jen na přechodnou dobu - vysadit do 8 – 16 týdnů, jinak hrozí závislost (méně u generalizované
+úzkostné poruchy)
+• Kombinace anxiolytika s antidepresivem krátkodobě - než začne působit antidepresivum
+       látka
+terapeutická dávka v mg
+počáteční dávka u úzkostných poruch v mg
+   SSRI
+   paroxetin citalopram escitalopram sertralin fluoxetin fluvoxamin
+clomipramin
+venlafaxin*
+trazodon
+moklobemid
+buspiron hydroxyzin promethazin pregabalin quetiapin*
+alprazolam bromazepam clonazepam diazepam oxazepam
+* preskripční omezení pro VPL
+20 – 60 20 – 40 10 – 20 50 – 200 20 – 60 50 – 300
+100 – 250 75 – 225 75 – 300 300 – 600
+20 – 60 25 – 100 25 – 50 150 – 600 25 – 300
+0,25 – 4 1,5 – 9 0,5 – 6 5 – 20 10 – 30
+10 10 5 25 20 50
+25 75 25 150
+15 12,5 12,5 75 25
+0,25 – 0,5 0,75 0,5 2,5
+5
+                 Tricyklická antidepresiva
+     SNRI
+     SARI
+     RIMA
+     Jiné látky
+                 Benzodiazepiny
+                 DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+9
+ 
+ 10
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+Tab. č. 5: Přehled, výhody a nevýhody protiúzkostných léků s povolenou preskripcí VPL
+ skupina
+  výhody
+  nevýhody
+   SSRI
+  Dobře tolerovaná Bezpečnost při předávkování Minimální přírůstek na váze Podávání jednou denně Antidepresivní účinek
+  Pocity nervozity
+Iniciální nauzea, průjmy, výjimečně zvracení Bolesti hlavy
+Únava
+Insomnie
+Sexuální dysfunkce
+   Benzodiazepiny
+ Rychlý nástup
+Redukce anticipační úzkosti
+Dobrá snášenlivost
+Široké terapeutické rozpětí
+Bez iniciální aktivace
+Relativně bezpečné při předávkování
+ Sedace
+Zhoršení kognitivních funkcí
+Syndrom z vysazení
+Návykový potenciál
+Zkřížená tolerance s alkoholem
+Nevhodné u anamnézy závislosti, poruch osobnosti
+ Tricyklická antidepresiva
+  Podávání jednou denně Antidepresivní účinek Dlouhé zkušenosti
+  Iniciální aktivace Anticholinergní vedlejší účinky Přírůstek na váze
+Ortostatická hypotenze Nebezpečné při předávkování Sexuální dysfunkce
+ RIMA
+  Minimální vedlejší účinky a dobrá snášenlivost
+Chybí iniciální aktivace
+Šetří sexuální fungování
+  Pravděpodobně nižší efektivita Opožděný počátek účinku
+   5.3.4. RIZIKO VZNIKU ZÁVISLOSTI NA LÉČBĚ
+Závislost u antidepresiv a nebenzodiazepinových anxiolytik nevzniká. Benzodiazepinová anxiolytika by se však vzhledem k riziku závislosti neměla podávat déle než 2–4 měsíce a obecně je lepší se jejich dlouhodobému užívání vyhnout. Jejich vysazování musí být pomalé, o 1/8 dávky za týden.
+5.3.5. KDY UKONČIT FARMAKOTERAPII
+Trvající remise ve všech pěti dimenzích 12–18 měsíců.
+Pět dimenzí pro stanovení plné remise:
+• úzkostné stavy (panika, obavy, starosti, reminiscence, obsese a kompulze atd.) • anticipační úzkost
+• vyhýbavé chování
+• postižené role (pracovní/rodinné/společenské)
+• celkové zdraví
+Stabilní životní situace
+Pacient se cítí připraven
+5.3.6. KDY ZMĚNIT MEDIKACI
+• Netolerance léku (nežádoucí účinky – viz novelizovaný doporučený postup Deprese, CDP – PL 2023)
+• Rezistence na léčbu nebo ztráta účinnosti léku
+Pokud po 6 týdnech není žádný efekt, zvažujeme výměnu léku. Faktory, které vedou k persistenci příznaků, se velmi často týkají komorbidní symptomatologie. Často je to u komorbidity
+s depresí, další úzkostnou poruchou, těžkou agorafobií, poruchou osobnosti. Dalším důvodem
+může být abusus návykových látek. Vždy se musíme zamyslet, jde-li o pravou resistenci, nebo jen
+léčba nepokračuje, jak by měla. Kontrolujeme, zda jsme použili dostatečnou dávku léku po
+dostatečně dlouhou dobu a zda je pacient doopravdy užívá.
+• V případě čisté resistence na lék je možné lék zaměnit nebo je možné pracovat s kombinacemi léků.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+5.3.7. ZMĚNA LÉKU
+O účinnosti změny léčby chybí u jednotlivých úzkostných poruch kontrolované studie. Pokud vezmeme v úvahu údaje u depresivní poruchy, zdá se, že pokud je jedno SSRI málo účinné, druhé účinné být může. Zda tento princip platí také u jednotlivých úzkostných poruch, nevíme. Alternativním přístupem však může být přechod na lék jiné skupiny, některé z novějších antidepresiv, vč. přechodného podávání anxiolytika. Při každé změně je nutné zvážit lékové interakce, které mohou nastat. V tomto kroku je vždy potřebné zvážit kognitivně–behaviorální terapii, pokud nebyla již paralelně použita.
+5.3.8. AUGMENTACE LÉČBY
+Dostatečná empirická data, která by nám pomohla v rozhodnutí, zda změnit lék nebo provádět augmentaci, nejsou u úzkostných poruch k dispozici. Doporučení se různí, některá říkají, že lék měníme v případě, že pacient na předchozí léčbu nereagoval do 6 týdnů žádným zlepšením, zatímco k augmentaci přistupujeme, když se zlepšil, ale zlepšení po 12 týdnech léčby není dostatečné. Měřítko, co je a co není dostatečné, není dáno. Augmentační strategie patří do rukou zkušeného specialisty.
+5.3.9. KOMBINAČNÍ LÉČBA
+U velmi resistentních pacientů je indikována kombinace SSRI s tricyklickými antidepresivy (musíme plně zvážit možné interakce mezi léky a potenciaci nežádoucích účinků), nebo je možno zkusit kombinaci se stabilizátorem nálady či nízkou dávkou antipsychotika. Zásadně inkompatibilní jsou kombinace s IMAO. Kombinační léčba patří do rukou specialisty.
+5.3.10. LÉČBA PACIENTA S KOMORBIDITOU
+Léčebně nejsložitější komorbiditou bývá závislost na návykových látkách anebo alkoholu. Všeobecně
+závislost, byť vznikla druhotně, se stává základním problémem a měla by být léčena jako první. Až po
+dosažení abstinence je možná přiměřená léčba panické poruchy. Obtížná bývá komorbidita s depresí, protože deprese většinou pacienta demotivuje k provádění expoziční léčby. Navíc komorbidní deprese výrazně zvyšuje riziko suicidia. Při komorbiditě s depresí je vždy na místě farmakoterapie, ať provádíme zároveň specifickou psychoterapii či nikoliv. Komorbidita s poruchou osobnosti může znamenat obtíže a někdy i resistenci v léčbě. Je potřeba trpělivost a laskavou shovívavost, ale přitom pevnou důslednost při vedení pacienta. Při komorbiditě s poruchou osobnosti je vždy lepší se vyhnout benzodiazepinům. Naproti tomu antidepresiva kromě úzkosti mohou ovlivnit i impulzivitu a tak mohou velmi dobře pomoci.
+Tab. č. 6: Indikace a dávkování antidepresiv SSRI v léčbě úzkostných poruch schválené v ČR pro všeobecné praktické lékaře
+     paroxetin
+40–60 20–40 10–20 25–100–200
+20–50
+- -
+20–50
+   citalopram
+   escitalopram
+10–20
+25–100–200 -
+10–20
+   sertralin
+ Pozn. 1: PANIC – panická porucha, SAD – sociální fobie, GAD – generalizovaná úzkostná porucha Pozn. 2: silně vyznačené číslo představuje dávku obvyklou v mg
+5.3.11. LÉČBA PACIENTA S PORUCHOU SPÁNKU
+Úzkostná porucha často vede k poruše spánku. Chceme-li se vyhnout hypnotikům, můžeme zkusit
+trazodon – antidepresivum typu SARI. Trazodon není sice pro úzkostné poruchy registrován, ale
+v dávce 50 mg večer může nahradit hypnotikum. Kombinace trazodonu v dávce do 150 mg s SSRI je vzhledem k jeho farmakodynamice výhodná, vyšší dávky trazodonu v kombinaci se SSRI znamenají vyšší riziko rozvoje serotoninového syndromu.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+PANIC
+SAD
+GAD
+ 11
+ 
+ 12
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+5.4. PSYCHOTERAPIE ÚZKOSTNÝCH PORUCH
+Psychoterapie je srovnatelně účinná s farmakoterapií v léčbě akutních stavů, po ukončení léčby je však její efekt trvalejší než u farmakoterapie. Je limitována především dostupností a větší časovou náročností. Akutní intenzivní psychoterapie trvá 6–12 týdnů; záleží na frekvenci setkání. Psychoterapie používá různé přístupy. Největší zkušenosti jsou s následujícími přístupy:
+5.4.1. DYNAMICKÁ PSYCHOTERAPIE A PSYCHOANALÝZA
+Psychoanalytický přístup je založen na předpokladu, že aktuálně přítomné chování, emoce a vztahové vzorce jsou hluboce ovlivněny minulými zkušenostmi, nejvíce z raného období života daného jedince.
+5.4.2. SKUPINOVÁ PSYCHOTERAPIE
+Základní idea skupinové psychoterapie vychází z předpokladu, že léčené problémy vznikly v malých
+přirozených skupinách jako jsou rodina, školní třída nebo pracovní kolektiv, které mohou formovat nebo deformovat psychiku a chování člověka. V terapeutické skupině je možné tyto poruchy diagnostikovat a léčebně korigovat. Člen skupiny se učí porozumět způsobům, jak si tvoří svoje vztahy na základě konfrontací s členy skupiny a interpretace skupiny. Náhled znamená pochopení, čím jsou jeho vztahy podmíněny, odkud pochází jeho vztahové vzorce a jak se projevují v chování k druhým, případně jak je prožívají druzí. Úkolem člena skupiny je však nejen pochopit podmíněnost svých vztahů a najít jejich lepší polohu, ale také změnit své chování k druhým, které z těchto vztahů vyplývá. Ve skupinové dynamické nebo interpersonální psychoterapii bývají léčeni zejména pacienti trpící generalizovanou úzkostnou poruchou a smíšenou úzkostně depresivní poruchou. Vesměs ve skupině dobře profitují, zejména pokud je skupinová práce kombinovaná s farmakoterapií. Pacienti trpící fobiemi ze skupin profitují méně, bývají často skupinou chráněni a atmosféra přijetí je nenutí k vystavení se obávaným podnětům. Pacienti trpící sociální fobii nejčastěji skupinovou terapii rovnou odmítnou.
+5.4.3. KOGNITIVNĚ BEHAVIORÁLNÍ TERAPIE
+Nejvíce výzkumně ověřeným směrem používaným pro léčbu většiny úzkostných poruch je kognitivně behaviorální terapie (KBT). KBT je založena na principech teorie učení; jak se člověk v průběhu života
+naučil být úzkostným, tak se může naučit být k úzkosti odolným. KBT je založena na jasném programu jednotlivých kroků, který je do značné míry přizpůsoben individualitě každého pacienta. Podle logického plánu se pacient postupně učí dovednostem, jak zvládat své epizody obav a starostí, panické záchvaty, fobické vyhýbavé chování, jak zmírnit úzkost, naučit se dobře komunikovat i jak efektivně řešit životní problémy.
+5.4.4. ON-LINE TERAPEUTICKÉ PROGRAMY
+V posledních letech se celosvětově setkáváme s nejrůznějšími on-line terapeutickými programy, mobilními aplikacemi, přímým nácvikem v programech virtuální reality. Programy jsou zpracovány pro jednotlivé úzkostné poruchy. Jsou založeny na důkazech o vysoké efektivitě i bezpečnosti. Je tedy vhodné v rámci primární péče pacienta nasměrovat i tímto způsobem léčby.
+6. LITERATURA
+DP Úzkostné poruchy, Doporučený diagnostický a léčebný postup pro všeobecné praktické lékaře, Autoři: MUDr. Věra Vobořilová, Psychiatrická společnost ČLS JEP, MUDr. Rudolf Červený, Ph.D., Společnost všeobecného lékařství ČLS JEP 2018.
+Další literatura je k dispozici u autorů.
+Vysvětlivky:
+SSRI – selektivní inhibitory zpětného vychytávání serotoninu
+SNRI – antidepresiva blokující reuptake serotoninu a noradrenalinu
+SARI – serotoninoví antagonisté a inhibitory zpětného vychytávání serotoninu TCA – tricyklická antidepresiva
+RIMA – reverzibilní inhibitory monoaminooxidázy
+BZD – benzodiazepiny
+rTMS – repetitivní transkraniální magnetická stimulace
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+Příloha – vybrané názvy druhů fobií:
+A
+ablutofobie – strach z prádla nebo koupání
+acerofobie – strach z kyselosti
+aerofobie – strach z létání a proudícího vzduchu
+afefobie – též zvána haptefobia či hafefobia, strach z dotyků
+agorafobie – strach z otevřených prostranství
+agrizoofobie – strach z divokých zvířat
+agyiofobie – strach z přecházení přes silnici
+achluofobie – strach z temnoty
+aichmofobie – strach ze špičatých předmětů
+ailurofobie – strach z koček
+akarofobie – strach z hmyzu a štípnutí hmyzem
+akribofobie – strach pisatele, že napsal něco nesprávně či nevhodně
+akrofobie – též zvána acrofobie, strach z výšky nebo hloubky
+akustikofobie – strach z hluku
+akustofobie – strach z mraků
+alektorofobie – forma zoofobie, strach ze slepic
+algofobie – strach z bolesti vlastní i cizí
+amatofobie – strach z prachu
+amaxofobie – strach z dopravních prostředků a především z jízdy v nich
+ambulofobie – strach z chůze
+amerikanofobie – strach z Ameriky (z USA)
+amychofobie – strach z drápů, spárů a poškrábání
+anatidaefobie – strach z toho, že se na vás, někde, nějak kouká kachna
+androfobie – strach žen z mužů
+anemofobie – strach z větru
+anginofobie – strach z udušení
+antropofobie – strach z lidí
+apeirofobie – strach z nekonečna
+apifobie – forma zoofobie, strach ze včel
+arachibutyrofobie – strach z toho, že se na horní patro úst přilepí arašídové máslo, případně z arašídového másla obecně arachnofobie – forma zoofobie, strach z pavouků
+astrofobie – strach z přírodních úkazů, např. bouřky
+atefobie – strach ze zničení
+aurofobie – strach ze zlata
+autofobie – strach z osamění nebo ze sebe sama
+automatonofobie – strach z něčeho, co falešně představuje živou bytost, např. loutky a figuríny
+aviafobie – strach z létání
+B
+bacilofobie – strach z bacilů a mikrobů či nákazy
+bakteriofobie – strach z bakterií či nákazy
+balistofobie – strach ze střel
+barofobie – strach z gravitace či atmosférického tlaku
+basifobie – též zvána basofobie, strach z chůze, neschopnost stát – obava upadnutí batmofobie – strach ze schodů a schodišť
+batofobie – strach z hloubek nebo příkrých svahů
+batrachofobie – strach z obojživelníků
+batysiderodromofobie – strach z podzemní dráhy, metra
+belonefobie – strach z jehly
+bendofobie – strach z práce ve fastfoodu
+bibliofobie – strach z knih
+botanofobie – strach ze sazenic či rostlin
+brontofobie – též zvána brontegmofobie, strach z hromu
+C
+cacofobie – strach z šerednosti
+cenotofobie – strach z čehokoli nového
+cibofobie – strach z jídla
+coulrofobie – strach z klaunů
+cyberofobie – strach z počítačů a práce s nimi
+cyklofobie – strach z jízdních kol a jízdy na nich
+D
+damnofobie – strach z věčného zatracení či pekelných trestů
+decidofobie – strach z rozhodování
+decrescofobie – strach ze zmenšování vlastní postavy
+defekalgesiofobie – strach z bolestivých stolic a bolesti střev
+deipnofobie – strach z jídelny
+démonofobie (i demonofobie či daemonofobie) – strach z démonů, duchů či strašidel demofobie – strach z lidí
+dendrofobie – strach ze stromů
+dentofobie – též zvána odontofobie, strach ze zubařů a stomatologických zákroků
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 13
+ 
+ 14
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+dentoskalpofobie – strach ze zubních párátek dermatosiofobie – strach z onemocnění kůže dextrofobie – strach z věcí napravo od pozorovatele didaskaleinofobie – strach z chození do školy dikofobie – strach ze soudu
+dipterofobie – strach z dvoukřídlého hmyzu
+domatofobie – strach z přebývání v domech
+dromofobie – strach z ulic
+dysmorfofobie – strach z deformace či vlastní ošklivosti dysponderomorfofobie – strach z tělesné deformity způsobené obezitou
+E
+efebifobie – též zvána ephebifobie, strach z teenagerů (z náctiletých lidí)[13] efodiofobie – strach z příprav na cestu
+eisotrofobie – strach ze zrcadel
+ekleziofobie – strach z kostela
+ekvinofobie – též zvána equinofobie nebo hipofobie, strach z koní elektrofobie – strach z elektřiny a elektrických spotřebičů
+emetofobie – strach ze zvracení
+emotikonofobie – strach z používání nebo psaní smajlíků
+enisofobie – strach z kritiky
+enofobie – strach z alkoholických nápojů
+entomofobie – forma zoofobie, strach z hmyzu
+eremofobie – strach ze samoty
+ergofobie – strach z jednání, konání, práce
+ereutofobie – též zvaná erytrofobie strach z zčervenání (nebo při červenání) erotofobie – strach ze sexu nebo sexuálních témat
+etalomichlofobie – strach ze smogu
+eufobie – strach z dobrých zpráv
+eurofobie – strach z Evropské unie nebo z Evropy
+eurotofobie – strach ze ženských genitálií
+eutynofobie – strach z odpovědnosti
+F
+fagofobie – též zvána phagofobie, strach z polykání
+fantomofobie – strach z přízraků
+farmakofobie – strach z léků[5]
+febrifobie – strach z horečky (častý u hypochondrie)
+felinofobie – strach z koček (taky ailurofobie, elurofobie, galeofobie, gatofobie) filofobie – strach ze zamilování se
+fobofobie – strach z vlastního strachu
+fonofobie – strach z mluvení při koktavosti, případně obecně z vlastního hlasu fotofobie – strach ze světla
+frankofobie – strach z Francouzů
+frigofobie – strach z chladu nebo chladných věcí
+fronemofobie – strach z přemýšlení
+ftizeofobie – strach z onemocnění tuberkulózou
+fungofobie – strach z hub
+G
+gamofobie – strach ze sňatku, z manželství
+gaumafobie – strach z různých chutí
+gefyrofobie – strach z mostů
+geliofobie – strach ze smíchu
+genofobie – strach ze sexu
+geomelofobie – strach z brambor
+geraskofobie – strach ze stárnutí
+germanofobie – strach z Němců
+germofobie – strach z bakterií
+gerontofobie – strach ze starých lidí[
+geumafobie – strach z různých chutí
+glosodetofobie – strach z dlouhých slov nebo jazykolamů
+gnomofobie – strach z vědců, vzdělanců
+googlefobie – strach z Googlu
+gripaviarofobie – strach z ptačí chřipky
+gymnofobie – strach z nahoty
+gynofobie – strach mužů z žen
+H
+hadefobie – strach z pekla hamartofobie – strach z omylů hamaxofobie – strach z vozidel harpaxofobie – strach ze zlodějů hedofobie – strach z radosti
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+heliofobie – strach ze slunečního světla
+helmintofobie – forma zoofobie, strach z červů
+hematofobie – strach z krve
+herpetofobie – strach z plazů
+hexafobie – strach z čísla 6
+hexakosioihexekontahexafobie – strach z čísla 666 (údajné číslo šelmy)
+hierofobie – strach z posvátných věcí
+hipopotomonstroseskvipedaliofobie – strach z dlouhých slov (sáhodlouhých shluku písmen)[10], jde však o fóbii smyšlenou hodosemofobie – strach z dopravních značek
+homichlofobie – též zvána nebulofobie nebo nebulafobie, strach z mlhy
+homilofobie – veřejně mluvit, strach z trestu
+homofobie – strach z homosexuality nebo homosexuálně zaměřených osob
+hoplofobie – strach ze zbraní, zejména střelných zbraní
+hyalofobie – strach ze skla
+hydrofobie – strach z vody či koupání
+hylofobie – strach z lesa
+hypengyofobie – strach z odpovědnosti
+hypnofobie – strach ze spánku
+hypsofobie – strach z výšek a pádů z výšek
+CH
+chaetofobie – strach z vlasů
+cheimafobie – strach z chladu
+chiraptofobie – strach z cizích doteků chiroptofobie – druh zoofobie, strach z netopýrů chorofobie – strach z tance
+chrematofobie – strach z peněz
+christianofobie – strach z křesťanů a z křesťanství chromofobie – strach z barvy
+I
+iatrofobie – strach z ordinace lékaře nebo doktorů ictofobie – strach z mozkové mrtvice
+ideofobie – strach z myšlenky
+idrosofobie – strach z pocení
+ichtyofobie – druh zoofobie, strach z ryb ikonomechanofobie – strach z fotoaparátu, fotografování ilyngofobie – strach ze závrati
+infarktofobie – strach z infarktu, srdeční mrtvice
+iofobie – strach z otravy jedem
+islamofobie – strach z muslimů a islámu
+isopterofobie – strach z termitů a hmyzu ve dřevu
+J
+judeofobie (česky též židofobie) – strach z židů a židovství
+K
+kainofobie – strach ze změn a novot
+kairofobie – strach ze zmeškání správné příležitosti kakofobie – strach z šerednosti
+kakotechnofobie – strach z nemotornosti
+karcinofobie – též zvána kancerofobie, strach před rakovinou kardiofobie – strach z onemocnění srdce, či poruch srdce katagelofobie – strach z výsměchu
+katotrofobie – strach ze zrcadel a jejich rozbití
+keirofobie – strach ze stříhání a holení
+kenofobie – strach z prázdných míst
+keraunofobie – forma astrofobie, strach z bouřek a blesků kinemortofobie – strach ze zombie
+kinezofobie – strach z pohybu
+klaustrofobie – strach z uzavřených prostor
+kleptofobie – strach z okradení či kradení
+klimofobie – strach ze šplhání
+kopofobie – strach z únavy
+koprofobie – strach z vlastních výkalů
+koumpounofobie – strach z knoflíků
+kremnofobie – strach z pohledu do hloubky
+kruciverbofobie – strach z křížovek
+kyberfobie – strach z počítačů
+kyesofobie – strach z těhotenství
+kynofobie – forma zoofobie, strach ze psů
+L
+lachanofobie – strach ze zeleniny
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 15
+ 
+ 16
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+latoňfobie- strach z pana učitele Latoňe
+lalofobie, laliofobie – strach z hovoru
+leukofobie – strach z bílé barvy, nebo čehokoli bílého
+levofobie – strach z věcí nalézajících se na levé straně těla
+linofobie – strach z provazů
+liticafobie – strach ze soudních procesů
+logizomechanofobie – strach z počítačů či práce na nich
+logofobie – strach z vlastního mluveného projevu, často provázena koktavostí (spíše u dospělých než u dětí) lupinofobie – forma zoofobie, strach z vlků
+lutrafobie – forma zoofobie, strach z vyder
+lykantrofobie – možná forma zoofobie, kdy se jedinec bojí vlkodlaků či přeměny ve vlkodlaka
+lysofobie – strach ze vztekliny
+M
+macrofobie – strach z dlouhého čekání
+mageirokofobie – strach z vaření
+maieusiofobie – strach z porodu
+maniofobie – strach ze zbláznění se
+marofobie – strach z dlouhého čekání
+mastigofobie – strach z trestání, bití
+megalofobie – strach z velkých věcí
+mechanofobie – strach ze strojů
+melanchofobie – strach z ticha či prázdnoty
+melofobie – strach z hudby
+metrofobie – strach z poezie, lépe řečeno z rytmu básní – postižený člověk se bojí i číst neznámé knihy ze strachu, že narazí na nějakou báseň
+mikrofobie – strach z malých předmětů
+monofobie – strach z osamění
+monopatofobie – strach z určité choroby
+musofobie – forma zoofobie, strach z myší
+myrmekofobie – forma zoofobie, strach z mravenců.
+mysofobie – též zvána myzofobie, strach ze špíny, nákazy, znečištění[12]
+N
+nebulafobie – viz homichlofobie
+negrofobie – strach z ekvatoreálních obyvatel, černochů
+nekrofobie – strach z mrtvol
+nelofobie – strach ze skla
+neofobie – strach z něčeho nového
+nomatofobie – strach z jmen
+nomofobie – strach ze ztráty či odcizení mobilního telefonu nebo strach ze ztráty mobilního signálu (strach z nedostupnosti, ztráty kontaktů s jinými osobami, ...)
+nosofobie – strach z nemocí a jejich následků
+nosocomefobie – strach z nemocnice
+nostofobie – strach z návratu domů
+novercafobie – strach z nevlastní matky
+nucleomitufobie – strach z nukleárních zbraní
+numerofobie – strach z čísel
+nyktofobie – strach ze tmy a nocí, vyskytuje se zejména u neurotických dětí
+O
+obesofobie – též zvána pocrescofobie, strach z tloustnutí
+odontofobie – strach ze zubařů
+odynofobie – strach z bolesti
+oenofobie – strach z vína
+ofidiofobie – forma zoofobie, strach z hadů
+ochofobie – strach z vozidel
+oktofobie – strach z čísla 8
+olfaktofobie – strach z některých pachů (podle některých zdrojů i z hluku) ombrofobie – strach z deště
+ommatofobie – strach z pohledu očí
+onomatofobie – strach z vyslovení určitého čísla nebo slova
+optofobie – strach otevřít oči
+ornitofobie – strach z ptáků jakéhokoliv druhu[5]
+oxyfobie – strach z ostrých nástrojů
+P
+pagofobie – strach ze sněhu a mrazu
+pachnofobie – strach z jinovatky
+pantofobie – též zvána panofobie, strach ze všeho papafobie – strach z papeže
+papillofobie – strach z poprsí paraskevidekatriafobie – strach z pátku 13.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+parazitofobie – strach z parazitů
+pareunofobie – strach z pohlavního styku
+paruréza – strach z močení před lidmi
+patofobie – strach z nemoci, choroby
+patriofobie – strach z dědičnosti
+peccatofobie – strach z hříchu
+pedikulofobie – strach ze vší a zavšivení
+pediofóbie – strach z hraček
+pedofobie – strach z dětí
+peirafobie – strach ze zkoušky, z veřejného vystoupení peladofobie – strach z plešatých lidí
+peniofobie – strach z chudoby
+peristerofobie – forma zoofobie, strach z holubů phagofobie – viz fagofobie
+plytomechanofobie – strach z praček
+pnigofobie – strach z udušení
+pokreskofobie (obesofobie) – strach z tloustnutí postokalyptrofobie – strach z kondomů
+potamofobie – strach z tekoucí vody[
+primeisodofobie – strach z prvního pohlavního styku pseudofobie – strach ze lži, přistižení při lži psychrofobie – strach z chladu
+pteromechanofobie – strach z letadel
+pyrexiofobie – strach z horečky
+pyrofobie – strach z ohně
+R
+rabdofobie – strach z rákosky nebo kouzelnické hůlky
+radiofobie – strach z radioaktivity a rentgenových paprsků
+ranidafobie – forma zoofobie, strach z žab
+rektofobie – strach z onemocnění konečníku
+rodentofobie – forma zoofobie, strach z hlodavců
+romofobie (česky též cikánofobie nebo cigánofobie) – strach z cikánů - Romů
+S
+satanofobie – strach ze Satana
+scopofobie – strach z pohledů druhých
+seismofobie – strach ze zemětřesení
+selachofobie – forma zoofobie, strach ze žraloků
+selenofobie – strach z luny, z měsíce; podle řecké bohyně měsíce Seleny
+sexosekurofobie – strach z antikoncepce, kondomů
+sfeksofobie – forma zoofobie, strach z vos
+siderodromofobie – strach z vlaků, ze železnice
+siderofobie – strach z hvězd
+sitofobie – strach z jídla
+skabiofobie – strach ze svrabu
+skotofobie – strach z temnoty
+sociofobie – strach z určitého sociálního, mezilidského kontaktu (jezení, pití, psaní, mluvení, čtení před ostatními atd.) pramenící z vědomých či nevědomých negativních očekávání vlastního selhání v této osobní rovině, je též nazývána „sociální fobie“ spektrofobie – strach ze zrcadel
+strobilodromofobie – strach z jízdy na kolotoči
+syngenezofobie – strach z příbuzenstva, rodinných příslušníků
+T
+tabofobie – strach z vysychání míchy
+tafefobie – strach z možnosti být pohřben zaživa tanatofobie – též zvána thanatofobie, strach ze smrti teofobie – forma zeusofobie, strach z božího trestu a hněvu testofobie – strach z testů
+tetrafobie – strach z čísla
+thanatofobie – strach ze smrti
+tokofobie – ženský strach z porodu
+topofobie – strach z určitého místa
+traumatofobie – strach z úrazu
+trichofobie – strach z vlasů a chlupů (např. v pokrmech) trichopatofobie – strach z chorob vlasů
+triskaidekafobie – strach z čísla 13 (údajně nešťastné číslo) tuberkulofobie – strach z tuberkulózy
+trypofobie – strach z děravých struktur (semínka lotosu)
+U
+uranofobie – strach z nebe[5]
+urofobie – strach z moči či pomočení se
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 17
+ 
+ 18
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+V
+vakcinofobie – strach z očkování
+venerofobie – strach z pohlavních nemocí venofobie – strach z cév
+venustrafobie – strach z krásných žen vermifobie – strach z červů a střevních parazitů vertigofobie – strach ze závrati
+vestifobie – strach z šatů
+virginitifobie – strach ze znásilnění
+vitrikofobie – strach z nevlastního otce vomitofobie – strach ze zvracení
+W
+wiccafobie – strach z čarodějnic a kouzelnictví wikifobie – strach z Wikipedie
+X
+xanthofobie – strach ze žluté barvy nebo slova žlutý
+xenofobie – strach či odpor k cizincům, až strach ze všeho cizího xerofobie – strach ze suchých předmětů
+xylofobie – strach z dřevěných předmětů a lesů
+Z
+zelofobie – strach z žárlivosti
+zemmifobie – forma zoofobie, strach z velikých hlodavců, např. krys zeusofobie – strach z Boha nebo božstev
+zoofobie – strach z určitých nebo veškerých zvířat
+zytofobie – strach z piva
+POZNÁMKY
+Tisk podpořen společností
+Doporučený postup byl vytvořen s podporou nadačního fondu Praktik © 2006 Společnost všeobecného lékařství ČLS JEP
+ISBN: 80-86998-05-3
+Společnost všeobecného lékařství ČLS JEP
+Centrum doporučených postupů pro praktické lékaře
+U Hranic 16, 100 00 Praha 10
+e-mail: svl@cls.cz
+http://www.svl.cz
+IS B N 8 0 - 8 6 9 9 8 - 0 5 - 3
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+ÚZKOSTNÉ PORUCHY - AKTUALIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 19
+ 
+  Společnost všeobecného lékařství ČLS JEP Centrum doporučených postupů pro praktické lékaře Sokolská 31, 120 00 Praha 2
+e–mail: svl@cls.cz http://www.svl.cz
+ISBN 978-80-88280-44-6
+ ISBN 978-80-88280-44-6
+© 2023, Společnost všeobecného lékařství ČLS JEP
