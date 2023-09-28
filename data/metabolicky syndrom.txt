@@ -1,0 +1,368 @@
+  Doporučené diagnostické a terapeutické postupy pro všeobecné praktické lékaře
+METABOLICKÝ SYNDROM
+Autoři:
+MUDr. Igor Karen
+Společnost všeobecného lékařství ČLS JEP
+prof. MUDr. Hana Rosolová, DrSc.
+Česká kardiologická společnost ČLS JEP
+prof. MUDr. Miroslav Souček, CSc.
+Česká internistická společnost ČLS JEP
+prof. MUDr. Štěpán Svačina, DrSc., MBA
+Česká internistická společnost ČLS JEP
+prof. MUDr. Michal Vrablík, Ph.D.
+Česká společnost pro aterosklerózu
+MUDr. Dana Moravčíková
+Společnost všeobecného lékařství ČLS JEP
+  NOVELIZACE 2023
+Centrum doporučených postupů pro praktické lékaře
+Společnost všeobecného lékařství ČLS JEP, Sokolská 31, Praha 2
+ 
+Tisk podpořen firmou
+ 
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+METABOLICKÝ SYNDROM
+Doporučený diagnostický a terapeutický postup pro všeobecné praktické lékaře 2023
+Autoři:
+MUDr. Igor Karen
+Společnost všeobecného lékařství ČLS JEP
+prof. MUDr. Hana Rosolová, DrSc.
+Česká kardiologická společnost ČLS JEP
+prof. MUDr. Miroslav Souček, CSc.
+Česká internistická společnost ČLS JEP
+prof. MUDr. Štěpán Svačina, DrSc., MBA
+Česká internistická společnost ČLS JEP
+prof. MUDr. Michal Vrablík, Ph.D.
+Česká společnost pro aterosklerózu
+MUDr. Dana Moravčíková
+Společnost všeobecného lékařství ČLS JEP
+Oponenti:
+doc. MUDr. Svatopluk Býma, CSc.
+Společnost všeobecného lékařství ČLS JEP
+MUDr. Otto Herber
+Společnost všeobecného lékařství ČLS JEP
+Koordinátorka doporučeného postupu: MUDr. Dana Moravčíková
+Společnost všeobecného lékařství ČLS JEP
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 1
+ 
+ 2
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+OBSAH
+1. Úvod,definiceaprevalence......................................................................
+2. Léčebnéovlivněníjednotlivýchrizikovýchfaktorůms............................................... 2.1.Obezitaanadváha.......................................................................... 2.2.Hyperglykémie............................................................................. 2.3.Dyslipidemie............................................................................... 2.4.Hypertenze................................................................................ 2.5. Poruchy koagulace a dysfunkce endotelu. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.6.Důsledkymetabolickéhosyndromu........................................................... 2.7. Onkologické riziko pacientů s metabolickým syndromem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.Shrnutí........................................................................................ 4.Literatura......................................................................................
+. 3 . 4 . 4 . 6 . 7 . 9
+10 11 11 11 12
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+1. ÚVOD, DEFINICE A PREVALENCE
+Všeobecní praktičtí lékaři, ale i další lékaři v celém světě již delší dobu pracují s faktem, že metabolický syndrom (MS) znamená velké kardio-metabolické riziko pro daného jedince, který zasluhuje více pozornosti a zejména včasnou a intenzivnější intervenci (především nefarmakologickou, ale i farmakologickou). Vysoké je i riziko onkologické. O tom, že MS je soubor rizikových faktorů, které se navzájem umocňují, není pochyb. Je také důležité, aby o tom věděl i pacient a lékaři mu pomáhali tyto rizikové faktory eliminovat či alespoň minimalizovat jejich negativní potenciál. Nejčastěji a nejdříve může detekovat pacienta s MS v celém systému zdravotní péče všeobecný praktický lékař. Znalosti nejen diagnostiky, ale i intervence jednotlivých rizikových faktorů MS (někdy i s pomocí specialistů) mohou mnohdy oddálit potenciální komplikace a snížit morbiditu, ale i mortalitu. Včasná detekce a intervence složek metabolického syndromu velmi často ve svém konečném důsledku i sníží náklady v celém systému veřejného zdravotnictví.
+Základ pro současnou klinickou definici metabolického syndromu položil G. M. Reaven v roce 1988, když v souvislosti s inzulínovou rezistencí (viz dále) popsal základní triádu faktorů, kterou tvořil vyšší krevní tlak (TK) a typická dyslipidemie, tj. vyšší hladina triglyceridů (TG) a nižší hladina HDL-cholesterolu v krevní plazmě. Později byla zjištěna u těchto jedinců přítomnost malých denzních LDL částic, které vznikají z na triglyceridy bohatých VLDL částic. Jsou velmi aterogenní a odpovídají za akcelerovanou aterogenezi u osob s MS. S MS souvisejí další rizikové faktory aterosklerózy: hyperurikemie, abdominální obezita, albuminurie, vyšší hladina inhibitoru-1 plazminogenového aktivátoru (PAI-1), porušená glukózová homeostáza. Dalším výzkumem bylo zjištěno, že soubor rizikových faktorů zvaný MS představuje významný prozánětlivý, prokoagulační a proaterogenní stav. Riziko kardiovaskulárních (KV) onemocnění u osob s MS je zvýšeno na dvoj- (u mužů) až trojnásobek (u žen) ve srovnání s běžnou populací. Riziko rozvoje diabetu 2. typu je 5× vyšší u pacientů s MS. Přítomná hyperinzulinémie zvyšuje riziko vzniku některých nádorů (např. kolorektálního karcinomu, nádorů ledvin, většiny gynekologických nádorů aj.)
+MS se vyvíjí v čase u jedinců s genetickou predispozicí při nevhodném životním stylu, tj. při nadměrném energetickém příjmu a nedostatečné pohybové aktivitě, stresu a kouření. Genetickou predispozici lze zjistit z rodinné anamnézy; pokud někdo z rodičů prodělal v časném věku (tj. otec do 55 let a matka do 65 let) KV příhodu (srdeční infarkt nebo cévní mozkovou příhodu nebo jiné projevy aterosklerózy) anebo je alespoň jeden z rodičů hypertonik nebo diabetik 2. typu, nese jejich potomek vysoké riziko rozvoje MS.
+Většina expertů (a první z nich G. M. Reaven) považuje za patofyziologický podklad MS inzulinovou rezistenci, tj. sníženou schopnost využívat inzulin ke zpracování glukózy. Inzulinová rezistence je podle Reavena příčinou vyšší centrální, a poté i periferní sympatické nervové aktivity. Někteří experti považují za primární poruchu zvýšenou aktivitu sympatického nervového systému, která způsobuje ve svalech i v jiných tkáních inzulinovou rezistenci a podílí se na vysokém KV riziku nemocných s MS. Další teorie pokládá za významnou roli kumulaci tukové tkáně zejména abdominálně, resp. viscerálně, tj. do břicha a do břišních orgánů, a jejího zánětu s produkcí hormonů a cytokinů. Zdrojem systémového zánětu u metabolického syndromu je především tato abdominální tuková tkáň, ale metabolický syndrom je častější i u jiných zánětlivých onemocnění, jako je parodontitida, psoriáza nebo chronická obstruktivní plicní nemoc. U konkrétního jedince jde obvykle o kombinaci všech tří, různě vyjádřených, faktorů. Pro nositele MS je rozhodující ovlivnit všechny mechanizmy, což v praxi znamená zavedení zdravého životního stylu a indikaci léků k úpravě jednotlivých složek MS. I když existuje řada léků, především antihypertenziv, antidiabetik a hypolipidemik, které účinně ovlivní příslušné rizikové faktory u MS a některé z nich i oddálí vznik diabetu 2. typu, zatím neexistuje žádný specifický lék, který by dokázal ovlivnit podstatu MS.
+Ukládání tuku do jater (steatóza) se nazývá NAFL (Non-Alcoholic Fatty Liver), pokud není pacient těžký piják alkoholu. Pokud je steatóza provázena i zánětlivým procesem a poškozením jaterních buněk (steato-hepatitis), jedná se o NASH (Non-Alcoholic Steato-Hepatitis), která může vést k fibrotizaci jater a tvorbě jaterní cirhózy. Steatóza a steato-hepatitida se nazývají NAFLD (Non-Alcoholic Fatty Liver Disease). Prevalence NAFLD stoupá ve vyspělých populacích a postihuje nejen pacienty s MS, a DM 2. typu, ale nejčastější je u obézních pacientů. V poslední době je NAFLD označována za nový nezávislý kardiovaskulární rizikový faktor.
+V souvislosti s ukládáním tuku v játrech se objevil nový název a nová definice pro metabolické dysfunkce: Metabolic dysfunction-Associated Fatty Liver Disease (MAFLD). Tento název má být přesnější a lépe vystihovat podstatu metabolického problému než jenom steatózu při absenci alkoholu a bez jiných příčin pro jaterní onemocnění, jak je tomu u NAFLD. MAFLD je definována jako steatóza s nadváhou nebo obezitou, metabolická dysregulace nebo DM 2. typu. I když se v metabolických dysfunkcích obě skupiny pacientů neliší, přesto mezi pacienty s MAFLD jsou i silnější pijáci alkoholu, což se projevuje větším rizikem komplikací.
+V klinické praxi se používala různá kritéria pro stanovení přítomnosti MS. Nejprve byla založena na přítomnosti inzulinové rezistence nebo porušené homeostázy glukózy, ale prakticky použitelná kritéria pro rozpoznání MS,
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 3
+ 
+ 4
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+který zpočátku nemusí být spojen s porušeným metabolizmem glukózy, byla vytvořena v roce 2001 v rámci National Cholesterol Education Program – Adult Treatment Panel III (NCEP ATP III, 2001).
+V současné době se používá tzv.„harmonizovaná“ definice MS, ke které se hlásí i náš Český institut metabolického syndromu (ČIMS, o.p.s. 2010): přítomnost tří a více z uvedených pěti rizikových faktorů znamená přítomnost MS: • obvod pasu pro abdominální obezitu (zvolený pro českou populaci):
+– muži > 94 cm
+– ženy > 80 cm
+• TG ≥ 1,7 mmol/l nebo hypolipidemická terapie
+• HDL-cholesterol: muži < 1,0 mmol/l, ženy < 1,3 mmol/l nebo hypolipidemická terapie
+• TK ≥ 130/ ≥ 85 mm Hg nebo antihypertenzní terapie
+• glykemie nalačno ≥ 5,6 mmol/l nebo porušená glukózová tolerance nebo diabetes mellitus 2. typu nebo léčba
+antidiabetiky
+Prevalence MS byla studována u různých populací a jistě také závisí na použité definici. Z provedených studií, které používaly nejčastěji kritéria NCEP ATP III, se MS vyskytuje v průměru u 24 % severoamerické populace, přičemž prevalence stoupá s věkem (7 % u 20letých osob a 40 % u osob starších než 60 let). V naší populaci ve věku 24–65 let byla zjištěna 32% prevalence MS u mužů a 24% prevalence u žen. Ve věku 65 let a vyšším by byla prevalence MS ještě vyšší. Výskyt MS se liší v různých etnických skupinách a jeho výskyt stoupá v některých rozvinutých i rozvíjejících se zemích světa. Na základě toho stoupá i výskyt diabetu mellitu 2. typu, a tak lze předpokládat i nárůst nejčastějších komplikací aterosklerózy, tj. kardiovaskulárních a cerebrovaskulárních aterotrombotických příhod. Je třeba aktivně pátrat po osobách s MS a včas u nich zahájit intervenci jednotlivých rizikových faktorů, abychom snížili vysoké riziko akcelerované aterosklerózy a KV komplikací a abychom zabránili rozvoji diabetu mellitu 2. typu, který by přinesl další zvýšení KV rizika. V pozdějším věku (nad 70 let), přináší MS více riziko vzniku DM 2. typu než aterogenních komplikací.
+Vyhledávání osob s MS má velký význam jak v prevenci KV onemocnění, tak v prevenci rozvoje DM 2. typu. Diabetes a aterosklerotické vaskulární nemoci jsou dnes označovány za dvě strany jedné mince, a proto se doporučuje vyhledávat osoby s vysokým kardio-metabolickým rizikem společně. Všichni lékaři by měli vyvíjet společné úsilí v prevenci i léčbě nemocných s KV nemocemi a s metabolickými poruchami podle současných znalostí na základě evidence-based medicine (EBM). Glykoregulační a metabolické poruchy u žen nesou zejména vysoké riziko pro KV nemocnost a úmrtnost, a proto vyžadují zvláštní pozornost v klinické praxi.
+Na základě současného poznání lze udělat závěr, že MS představuje koncept vysokého rizika pro aterosklerózu a DM 2. typu; osoby s MS mají 5× vyšší riziko diabetu a 2× vyšší riziko vzniku KV příhody. Na tomto riziku se účastní všechny přítomné rizikové faktory MS, a proto je jim třeba věnovat patřičnou pozornost. Je třeba je včas objevit a včas zahájit intervenci životního stylu i farmakologickou léčbu jednotlivých faktorů.
+Tabulka č. 1:
+Definice metabolického syndromu pro českou populaci
+Při přítomnosti tří a více z uvedených pěti rizikových faktorů se jedná o MS abdominální obezita – obvod pasu:
+Muži> 94cm
+ženy > 80 cm
+TG ≥ 1,7 mmol/l nebo hypolipidemická terapie
+HDL-cholesterol: muži < 1,0 mmol/l, ženy < 1,3 mmol/l nebo hypolipidemická terapie TK ≥ 130/ ≥ 85 mm Hg nebo léčba antihypertenzívy
+2. LÉČEBNÉ OVLIVNĚNÍ JEDNOTLIVÝCH RIZIKOVÝCH FAKTORŮ MS 2.1. OBEZITA A NADVÁHA
+Zmnožení viscerální tukové tkáně je zásadním faktorem metabolického syndromu. Přednostní ukládání tělesného tuku v dutině břišní je významnějším rizikem než stupeň nadváhy. Proto není součástí metabolického syndromu nadváha či obezita, definovaná hodnotami BMI, nýbrž zvětšený obvod pasu. Ten nepřímo, ale spolehlivě odráží situaci, kdy zvýšené množství volných mastných kyselin, ale i četných cytokinů (adipokinů), produkovaných tukovými buňkami, proudí portálním oběhem přímo do jater. Kritické hodnoty obvodu pasu (trupu), představující
+            glykemie nalačno ≥ 5,6 mmol/l (IFG) nebo porušená glukozová tolerance (IGT) nebo diabetes mellitus typ II nebo léčba antidiabetiky
+  DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+vysoké riziko, jsou 88 cm pro ženy a 102 cm pro muže při měření obvodu pasu v polovině vzdálenosti mezi dolními žebry a horním okrajem pánve.„Přísnější“ hodnoty 80 cm (ženy) a 94 cm (muži) znamenají zvýšené riziko. Při měření s povislým či visícím břichem přitom nijak nemanipulujeme.
+Obezita i nadváha (při nevhodné distribuci tělesného tuku) představují chronické onemocnění, postihující metabolizmus a přímo či nepřímo celou řadu orgánových systémů (zejména kardiovaskulární a pohybový). K omezení existujících či budoucích rizik je nezbytné snížit množství tukové tkáně, což z praktických důvodů hodnotíme jako změnu celkové tělesné hmotnosti. Relativně největšího prospěchu je dosahováno redukcí 5–10 % počáteční hmotnosti.
+V redukci hmotnosti je možno kombinovat až šest postupů:
+1. Redukční strava znamená omezení energetického příjmu při zachování několika jídel v průběhu dne. Ve většině případů nepřesahuje celodenní energetická hodnota stravy 6000 kJ. Tuky mají nejvyšší energetickou hodnotu, navíc se vstřebávají a ukládají s minimálními energetickými nároky; uvádí se, že se přitom nespotřebuje více než 5 % původní energie. Je nutno zdůraznit, že energetická hodnota nezáleží na typu tuku (nasycené, nenasycené).
+2. Pohybová aktivita. Základem je běžný pohyb, chůze pokud možno v rychlejším tempu, do kopce, práce na zahradě, jízda na kole, příp. rekreační sport. Pro těžce obézní je vhodné plavání, pokud je dost intenzivní; rozhodně se nedoporučuje běhání pro přílišnou zátěž velkých kloubů. Optimální je každodenní aerobní pohybová aktivita přiměřená věku a možnostem pacienta včetně zohlednění jeho komorbidit a pokud možno má být prováděna alespoň 30 minut denně či 150 minut týdně. Nicméně každá fyzická aktivita se načítá a je bezprahová.
+Nutný je individuální přístup, zejména u starších osob s poškozením pohybového aparátu či těžšími komorbiditami ve smyslu kardiovaskulárních či cerebrovaskulárních komplikací.
+3. Kognitivně-behaviorální terapie zahrnuje celou řadu přístupů, zejména kognitivní techniky, sebeposilování, aktivní kontrolu vnějších podnětů, kontrolu konzumace až po skupinovou terapii.
+4. Farmakoterapie obezity je dnes možná v Evropě 3 skupinami léků: orlistat (specifický dlouhodobě působící inhibitor lipáz zažívacího traktu), inkretinová analoga (zatím u obézních bez diabetu podáván jen liraglutid – Saxenda v dávce až 3 mg/den), centrálně působící léky (anorektika – fentermin Adipex a kombinace Naltrexon/ bupropion – Mysimba). Žádný z těchto léků pro léčbu obezity není hrazen zdravotní pojišťovnou. Ve Spojených státech je již od roku 2012 povolen další centrálně působící lék – kombinace topiramat fentermin. Bude brzy povolen i v Evropě. Hmotnost snižují u diabetiků 2. typu všechna inkretinová analoga (nejvíce liraglutid v obesitologické indikaci i tedy ve vyšší dávce-výše uvedená Saxenda) a všechny glifloziny - empagliflozin, dapagliflozin, kanagliflozin. Brzy budou dostupná i další inkretinová analoga ve vyšších dávkách pro léčbu obézních diabetiků i nediabetiků.
+5. Chirurgická léčba obezity se jednoznačně posunula od hmotnost snižujících (bariatrických) výkonů k tzv. metabolické chirurgii, tedy k výkonům s přímým pozitivním vlivem na diabetes. Prováděno je široké spektrum výkonů – bandáž žaludku, plikace žaludku, sleeve gastrectomy, žaludeční bypass, jejunijejunální bypass, biliopankretická diveze (https://www.svl.cz/doporucene-postupy/). Tyto výkony mohou být indikovány pro diabetiky již s prvním stupněm obezity, zatímco u nediabetiků zůstávají vyhrazeny jako podpora redukčního režimu pro obézní 3. stupně nebo 2. stupně s komplikacemi. Všechny metabolické/bariatrické výkony se provádějí primárně laparoskopicky, a to i u extrémně obézních jedinců. Součástí indikace je cílené psychologické vyšetření.
+Kontraindikace bariatrického výkonu podle Interdisciplinárních evropských doporučení metabolické a bariatrické chirurgie:
+1. nelze-li doložit žádnou dosavadní obezitologickou péči;
+2. není-li pacient schopen účasti v dlouhodobém medicínském sledování;
+3.dekompenzovaná psychotická onemocnění, závažné deprese a poruchy osobnosti, pokud léčba není doporučena psychiatrem se zkušeností s obézními;
+4. abúzus alkoholu a/nebo drogová závislost;
+5. nemoci v dohledné době ohrožující život;
+6. neschopnost sebepéče bez dlouhodobého rodinného či sociálního zázemí, které by péči zajistilo. Dále je mj. nutné vyloučit gastroezofageální reflux a aktivní gastritidu.
+6. Při indikací léků pro jiná onemocnění vždy volit léky hmotnostně neutrální či snižující hmotnost (týká se např. antidepresiv, antiastmatik, antidiabetik a dalších skupin léků).
+   DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 5
+ 
+ 6
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+2.2. HYPERGLYKÉMIE
+Typickou součástí MS je inzulinová rezistence a hyperglykémie. Inzulinová rezistence hraje roli v patogeneze MS a její přítomnost předpokládáme v případě, že je přítomno všech pět rizikových faktorů MS. V praxi není třeba její míru kvantifikovat (je možno použít HOMA index - Homeostatic model assessment). Hyperglykémie je jedním z nezávislých diagnostických kritérií MS. Zahrnuje kategorie: prediabetes (PDM) (hraniční glykémie nalačno – HGL, porušená glukozová tolerance – PGT či kombinovanou poruchu obou jednotek) a diabetes mellitus 2. typu (DM 2.typu). Hodnocení glykoregulační poruchy se provádí podle stanovení glykémie ve venózní plazmě:
+Prediabetes (PDM) je definován hodnotami:
+• glykémie ≥ 5,6 mmol/l – 6,9 mmol/l zvýšená glykemie nalačno (IFG Impaired Fasting Glucose),
+nebo
+• glykémie ≥ 7,8 mmol/l – 11,0 mmol/l porušená glukozová tolerance (IGT Impaired Glucose Tolerance) ve 120. minutě provedeného orálního glukózového tolerančního testu (oGTT se standardními 75 gramy glukózy).
+U pacientů s IFG je riziko vzniku DM v následujících letech 4,7× zvýšené
+U pacientů s IGT je riziko vzniku DM v následujících letech 6× zvýšené
+U pacientů s IFG i IGT je riziko vzniku DM v následujících letech 12× zvýšené
+Tabulka č. 1A: Diagnostická kritéria prediabetu
+Zvýšená glykemie nalačno 5,6–6,9
+Porušená glukózová tolerance
+7,8–11,0
+   Glykemie [mmol/l]
+ nalačno
+za 2 hodiny při oGTT
+     Pozn.: Jako alternativní diagnostické kritérium se do budoucna jeví zvýšení glykovaného hemoglobinu (HbA1c) na hodnoty v rozmezí 38 až méně než 48 mmol/
+mol (dle IFCC konsenzu od roku 2012), které je podmíněno více zvýšením glykemie nalačno než glykemie postprandiální (Tab. 1B). V ČR však v současné době není toto vyšetření dostatečně laboratorně standardizováno, a proto zatím nemůže být plně využíváno
+Tabulka č. 1B: Diagnóza prediabetu podle HbA1c (kritéria WHO)
+HbA1c [mmol/mol] (resp. × 0,1 = [%] dle IFCC)
+38 až méně než 48
+Jako alternativní kritérium můžeme použít zvýšení Hb A1c na 39–47 mmol/mol, které je podmíněno více zvýšením glykémie nalačno než glykemií postprandiální. V ČR však není toto vyšetření dostatečně laboratorně standardizováno, a proto nemůže být zatím plně využíváno.
+Diabetes mellitus (DM) je možno diagnostikovat 3 způsoby:
+• glykémie nalačno ≥ 7,0 mmol/l,
+nebo
+• náhodná glykémie ≥ 11,1 mmol/l a symptomy diabetu,
+nebo
+•glykémie ve 120. minutě orálního glukózového tolerančního testu ≥ 11,1mmol/l (oGTT se standardními 75 gramy glukózy).
+Pokud nejsou přítomny klinické příznaky diabetu, je třeba potvrdit diagnózu diabetu opakovaným krevním vyšetřením, nejlépe provedením glykémie nalačno či provedením oGTT při nálezu hraniční glykémie nalačno. Hyperglykémie v rozmezí prediabetu zvyšuje riziko rozvoje diabetu a riziko KV komplikací. Diabetes mellitus extrémně zvyšuje riziko KV komplikací a dále přináší další rizika mikrovaskulárních komplikací (diabetická nefropatie, retinopatie a neuropatie).
+Cílem léčby je snížit inzulinovou rezistenci, riziko KV komplikací a riziko rozvoje diabetu. V případě přítomnosti diabetu je žádoucí dosáhnout hodnot glykémií a glykovaného hemoglobinu (HbA1c) uvedených v Tabulce 2. Intenzivní léčba hyperglykémie má největší význam zejména v počátečních fázích onemocnění.
+Cílové hodnoty proto volíme diferencovaně. Cílové hodnoty HbA1c u osob s relativně nižším KV rizikem jsou pod 45 mmol/mol. Jde o nemocné s krátce trvajícím diabetem, bez cévních změn.
+U nemocných v sekundární prevenci jsme méně přísní, cílové hodnoty HbA1c jsou pod 53 mmol/mol, ovšem u nemocných s dobou trvání diabetu mellitu více jak 15 let jsou tyto hodnoty rozvolněny na hodnoty 60 mmol/ mol. Hodnoty HbA1c do 70mmol/mol volíme u pacientů s anamnézou těžké hypoglykémie, horší životní prognózou, s pokročilými komplikacemi a komorbiditami. Patří sem i pacienti s hůře dosažitelnou kompenzací. Z geriatrického hlediska jde o křehké nemocné.
+Prognózu u starších diabetiků zlepšuje dobrá léčba hypertenze a i léčba dyslipidemie. Efekt redukce hmotnosti na zlepšení prognózy není obvykle po 70. roce věku prokazatelný a obézní mohou mít i lepší prognózu než štíhlí – tzv. paradox obezity.
+     DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+(Více viz Doporučené postupy SVL... Obezita, Prediabetes, Diabetes mellitus a Diabetes mellitus u starších osob v ČR www.svl.cz.)
+U osob s prediabetem (PDM) jsou základem léčby hyperglykémie režimová opatření. Pokud je tato léčba nedostatečná, je zvažována i farmakoterapie (metformin). Přestože jsou k dispozici studie dokládající snížení incidence diabetu u osob s MS a poruchou glukózové homeostázy při léčbě dalšími farmaky, která ovlivňují inzulinovou rezistenci (např. thiazolidindiony) či antiobezitiky (orlistat) či dalšími perorálními antidiabetiky (akarbóza, liraglutid), nejsou tyto postupy zatím standardně doporučeny u osob bez manifestního diabetu.
+Metformin je podle doporučení Americké diabetické asociace, Evropské společnosti pro léčbu diabetu a České diabetologické společnosti možno podat u pacientů s prediabetem, pokud je přítomen alespoň jeden z následujících rizikových faktorů:
+1. Současná přítomnost obou poruch PDM a to IFG i IGT
+2. DM u prvostupňových příbuzných (otec, matka, sourozenci) 3. Zvýšené triglyceridy
+4. Snížený HDL cholesterol
+5. Hypertenze
+6. HbA1c vyšší než 45 mmol/mol (dle IFCC)
+U všech pacientů s PDM do 60 let věku a s obezitou je podání metforminu velmi žádoucí. U pacientů s PDM nad 70 let postupujeme individuálně a rizika podávání metforminu zvažujeme. Tito pacienti z léčby prediabetu pomocí metforminu profitují méně. Je třeba respektovat kontraindikace podání metforminu (renální insuficience s eGF pod 0,5 ml/s, relativní kontraindikací je kardiální či respirační insuficience). Pro běžnou klinickou praxi je rozumné nezahajovat léčbu metforminem při poklesu eGF pod 1 ml/s.
+U osob s manifestním diabetem se léčba opírá taktéž o režimová opatření, ale farmakoterapie je indikována vždy. Lékem 1. volby je metformin, jehož podávání zahajujeme ihned po záchytu diabetu. Pokud monoterapie nezajistí uspokojivou kompenzaci, přidáváme do kombinace další perorální antidiabetika nebo inzulin. Podle nových celosvětových doporučení pro léčbu diabetu 2. typu 2018 není již druhý krok v léčbě po metforminu tak liberální. Položíme si nejprve otázku, má pacient kardiovaskulární či renální postižení, pak by měl být léčen inkretinovýni analogy nebo glifloziny. Podobně, pokud je obézní, měl by vždy být léčen inkretinovýni analogy nebo glifloziny. Je vhodné tuto léčbu těmto pacientům nabídnout, i když pojišťovna hradí tyto léky až od HbA1c 60 mmol/mol. Až u ostatních pacientů je volba antidiabetik liberálnější (možno přidat thiazolidindiony, deriváty sulfonylurey či glitazony). Pacienti s anamnézou srdečního selhání mohou mít gliflozin hrazen pojišťovnou při indikaci kardiologem či internistou i při HbA1c pod 60 mmol/mol.
+Zásadním požadavkem je bezpečnost léčby (nepřítomnost hypoglykémií a omezení hmotnostních přírůstků). Přednost dáváme pozvolnému zlepšování kompenzace a větší důraz klademe na edukaci nemocného a selfmonitoring. Komplexní působení na více složek metabolického syndromu je popsáno u metforminu, pioglitazonu, inkretinových analog, gliptinů a gliflozinů. (Více viz Doporučené postupy SVL a ČDS... Prediabetes, Diabetes mellitus a Diabetes mellitus u starších osob v ČR www.svl.cz, www.diab.cz/)
+Včasná detekce a intervence složek metabolického syndromu velmi často ve svém konečném důsledku i sníží náklady v celém systému veřejného zdravotnictví. Velká část pacientů s prediabetem inklinuje k metabolickému syndromu. Podle aktuálních dat ÚZIS je minimální odhad výskytu prediabetu pro ČR vyšší než 1 550 000 osob (tj. více než 17,3 % populace). Pokud však dáme četnost prediabetu do korelace s pacienty s hypertenzí a normální nebo vyšší váhou bez diabetu a obézními pacienty bez ohledu na hypertenzi (též bez DM), docházíme v populaci ČR až k relativnímu podílu 29,2 %. Odhadovaný počet pacientů s prediabetem se tedy podle různých datových zdrojů a různých kombinací rizikových faktorů jeho rozvoje pohybuje mezi 17–29 % populace ve věku 15+, v ČR tedy žije asi 1,6 až 2,6 milionu osob s prediabetem.
+Tabulka č. 2:
+Cílové hodnoty glykemie a glykovaného hemoglobinu (HbA1c)
+Glykovaný hemoglobin (HbA1c) ( mmol/mol) < 45 (< 60)
+Glykémie v žilní plazmě nalačno/před jídlem (mmol/l) < 6,0 (<7,0) Hodnoty glykemie v plné kapilární krvi (selfmonitoring) nalačno/před jídlem (mmol/l) 4,0-6,0 (< 8,0)
+postprandiální (mmol/l) 5,0-7,5 (< 9,0)
+V závorce jsou uvedeny doporučené hodnoty pro diabetiky s vysokým KV rizikem. Cílové hodnoty je vhodné stanovit individuálně.
+      U nemocných v sekundární prevenci jsme méně přísní (zejména tam, kde trvá diabetes delší dobu), cílové hodnoty HbA1c jsou pod 60 mmol/mol
+      DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 7
+ 
+ 8
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+2.3. DYSLIPIDEMIE
+Dyslipidemii (DLP) u osob s MS charakterizuje zvýšení triglyceridů ≥ 1,7 mmol/l, snížení HDL-cholesterolu (HDL- c) < 1,0 mmol/l u mužů a < 1,3 mmol/l u žen a zmnožení aterogenních tzv. malých denzních LDL částic (sdLDL). Koncentrace celkového a LDL-cholesterolu (LDL-c) může být normální nebo jenom lehce zvýšená, avšak s ohledem na výše zmíněnou kvalitativní změnu LDL částic je i mírnější vzestup koncentrací LDL-c spojen s významným nárůstem KV rizika. U pacientů s aterogenní dyslipidemií je změněna nejen kvalita LDL částic, které jsou více aterogenní, ale i kvalita HDL částic, které jsou méně protektivní. Nově bylo zjištěno, že postprandiální remnantní částice bohaté na triglyceridy obsahují remnantní cholesterol, který významně zvyšuje aterogenní potenciál této dyslipidemie. O rizikovosti DLP u MS nás lépe informuje non-HDL cholesterol, který představuje rozdíl hodnot celkového a HDL-cholesterolu. Citlivým ukazatelem aterogenního rizika DLP je i koncentrace apolipoproteinu B.
+Léčba DLP u MS musí být komplexní a je založena na režimových opatřeních (společných s intervencí ostatních složek MS). U těch, kteří nedosahují cílových hodnot lipidogramu při změně životního stylu, indikujeme farmakologickou léčbu. Ta je prakticky vždy nutná u osob s MS s velmi vysokým a vysokým KV rizikem, mezi které patří:
+– nemocní s manifestním kardiovaskulárním onemocněním (tzv. sekundární prevence)
+– nemocní s DM 2. typu
+– nemocní s chronickým onemocněním ledvin (CKD) stadia 3 a více
+– nemocní se subklinickou aterosklerózou dokumentovanou zobrazovacími metodami
+– asymptomatické osoby se zjištěným KV rizikem podle tabulek SCORE2 s rizikem nad rozhodující hodnotu dle věku (tabulka 3).
+Tabulka č. 3
+Zejména u poslední jmenované skupiny musíme připomenout, že u osob s MS je skutečné riziko přibližně dvakrát vyšší než riziko vypočtené pomocí SCORE2. U jedinců s MS můžeme použít pro zhodnocení KV rizika tabulku SCORE2, která pracuje s non-HDL-c a dobře tak může podchytit i riziko spojené s DLP v kontextu MS. Na základě zhodnocení celkového KV rizika stanovujeme cílové hodnoty pro jednotlivé rizikové kategorie, jak uvádí Tabulka 4. Doporučení evropských společností od roku 2019 uvádějí kromě kategorie extrémního KV rizika (nemocní s recidivou aterotrombotické příhody při zavedené léčbě do 2 let od první události) také nové, snížené, cílové hodnoty LDLc i non-HDL-c. K jejich dosažení budeme muset častěji používat vyšší dávky statinů a také kombinaci s ezetimibem (selektivním blokátorem intestinální absorpce cholesterolu). Prakticky je důležité, že atorva- a rosuvastatin s ezetimibem máme k dispozici i ve formě fixních kombinací. Další praktickou novinkou je odstranění preskripčního omezení ezetimibu, který mohou od 1. 9. 2019 předepisovat i praktičtí lékaři.
+Tabulka č. 4: Cílové hodnoty lipidogramu podle kategorie KV rizika (ESC/EAS guidelines 2019)
+< 3,8 < 3,4 < 2,6 < 2,2 < 1,8
+  < 50 let
+ 50–69 let
+ ≥ 70 let
+  Nízké až středně zvýšené KV riziko
+Léčba rizikových faktorů není obecně doporučena
+  < 2,5 %
+ <5 %
+ < 7,5 %
+ Vysoké KV riziko
+Léčba rizikových faktorů má být zvážena
+ 2,5 až < 7,5 %
+  5 až 10 %
+  7,5 až < 15 %
+ Velmi vysoké KV riziko
+Léčba rizikových faktorů je doporučena
+ ≥ 7,5 %
+  ≥ 10 %
+  ≥ 15 %
+          Riziko
+Nízké
+Středně zvýšené
+Vysoké
+Velmi vysoké
+Extrémní*
+             LDL-C (mmol/l)
+< 3,0
+< 2,6 a snížení o nejméně 50 % hodnot před léčbou
+< 1,8 a snížení o nejméně 50 % hodnot před léčbou
+< 1,4 a snížení o nejméně 50 % hodnot před léčbou
+< 1,0
+      Non- HDL-C (mmol/l)x
+  apoB (g/l)
+- < 1 < 0,8 < 0,65
+-
+ x cílové hodnoty non-HDL-C jsou vždy o 0,8 mmol/l vyšší než příslušná cílová hodnota LDL-C
+*Extrémní riziko je definováno jako výskyt opakované KV příhody do dvou let od první takové události u pacienta již léčeného statinem
+TC – celkový cholesterol, LDLc – LDL cholesterol, non-HDLc – non-HDL cholesterol, apoB – apolipoprotein B. Primární cílová hodnota je stanovena pro LDLc. Za sekundární cíle léčby označujeme non-HDL cholesterol a apoB. Pro hladinu triglyceridů je stanovena pouze tzv. optimální hladina, < 1,7 mmol/l. Nově doporučené postupy vůbec neuvádějí optimální hladinu HDLc.
+Před zahájením hypolipidemické léčby je vhodné opakované stanovení krevních lipidů (s odstupem 2-4 týdnů). Pracujeme s průměrnými hodnotami z obou měření a v případě, že se hodnoty výrazně liší, doporučujeme třetí odběr krve a vylučujeme možnost sekundární příčiny DLP (např. dekompenzace diabetu, abusus alkoholu, změna životosprávy). Současně vyšetřujeme hladiny ALT a CK, TSH, renální funkce, abychom odhalili onemocnění sekundárně zhoršující dyslipidemií a zvyšující riziko komplikací hypolipidemické léčby.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+Volba hypolipidemika: u osob s MS platí, že prioritou hypolipidemické intervence zůstává dosažení cílové hodnoty non-HDL-c. Ve velké většině případů zahajujeme farmakoterapii DLP statinem, který příznivě ovlivňuje všechny složky DLP provázející MS a současně snižuje riziko KV komplikací. V terapii upřednostňujeme spíše molekuly rosuvastatinu či atorvastatinu s nejlépe dokumentovanou účinností a dobrým bezpečnostním profilem. Statiny zvyšují riziko DM 2. typu, a to zejména u osob s rizikovými faktory jeho rozvoje - tedy typicky u osob s MS. Přínos terapie statinem hodnocený poklesem výskytu KV příhod však převyšuje zvýšení rizika nově vzniklého diabetu. Z uvedených poznatků vyplývá, že glukózová homeostáza osob s MS léčených statinem musí být pečlivě monitorována a nemocní musí být trvale motivováni k dodržování pravidel režimových opatření ke snížení rizika rozvoje diabetu. Je také namístě časná intervence poruchy glukózové homeostázy včetně indikace metforminu již od stadia prediabetu.
+S ohledem na nově definované, snížené, cílové hodnoty non-HDL-c, budeme častěji kombinovat maximální tolerovanou dávku statinu s ezetimibem, který představuje velmi dobrou možnost k prohloubení LDLc snižujícího efektu (další pokles LDLc o přibližně 20 %).
+Hypolipidemickou farmakoterapii zahajujeme fibrátem u osob s MS, jejichž LDL-cholesterol je v cílové hodnotě nebo pouze mírně zvýšen a dominuje výrazná elevace triglyceridů (většinou provázená poklesem koncentrací HDL-c). Významným efektem fibrátů je i snížení výskytu a progrese mikrovaskulárních diabetických komplikací.
+Kombinaci statin + fibrát volíme tam, kde léčba statinem dovede nemocného k cílové hodnotě LDL-c, ale trvá elevace triglyceridů (často provázena nedosažením cílových hodnot non-HDLc a apolipiporoteinuB. Kombinační léčba statin + fenofibrát je z hlediska vedlejších účinků bezpečná.
+Kontrolní vyšetření lipidogramu a základní bezpečnostní laboratoře (ALT, CK) indikujeme většinou za 4 týdny po zahájení léčby. Dosažení cílových hodnot časně prokazatelně zlepšuje dlouhodobou adherenci pacienta k léčbě. V případě, že nedojde po zahájení léčby k vzestupu bezpečnostních parametrů, není pravidelné monitorování těchto parametrů na místě. Opakujeme je pouze při změně léčby (dávka, preparát) nebo klinických obtížích (typické symptomy – např. myalgie, nebo nově vzniklé přidružené onemocnění apod.) Kontrolní stanovení lipidogramu u stabilizovaných nemocných můžeme provádět s odstupem 6–12 měsíců. Volba intervalu závisí na charakteristikách nemocného a je individuální.
+Pokud pacient nedosáhne cílových hodnot LDL-cholesterolu ani při kombinaci statinu s ezetimibem případně s fenofibrátem, lze dnes indikovat léčbu PCSK9 (Proprotein convertase subtilisin/kexin type 9) inhibitorem (evolokumab, alirokumab). Tyto léky jsou protilátkami proti enzymu PCSK9, který reguluje počty LDL receptorů na povrchu jaterních buněk. Při nižší koncentraci PCSK9 se zvyšuje počet LDL receptorů, a tím dochází k většímu vychytávání cholesterolu z krve. Přidání PCSK9 inhibitoru, který se aplikuje subkutánně jednou nebo dvakrát měsíčně, k zavedené hypolipidemické terapii snižuje LDLc o dalších až 60 %. Tato relativně nová hypolipidemika však mají omezenou úhradu. Zdravotní pojišťovny je hradí u pacientů s familiární hypercholesterolemií nebo smíšenou dyslipidemií, kteří mají LDL-cholesterol při léčbě statinem/ezetimibem 3,1 mmol/l a vyšší, anebo pacientům v sekundární prevenci ASKVO, kteří mají LDL-chol nad 2,5 mmol/l. Léčba je velmi účinná a bezpečná, jak dokazuje řada provedených studií. PCSK9 inhibitory snižují nejen LDL-cholesterol, ale také lipoprotein Lp(a) a vedou k nižší KV nemocnosti a úmrtnosti, jak prokázaly mortalitní studie FOURIER-OLE s evolokumabem a ODYSSEY Outomes s alirokumabem.
+2.4. HYPERTENZE
+Hypertenzním jedincům s metabolickým syndromem (MS) by měla být věnována maximální pozornost vzhledem k vysoké prevalenci v populaci a častému poškození cílových orgánů. Za arteriální hypertenzi označujeme opakované zvýšení TK ≥ 140/90 mm Hg, naměřené minimálně při 2 různých návštěvách. Na rozdíl od definice hypertenze je diagnostickým kritériem MS již TK ≥ 130/85 mm Hg. Pacienti s MS mají kromě hypertenze další rizikové faktory a často poškození cílových orgánů. V léčbě hypertenze máme tři základní problémy:
+a) bohužel se nám nedaří dosáhnout cílové hodnoty TK
+b) je špatná adherence pacientů k léčbě
+c) je to inercie, tedy zahajujeme léčbu pozdě a nejsme dostatečně agresivní v léčbě.
+Pacienti s MS mají 2-3× vyšší riziko pro aterosklerotická KV onemocnění a 5× vyšší riziko rozvoje DM 2. typu, a proto dosažení hodnoty TK kolem 130/80 mm Hg je u nich obzvláště důležité. (31) Základem léčby by měla být vždy intenzivní nefarmakologická opatření se snížením hmotnosti, omezením příjmu soli a nekouření. (32)
+Pokud nestačí nefarmakologická opatření, přistupujeme k léčbě farmakologické. Využíváme všech pět základních tříd antihypertenziv (diuretika, beta-blokátory, blokátory kalciového kanálu, ACE inhibitory, AT1- blokátory). Základem farmakoterapie hypertenze u pacientů s MS je léčba buď ACEi, nebo AT1-blokátory, které dokážou snížit nejen TK, ale i zlepšit inzulinovou rezistenci a oddálit rozvoj diabetu. Bohužel jen ve 20 % vystačíme
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 9
+ 
+ 10
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+s monoterapií, proto je nutné ve většina případů jednotlivé třídy antihypertenzív kombinovat. Do dvojkombinace jsou vhodné blokátory kalciového kanálu (BKK) nebo diuretika (thiazidy/ thiazidům podobná diuretika). Verapamil je vhodný do kombinace s ACEi u pacientů s vyšší tepovou frekvencí. Do trojkombinace kromě inhibitorů ACEi či AT1-blokátorů přidáváme BKK a diuretikum. Výhodný je především indapamid, který má kromě diuretického účinku také vazodilatační efekt. Indapamid díky většímu antihypertenznímu účinku má vliv na snížení KV rizika ve srovnání s hydrochlorothiazidem. Diuretika využíváme s výhodou při léčbě hypertenze ve stáří. Jejich největší využití je v kombinační léčbě, protože potencují účinek dalších antihypertenziv. Pokud se jedná již o rezistentní hypertenzi je lékem další volby spironolakton nebo ev. eplerenon. Rezistentní hypertenze je nejčastěji definována jako přetrvávající TK ≥140/90mm Hg navzdory podávání nejméně trojkombinace antihypertenziv včetně diuretika v maximálně tolerovaných dávkách. Podle nových doporučení zahajujeme kombinační léčbu již při tlaku 140/90 mm Hg (tabulka č. 5). (32)
+Pokud nedosáhneme cílové hodnoty TK uvedenou trojkombinaci, můžeme dle doporučení pro diagnostiku a léčbu arteriální hypertenze ČHS z roku 2022 využít centrálně působící antihypertenzivum k ovlivnění imidazolinových receptorů a dále také alfa blokátory, které jsou metabolicky neutrální. Ve speciálních klinických situacích je třeba indikaci antihypertenzní terapie přizpůsobit individuálně pacientovi. Thiazidová diuretika a beta-blokátory mohou být využívány do kombinační terapie v malých dávkách vzhledem k jejich možnému negativnímu vlivu na metabolické parametry. Je nutná intervence všech rizikových faktorů.
+Kdy bychom měli zahájit léčbu hypertenze u pacientů s MS? U všech pacientů s TK ≥ 130/85 mm Hg. Tedy i u pacientů s vysokým normálním krevním tlakem (130-139/85-89 mm Hg). Pacienti s MS patří do skupiny nemocných, kteří jsou ve vysokém kardiovaskulárním riziku a mají prospěch z přísné kontroly TK. Cílová hodnota se pohybuje kolem 130/80 mm Hg. Ovšem TK by neměl být nižší než 120/70 mm Hg. Při dosažení nízkého TK se zvyšuje pravděpodobnost nežádoucích účinků léčby, např. výskyt symptomatické hypotenze, vzestup draslíku při použití ACE inhibitorů nebo AT1-blokátorů (sartanů) apod. Proto musíme u takového nemocného provádět častěji klinické a laboratorní kontroly, pomalu zvyšovat dávky léků, sledovat snášenlivost léčby a výskyt nežádoucích účinků.
+Léčbu hypertenze v rámci MS, bychom měli zahájit včas, protože hypertenze v mládí není benigní a její léčbu bychom neměli odkládat. Důvodem je prevence poškození cílových orgánů (srdce, mozek, oči, ledviny, cévní stěna). Poškození cílových orgánů se rozvíjí postupně od asymptomatického stadia, až po konečné stadium onemocnění daného orgánu. Poškození cílových orgánů hypertenzí je spojeno s 2-3násobným zvýšením KV rizika. Proto je potřeba rozvoj poškození monitorovat, minimálně jednou za dva roky.
+Z klinických důkazů vyplývá, že přítomnost hypertenze je třeba zachytit včas a včas přistoupit k farmakologické léčbě, která prokazatelně předchází rozvoji ireverzibilního poškození orgánů včetně mozku. Léčbu je třeba vést rychle k cílovým hodnotám TK za využití kombinací antihypertenziv, přičemž adherenci k léčbě lze podpořit preskripcí fixních kombinací. Včas je také třeba léčbu intenzifikovat a dlouhodobě udržet v rozmezí 120-130/70- 80 mm Hg u většiny pacientů, především ve věku do 65 let. (33)
+Tabulka č. 5:
+Nefarmakologická léčba hypertenze (změna životního stylu)
+- snížení tělesné hmotnosti u osob s nadváhou a obezitou - omezení soli na příjem kolem 5-6 g/den
+- dostatečná tělesná aktivita (30-45 min 3-5x týdně)
+- omezení alkoholu do 100 g týdně
+- zanechání kouření
+- zvýšení konzumace ovoce a zeleniny a snížení celkového příjmu tuků, zejména nasycených
+2.5. PORUCHY KOAGULACE A DYSFUNKCE ENDOTELU
+Při MS je porušená hemostáza, tzn. rovnováha mezi koagulačními a fibrinolytickými procesy. Jedinci s MS mají větší sklon k trombogenezi, a proto se tento stav nazývá protrombotickým stavem. Je známo, že stavy vedoucí k trombogenezi jsou spojeny s vyšším rizikem rozvoje KV nemocí. Dysregulaci hemostázy u jedinců s MS způsobuje řada faktorů: aktivace endotelu, hyperaktivita trombocytů, hyperkoagulace a snížená fibrinolýza. Právě snížená fibrinolýza jako důsledek zvýšené hladiny PAI-1 je hlavní poruchou související s inzulinovou rezistencí a MS, kterou prokazuje řada studií a která je hlavní hemostatickou poruchou v rámci MS. Fibrinolytická aktivita je určena dynamickou rovnováhou mezi aktivátory plazminogenu a jejich inhibitory. Hlavní regulátory tohoto systému u MS jsou tkáňový aktivátor plazminogenu (t.PA) a jeho inhibitor (PAI.1). Vysoké PAI.1 u jedinců s normální glukózovou tolerancí je marker vysokého rizika pro vznik diabetes mellitus 2. typu a aterosklerózy. Fibrinolýzu upravují především inhibitory renin.angiotenzinového systému, zvl. inhibitory ACE, ale existují data,
+           - vynechání nebo omezení léků podporujících retenci sodíku a vody, zvláště nesteroidní antiflogistika, kortikoidy, hormonální antikoncepci u citlivých žen
+  DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+že i centrální sympatomimetika upravují fibrinolýzu a koagulaci u hypertoniků, a proto jsou vhodnými léky do kombinace k léčbě vysokého TK u jedinců s MS. Všechna režimová opatření, tj. nekouření, středomořská dieta a pravidelný pohyb, snižují inzulinovou rezistenci a zlepšují protrombotický stav osob s MS. Ještě existují rezervy ve zjištění, jaká antikoagulační léčba povede ke snížení atero.trombotických příhod u osob s MS.
+Dysfunkce endotelu u jedinců s MS se projevuje zvýšenou hladinou cirkulujících adhezivních molekul nebo prozánětlivých cytokinů. Na dysfunkci endotelu u MS může poukázat i zvýšená hladina von-Willebrandova faktoru (vWF) v plazmě; jeho zvýšení souvisí s vyšší KV mortalitou. Dostupným faktorem pro zjištění dysfunkce endotelu je hladina „high sensitivity“ C-reaktivního proteinu (hs-CRP). Hladiny 0,5–1,0 mg/l představují nízké riziko, hladiny 1,0–3,0 mg/l střední riziko a 3,0–10,0 mg/l vysoké riziko KV nemocí. Podmínkou je, aby nemocný neměl žádnou akutní nebo chronickou zánětlivou chorobu, při které se hladiny CRP pohybují řádově v jiných hodnotách (desítkách, stovkách atd.). Minimálně po 3 týdnech od odeznění velkého zánětu lze vyšetřit hs-CRP jako marker KV rizika. Hladiny hs-CRP se dnes považují spíše za marker KV rizika a rizika rozvoje diabetu 2. typu.
+2.6. DŮSLEDKY METABOLICKÉHO SYNDROMU
+Nemocní s metabolickým syndromem mají vystupňované kardiovaskulární riziko v důsledku kombinace několika rizikových faktorů. Je prokázáno, že náležitá léčba snižuje u pacientů s MS a u diabetiků 2. typu KV riziko a incidenci fatálního i nefatálního infarktu myokardu, včetně mikrovaskulárních komplikací (retinopatie, neuropatie, nefropatie). Prevence a léčba KV onemocnění a MS je ve shodě s recentními doporučeními českých i evropských odborných společností. Nejedná se tedy jen o prevenci ICHS, ale o prevenci všech KV onemocnění na podkladě aterosklerózy.
+V léčbě kardiovaskulárních dopadů MS je třeba respektovat všechny nové a publikované poznatky z oblasti preventivní kardiologie, zvláště výsledky nedávno provedených klinických studií, prokazujících klinický přínos změny stravovacích návyků, řádného ovlivnění rizikových faktorů a preventivního užívání některých léků. Jedním z nejvýznamnějších opatření u pacientů s MS je prevence diabetu 2. typu. Účinný je zejména pohyb, omezení živočišných tuků (kromě rybích) a redukce hmotnosti.
+2.7. ONKOLOGICKÉ RIZIKO PACIENTŮ S METABOLICKÝM SYNDROMEM
+U pacientů s metabolickým syndromem je přítomno vyšší onkologické riziko. Týká se podobného spektra nádorů jako u obezity, nadváhy, hypertenze i diabetu 2. typu tedy zejména kolorektálního karcinomu, karcinomu mammy dělohy, karcinomu pankreatu. U pacientů s metabolickým syndromem je vhodná důsledná onkologická prevence a věnování pozornosti jakýmkoli příznakům, které by mohli svědčit pro přítomnost onkologického onemocnění.
+3. SHRNUTÍ
+Tabulka č. 6:
+Inzulinová rezistence
+Dyslipidemie
+Protrombotický stav
+IGT - porucha glukózové tolerance, IFG - hyperglykemie nalačno
+ Rizikový faktor
+  Cíl léčby
+  Léčebné možnosti
+   Obezita
+  snížení hmotnosti o 5–10 %
+  zvýšená fyzická aktivita, dieta, behaviorální působení, orlistat, GLP1 bariatrická chirurgie
+  snížení inzulinové rezistence
+LDL-cholesterol, triglyceridy,
+snížení tělesné hmotnosti
+statiny, ezetimib, fibráty, PCSK9i
+tiklopidin, klopidogrel
+ IFG, IGT
+   prevence diabetu
+   Pravidelný pohyb, snížení hmotnosti, ev. metformin
+   Diabetes mellitus
+  léčba diabetu
+  metformin, glitazony, inkretinová léčba, inkretinová analoga, gliptiny, glifloziny, metabolická chirurgie
+  Hypertenze
+   Kolem 130/80
+   inhibitory ACE, sartany, blokátory kalciových kanálů
+metabolicky neutrální indapamid nebo centrálně působící léky
+ snížení rizika
+  DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 11
+ 
+ 12
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+4. LITERATURA
+1. Alberti KG, Eckel RH, Grundy SM, Zimmet PZ, Cleeman JI, Donato KA, Fruchart JC, James WP, Loria CM, Smith SC Jr: Harmonizing the metabolic syndrome: a joint interim statement of the International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute; American Heart Association; World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity. Circulation 2009; 120: 1640-1645.
+2. Mach E, Baigent C, Catapano AL, et al: Task Force Members: 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. The Task Force for the management of dyslipidaemias of the European Society of Cardiology (ESC) and European Atherosclerosis Society (EAS). European Heart Journal (2019): 1-78.
+3. Davies MJ, D‘Alessio DA, Fradkin J, Kernan WN, Mathieu C, Mingrone G, Rossing P, Tsapas A, Wexler DJ, Buse JB: Management of hyperglycaemia in type 2 diabetes, 2018. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia 2018 Dec; 61(12): 2461-2498.
+4. Definice metabolického syndromu podle Českého institutu metabolického syndromu, o.p.s. Dostupné z: http://www.cims-ops.cz/cz/uvod. Cit. 24. 1. 2010.
+5. Doporučené postupy SVL ČLS JEP. Dostupné z: www.svl.cz
+6 . Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults. Executive summary of the third report of the National
+Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult
+Treatment Panel III). JAMA 2001; 285: 2486-2497.
+7. Widimský J, Filipovský J, Ceral J a kol: Diagnostické a léčebné postupy u arteriální hypertenze. Doporučení České společnosti pro hypertenzi
+2022. Hypertenze a kardiovaskulární prevence 2022; 12 (2)Suppl: 1-23.
+8. Fried M, Yumuk V, Oppert JM, Scopinaro N, Torres AJ, Weiner R, Yashkov Y, Frühbeck G: Interdisciplinary European Guidelines on metabolic and
+bariatric surgery. Obes Facts. 2013; 6(5): 449-68.
+9. Ford ES, Giles WH, Dietz WH: Prevalence of the metabolic syndrome among US adults: findings from the third National Health and Nutrition
+Examination Survey. JAMA 2002; 287: 356-359.
+10. Jamerson K, Weber RA, Bakris GK et al: Benazepril plus amplodipin or hydrochlorothiazid for hypertension in high risk patients. N Engl J Med
+2008; 359: 2417-2428.
+11. Karen I, Souček M et al: Metabolický syndrom – diagnostika a léčba. Doporučený diagnostický a léčebný postup pro všeobecné praktické lékaře.
+Společnost všeobecného lékařství, Praha 2007.
+12. Patel A and ADVANCE Collaborating Group. Effects of a fixed combination of perindopril and indapamide on macrovascular and microvasccular
+outcomes in patients type 2 diabetes mellitus (the ADVANCE trial): a randomized controlled trial. Lancet 2007; 370: 829-840.
+13. Visseren FLJ, Mach F, Smulders YM, et al: 2021 ESC Guidelines on cardiovascular disease prevention in clinical practice. Europ Heart J 2021.
+14. Preiss D, Seshasai SR et al: Risk of incident diabetes with intensive-dose compared with moderate-dose statin therapy: a meta-analysis. JAMA
+2011; 305: 2556-2564
+15. Reaven GM: Banting lecture 1988. Role of insulin resistance in human disease. Diabetes 1988; 37: 1595-1607.
+16. Reaven GM, Lithell L, Landsberg L: Hypertension and associated metabolic abnormalities -the role of insulin resistance and the
+sympathoadrenal system. N Engl J Med 1996; 334: 374-381.
+17. Remková A: Protrombotický stav jako součást metabolického syndromu. Vnitř Lék 2005; 51: 1120-1125.
+18. Ridker PM, Wilson PF, Grundy SM: Should C-reactive protein be added to metabolic syndrome and to assessment of global cardiovascular risk?
+Circulation 2004; 109: 2818-2825.
+19. Rosolová H: Sympatický nervový systém a kardiovaskulární riziko. Maxdorf, Praha 2000.
+20. Rosolová H, Matoulek M: Metabolický syndrom a prevence srdečně-cévních nemocí. Mladá fronta, Praha 2012.
+21. Rosolová H a kol: Preventivní kardiologie v kostce. Axonite, Praha 2013.
+22. M. Vrablík, J. Piťha, V. Bláha, et al: Stanovisko výboru České společnosti pro aterosklerózu k doporučením ESC/EAS pro diagnostiku a léčbu
+dyslipidemií z roku 2019. AtheroRev 2019; 4(3): 19-30.
+23. Souček M, Kára T a kol: Klinická patofyziologie hypertenze. Grada, Praha 2003.
+24. Sucharda P, Stránská Z: Chirurgická léčba diabetu 2. typu. In: Haluzík M et al: Praktická léčba diabetu. 2. vydání. Mladá fronta, Praha 2013.
+25. Svačina Š: Antidiabetika - historie současnost a perspektivy. Axonite, Praha 2017.
+26. Svačina Š: Antiobezitika - vývoj, současnost a perspektivy. Grada, Praha 2022.
+27. Svačina Š: Léčba obézního diabetika. Mladá Fronta, Praha 2018.
+28. Svačina Š: Obezitologie a teorie metabolického syndromu. Triton, Praha 2013. Svačina Š: Jsou metabolická onemocnění příčinou všech nemocí?
+Orgánový pohled na metabolická rizika. Mladá fronta, Praha 2021.
+29. Cotter TG, Rinella M: Nonalcoholic fatty liver disease 2020: the state of the disease. Gastroenterology. 2020; 158(7): 1851–1864.
+30. Eslam M, Sanyal AJ, George J: MAFLD: a consensus-driven proposed nomenclature for metabolic associated fatty liver disease. Gastroenterology
+2020; 158: 1999–2014.
+31. Lansberg L, Aronne LJ, Beillin LJ et al: Obesity-related hypertension: pathogenesis, cardiovascular risk, and treatment: a position paper of The
+Obesity Society and the American Society of Hypertension. J Clin Hypertens (Greenwich) 2013; 15:14-33.
+32. Widimský J, Filipovský J, Ceral J, a kol: Diagnostické a léčebné postupy u arteriální hypertenze – verze 2022. Doporučení České společnosti pro
+hypertenzi. Hypertenze a kardiovaskulární prevence, Supplementum 2022, str. 1-25.
+33. Suvila K, McCabe EL, Lehtonen A et al: Early onset hypertension is associated with hypertensive end-organ damage already by midlife. Hypertension 2019. Jul 1: 11913069.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+METABOLICKÝ SYNDROM - NOVELIZACE 2023
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 13
+ 
+  Společnost všeobecného lékařství ČLS JEP Centrum doporučených postupů pro praktické lékaře Sokolská 31, 120 00 Praha 2
+e–mail: svl@cls.cz http://www.svl.cz
+ISBN 978-80-88280-40-8
+ ISBN 978-80-88280-40-8
+© 2023, Společnost všeobecného lékařství ČLS JEP
