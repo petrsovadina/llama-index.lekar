@@ -1,0 +1,403 @@
+ Doporučené diagnostické a terapeutické postupy pro všeobecné praktické lékaře
+POCT METODY
+ Autoři:
+doc. MUDr. Bohumil Seifert, Ph.D.
+Společnost všeobecného lékařství ČLS JEP
+doc. Ing. Drahomíra Springer, Ph.D.
+Česká společnost klinické biochemie ČLS JEP
+prof. MUDr. Jaroslav Racek, DrSc.
+Česká společnost klinické biochemie ČLS JEP
+prof. MUDr. Tomáš Zima, DrSc.
+Česká společnost klinické biochemie ČLS JEP
+PRVNÍ VYDÁNÍ 2020
+Centrum doporučených postupů pro praktické lékaře
+Společnost všeobecného lékařství ČLS JEP, Sokolská 31, Praha 2
+   
+Tisk podpořen firmou
+    
+POCT METODY
+Doporučený diagnostický a terapeutický postup pro všeobecné praktické lékaře 2020
+Autoři:
+doc. MUDr. Bohumil Seifert, Ph.D.
+Společnost všeobecného lékařství ČLS JEP
+doc. Ing. Drahomíra Springer, Ph.D.
+Česká společnost klinické biochemie ČLS JEP
+prof. MUDr. Jaroslav Racek, DrSc.
+Česká společnost klinické biochemie ČLS JEP
+prof. MUDr. Tomáš Zima, DrSc.
+Česká společnost klinické biochemie ČLS JEP
+Oponenti:
+MUDr. Václava Adámková
+Společnost pro lékařskou mikrobiologii ČLS JEP
+MUDr. Martin Špaček, Ph.D.
+Česká hematologická společnost ČLS JEP
+Petr Kocna, CSc.
+Česká společnost klinické biochemie ČLS JEP
+RNDr. Bedřich Friedecký, Ph.D.
+Ústav klinické biochemie a diagnostiky, FN Hradec Králové
+MUDr. Cyril Mucha,
+Společnost všeobecného lékařství ČLS JEP
+MUDr. David Halata
+Společnost všeobecného lékařství ČLS JEP
+POCT METODY - PRVNÍ VYDÁNÍ 2020
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 1
+ 
+ 2
+POCT METODY - PRVNÍ VYDÁNÍ 2020
+OBSAH
+1. ÚVOD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2. OBECNÁ ČÁST ................................................................................................................................................... 3
+2. 1. POCT METODY A JEJICH VYUŽITÍ V KLINICKÝCH ČINNOSTECH .....................................................................................3 2.2.PŘÍSTROJEPROPOCTMETODY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 2.3.ODBĚRMATERIÁLUPROPOCTMETODY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3. SPECIÁLNÍ ČÁST................................................................................................................................................ 5
+3. 1. STANOVENÍ GLYKÉMIE...................................................................................................................................................................5 3. 2. STANOVENÍ GLYKOVANÉHO HEMOGLOBINU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 3. 3. CHEMICKÉ VYŠETŘENÍ MOČE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 3. 4. STANOVENÍ ALBUMINURIE ..........................................................................................................................................................6 3. 5. STANOVENÍ C-REAKTIVNÍHO PROTEINU (CRP) .....................................................................................................................7 3. 6. STREPTEST . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 3.7.STANOVENÍPROTROMBINOVÉHOČASU(INR). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8 3. 8. D-DIMERY...........................................................................................................................................................................................8 3. 9. STANOVENÍ HEMOGLOBINU .......................................................................................................................................................9 3. 10. STANOVENÍ TROPONINU............................................................................................................................................................9 3. 11. NATRIURETICKÉ PEPTIDY ........................................................................................................................................................ 10 3. 12. IMUNOCHEMICKÝ TEST NA OKULTNÍ KRVÁCENÍ............................................................................................................ 11 3.13.POCTMETODYVDIAGNOSTICESARS-COVID-2.......................................................... 11 3. 14. DROGOVÝ SCREENING ............................................................................................................................................................ 12 3. 15. TĚHOTENSKÝ TEST..................................................................................................................................................................... 12 3. 16. DALŠÍ POCT METODY............................................................................................................................................................... 12
+4. VOLNĚ DOSTUPNÉ POCT TESTY .................................................................................................................... 13
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+VYBRANÉ KAPITOLY Z PEDIATRIE - POCT METODY
+1. ÚVOD
+Vybavení ordinace všeobecného praktického lékaře se mění s rozvojem moderních technologií. Tato dynamika je zřetelná zejména s ohledem na rozvoj diagnostických laboratorních metod, dostupných přímo v ordinaci, v místě a čase poskytování péče. Hovoříme o tzv. POCT (z angl. point of care testing) metodách. Pokud POCT metody splňují požadavky na zajištění kvality a z hlediska přesnosti přinášejí výsledky srovnatelné s výsledky laboratorních metod, přispívají ke klinickému rozhodování lékařů a zvyšují kvalitu jeho péče. Plátce pak obvykle přistoupí na úhradu z veřejného zdravotního pojištění. Aktuálně je možné nasmlouvat s pojišťovnami následující metody: chemické vyšetření moči, C-reaktivní protein (CRP), streptest, glykémie, koagulační čas (INR), glykovaný hemoglobin, kvantitativní imunochemický test na okultní krvácení (iTOKS), troponin, natriuretický peptid (BNP) a D-dimery. Právě nově nasmlouvaným metodám se toto doporučení věnuje podrobněji.
+Jak vyplývá z přehledu, počet POCT metod, které jsou dnes k dispozici k využití v primární péči, narůstá. POCT metody se díky rozvoji technologií stávají dostupné i k domácímu použití. Racionální potřeba zavedení POCT nastává tehdy, jestliže dotyčné vyšetření není dostupné v místě spolupracující klinické laboratoře nebo v potřebném čase, a jestliže zavedení POCT přispěje ke zlepšení zdravotní péče.
+Při zvažování nabídek nových POCT systémů jak pro lékaře, tak pro pacienty je dobré brát do úvahy i možnost neobjektivity distributora či výrobce. Je důležité respektovat platný konsenzus, že pro systémy POCT mají výsledky akreditovaných laboratoří referenční roli.
+Analytická a klinická data, získaná POCT, mají být pravidelně (v určených časových intervalech) prověřována vždy srovnáváním s laboratorními metodami a zároveň by všechny POCT systémy měly být opatřeny vlastními materiály vnitřní kontroly kvality. Výsledky těchto kontrol by měly být dokumentované a vyhodnocované a v případě překročení kontrolního intervalu uvedeného výrobcem v jeho dokumentaci by měla následovat doporučená nápravná opatření.
+2. OBECNÁ ČÁST
+2.1. POCT METODY A JEJICH VYUŽITÍ V KLINICKÝCH ČINNOSTECH
+POCT metody se uplatňují při diferenciální diagnostice v akutní péči (moč, glykémie, CRP, streptest, troponin, D-diméry, natriuretický peptid), při screeningu (iTOKS) a při monitorování průběhu nemoci a účinnosti léčby u chronických pacientů (glykovaný hemoglobin, INR).
+Stejně jako pro všechny laboratorní metody platí, že POCT metody jsou indikované, když jejich výsledek ovlivní klinický postup. Každý test musí být hodnocen se znalostí jeho citlivosti a specificity i možné falešné pozitivity a negativity.
+Jedná se o analytické metody, které jsou určeny k provádění osobami bez laboratorní erudice s kategorickým požadavkem na dodržení všech pokynů k provádění testu (skladování, exspirace, údržba, kalibrace, interní a externí hodnocení kvality). U testů používajících technické zařízení je nutné zaškolení v obsluze, údržbě, posouzení správné funkce a reakce na chybová hlášení přístroje. V požadavcích na POCT systémy se uvádí nezbytnost verifikace základních analytických znaků metody měření, která je použita v prostředku POCT (limit detekce, analytická citlivost, bias, preciznost, měřicí rozsah, kalibrační křivka, porovnání s rutinní laboratorní metodou, interference), nebo odkaz na relevantní nezávislé a renomované zdroje těchto informací. Tato verifikace by měla být provedena jednorázově při zavádění prostředku POCT, obvykle ji zajistí výrobce systému.
+Dále musí být vždy provedena a dokumentována studie srovnatelnosti výsledků měření systémem POCT a výsledků měření ve spolupracující laboratoři.
+Nezbytné je provádění kalibračních a kontrolních činností přesně podle pokynů výrobce (zavedený a fungující systém vnitřní kontroly kvality) a účast v externím hodnocení kvality, pokud je pro danou metodu dostupné. Vhodné je i pravidelné porovnávání měření mezi POCT přístrojem a laboratorním pracovištěm.
+Pro každé používané zařízení je nutné vedení provozního deníku se seznamem zaškolených pracovníků, datem uvedení do provozu, záznamy o výsledcích vnitřní kontroly kvality, provedené údržbě, případně popisem vzniklých závad.
+2.2. PŘÍSTROJE PRO POCT METODY
+Na trhu je v současné době bohatý výběr přístrojové laboratorní POCT techniky. Jednotlivé přístroje umožňují provádění jedné nebo více POCT metod.
+POCT metody využívají diagnostické proužky pro jeden nebo více analytů (např. ke stanovení glukózy nebo chemickému vyšetření moči) nebo imunoanalytické kazety pro kvalitativní nebo kvantitativní vyšetření. Kazety
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 3
+ 
+ 4
+POCT METODY - PRVNÍ VYDÁNÍ 2020
+obsahují biosenzory. Přístrojová detekce je založena na měření reflektance, fluorescence či optického signálu. Vyhláška č. 92/2012 Sb. o požadavcích na technické a věcné vybavení zdravotnických zařízení POCT metody v ordinaci VPL nezmiňuje, ale řada lékařů si už dnes bez jejich pomoci nedokáže klinickou činnost představit. K rozvoji jejich uplatnění dochází spontánně podle klinických potřeb praktických lékařů a jejich snahy poskytovat péči co nejvyšší kvality. Kromě základního povinného vybavení stanoveného vyhláškou může provozovatel (lékař) vybavit své zdravotnické zařízení libovolnými přístroji, které umí a chce používat, a které splňují příslušné normy (tzv. prohlášení o shodě). Lze předpokládat, že v budoucnu se některé POCT metody stanou v ordinaci VPL obligatorní.
+Obecnou podmínkou nasmlouvání úhrady POCT metody je doložené vlastnictví přístroje příslušného k provádění dané metody. Metoda musí být zapojena v cyklu externí kontroly kvality, pokud je k dispozici, s frekvencí nejméně jedenkrát ročně, doporučovaná frekvence je 2x ročně.
+2.3. ODBĚR MATERIÁLU PRO POCT METODY
+Základním předpokladem před odběrem na POCT vyšetření je ověření identifikace pacienta a utvrzení o správnosti prováděné metody podle zdravotní dokumentace a indikace lékaře.
+K aktuálnímu zjištění parametru pacienta obvykle stačí velmi malé množství vzorku, v případě kapilární krve v řádu mikrolitrů. Kromě kapilární krve testují POCT metody parametry v moči, ve stolici nebo ve venózní krvi, tak jak bude zmíněno u jednotlivých metod.
+2.3.1. ODBĚR KAPILÁRNÍ KRVE
+Pacient by měl být před odběrem nejméně 10 minut v klidu. Požadavky na lačnění jsou specifické vzhledem k dané metodě. Přístroj k analýze vzorku musí být řádně připraven podle instrukce výrobce.
+Potřebné pomůcky k vlastnímu odběru zahrnují tác, prostředek k desinfekci kůže, jednorázové rukavice, emitní misku na odpad, mulové čtverečky, popřípadě tampony, odběrovou pomůcku/lancetu. Odběr se provádí z dobře prokrveného, teplého prstu, nejlépe z prsteníku ze strany bříška prstu. Hloubka vpichu by se měla u dospělých pohybovat mezi 1 a 2 mm.
+2.3.2. ODBĚR VENÓZNÍ KRVE
+Ve vztahu k POCT metodám připadá v současné době v úvahu odběr venózní krve jen pro stanovení troponinu T. K odběru se obvykle používá bezkontaktní systém.
+2.3.3. ODBĚR MOČI
+Před plánovaným odběrem moči podáváme pacientům následující instrukci:
+• Příjemtekutinběhemnocinemábýtnadměrný.
+• Před odběrem je třeba provést zevní očistu genitálií.
+• Vzorekodebertezestředníhoprouduprvnírannímoči.
+• U žen vyšetřujeme moč mimo období menstruace.
+• Močodebertedozkumavkyodlékaře,případnědočistésuchénádoby.
+• Množství moče postačí 10 ml.
+Pokyny pro pacienta je třeba přizpůsobit, pokud k indikaci vyšetření moči dojde během vyšetřování v ordinaci.
+2.3.4. ODBĚR STOLICE K VYŠETŘENÍ STOLICE NA OKULTNÍ KRVÁCENÍ
+Pro kvantitativní stanovení hemoglobinu ve stolici je třeba provést kvantitativní odběr k tomu uzpůsobenou odběrovou pomůckou. Jedná se o ampuli se šroubovacím uzávěrem, jehož součástí je hrot na odběr stolice. Pomocí odběrového hrotu se odebere vzorek stolice ze tří různých míst tak, aby stolice ulpěla ve drážkách hrotu. Vzorek muže být odebrán z toaletního papíru, z vhodné odběrové nádoby (např. nočník), nebo primo z toalety. Je nutné zajistit, aby stolice nebyla kontaminována vodou nebo močí. Odběr se neprovádí v průběhu menstruace, při krvácení z hemoroidů nebo při průjmu. Zkumavku je po otevření třeba držet tak, aby se nevylil transportní roztok. Hrot s odebraným vzorkem se zasune zpět do zkumavky a uzávěr se zašroubuje. Na nálepku zkumavky se zapíše jméno pacienta a datum odběru.
+Zkumavka s odebraným vzorkem by měla být předána co nejdříve lékaři, který ji vydal, nebo do laboratoře. Před předáním ji lze skladovat obvykle až 7 dnů v chladničce (2-8 °C) nebo do 5 dnů v pokojové teplotě do 25 °C. Postup odběru stolice do odběrové zkumavky je podrobně popsán výrobcem, odběrové zkumavku jsou rozdílné a je proto třeba specifické instrukce pro konkrétního výrobce respektovat.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+VYBRANÉ KAPITOLY Z PEDIATRIE - POCT METODY
+3. SPECIÁLNÍ ČÁST
+Speciální část tvoří přehled POCT metod, jejich klinických indikací a popisu provedení. Podmínky a výše úhrad pojišťovnami je uvedena v příloze DP. Ve speciální části jsou uvedeny i POCT metody, které mají potenciál využití v primární péči, ale jejich úhrada dosud nebyla stanovena.
+3.1. STANOVENÍ GLYKÉMIE
+3.1.1. KLINICKÉ INDIKACE A VÝZNAM VYŠETŘENÍ
+Koncentrace glukózy v krvi (glykémie) je za fyziologických podmínek udržována v úzkém rozmezí hodnot 3,9–5,6 mmol/L nalačno a po jídle nižší než 10 mmol/L. Je přísně regulována řadou mechanismů: inzulinem, který glykémii snižuje, a antiinzulinárně působícími hormony – glukagonem, katecholaminy, glukokortikoidy a růstovým hormonem, které glykémii zvyšují. Pokles glykémie pod hodnotu 3,9 mmol/L se označuje jako hypoglykémie. Může se vyskytovat v průběhu různých onemocnění, např. u endokrinně aktivních nádorů produkujících inzulin, při předávkování antidiabetiky nebo při hladovění. Hyperglykémie je základním projevem diabetes mellitus, ale může k ní dojít při stresových situacích, při infarktu myokardu, cévní mozkové příhodě, při operacích nebo traumatu.
+Glykémie patří mezi parametry běžně měřené v urgentní péči, ordinacích i v domácím prostředí v rámci selfmonitoringu. Užívá se v diagnostice a při sledování prediabetu a diabetu.
+Základní požadavky na glukometry při pacientském selfmonitoringu podle požadavků normy ISO 15197: 2013 jsou uvedeny v doporučení Diabetes mellitus – laboratorní diagnostika a sledování stavu pacientů (www.cskb. cz/doporuceni). Na trhu jsou stále k dispozici desítky různých typů glukometrů produkovaných řadou výrobců a volně prodávaných a nabízených bez jakékoliv regulace. Jejich použití by mělo být označováno za naprosto nevhodné a pro sledování stavu pacientů rizikové.
+3.1.2. POPIS METODY
+Koncentrace glykémie se stanovuje z kapky plné kapilární krve, získané lancetou z bříška prstu, která se aplikuje na testovací proužek umístěný v glukometru. Hodnota glykémie se po určitém časovém úseku (5-20 s) objeví na displeji. Glukometry využívají enzymatickou reakci glukózy s glukózooxidázou nebo glukózodehydrogenázou s elektrochemickou detekcí. Výsledek měření plné krve je automaticky korigován na výsledek, odpovídající koncentraci glukózy v krevním séru.
+Před odběrem glykémie by měl pacient být alespoň 10 minut v klidu. U zdravých osob se hladina glykémie vyrovnává do 2 hodin po jídle.
+Je třeba mít na paměti, že stanovení glykémie metodou POCT nenahrazuje laboratorní vyšetření. Pro metodu měření glykemie glukometrem není povinné zapojení do systému externí kontroly kvality. Přesto se doporučuje provádět kontroly osobních glukometrů srovnáním s měřením v laboratoři v pravidelných časových intervalech minimálně jednou ročně.
+3.2. STANOVENÍ GLYKOVANÉHO HEMOGLOBINU
+3.2.1. KLINICKÉ INDIKACE A VÝZNAM VYŠETŘENÍ
+Hladina glykovaného hemoglobinu odráží koncentraci glukózy v krvi po celou dobu existence erytrocytu, tj. asi 120 dní. Používá se k posouzení úspěšnosti léčby/kompenzace diabetu v období 4–8 týdnů před vyšetřením. Glykovaný hemoglobin (HbA1c) vzniká neenzymovou reakcí mezi hemoglobinem a glukózou v krvi. Jeho tvorba je ireverzibilní.
+U zdravých dospělých považujeme za normální hodnoty HbA1c do 42 mmol/mol celkového hemoglobinu. U léčených diabetiků svědčí koncentrace HbA1c do 53 mmol/mol o dobré kompenzaci diabetu a hodnoty nad 53 mmol/mol svědčí o neuspokojivé kompenzaci diabetu. U rizikových pacientů a pacientů s diabetem trvajícím více než 15 let je přijatelná hranice kompenzace 60 mmol/mol. Měření HbA1c u diabetiků 2. typu je doporučeno 2-4x ročně. https://www.cskb.cz/wp-content/uploads/2020/02/Diabetes-mellitus-_laboratorn%C3%AD- diagnostika-a-sledov%C3%A1n%C3%AD-stavu-pacient%C5%AF-revize-2020_def.pdf.
+HbA1c ukáže průměrnou kompenzaci cukrovky za posledních několik měsíců, ale nevypovídá nic o tom, zda byly glykémie vyrovnané či ne. Glykémie kolísající z extrémně vysokých do nízkých hodnot mohou vyústit ve stejnou hodnotu HbA1c jako vyrovnané glykémie pohybující se pouze v malých výchylkách od dlouhodobého průměru. Hodnotu HbA1c je proto třeba hodnotit v kontextu se záznamy hodnot glykémie, které ukáží, jaké hodnoty se ve skutečnosti za změřeným průměrem skrývají.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 5
+ 
+ 6
+POCT METODY - PRVNÍ VYDÁNÍ 2020
+I když existuje poměrně dobrá shoda mezi POCT systémy, které jsou u nás na trhu, s rutinně používanými laboratorními metodami, je potřeba zajistit dobrou preanalytiku, správný pracovní postup a interní kontrolu POCT systémů, což může být v menších ambulancích problém. Proto POCT měření HbA1c zůstává stále kontroverzní záležitostí. Výsledky těchto systémů by měly být pravidelně potvrzovány alternativním využíváním laboratorních metod.
+Vzhledem k tomu, že se nejedná o akutní vyšetření, které je prováděno jen několikrát ročně, je na uvážení lékaře, zda raději vzorek neodeslat do spádové laboratoře.
+3.2.2. POPIS METODY
+Před vyšetřením pacient nemusí být nalačno. Vyšetření se provádí obvykle z kapky kapilární krve. Vzorek krve se vloží do plně automatizovaného přístroje, který k měření využívá metodu ztlumené fluorescence nebo fluorescenční imunoanalýzy. Výsledek je k dispozici nejpozději do 4 minut.
+3.3. CHEMICKÉ VYŠETŘENÍ MOČE
+3.3.1. KLINICKÉ INDIKACE A VÝZNAM VYŠETŘENÍ
+Testování moči pomocí proužků je významné při onemocnění ledvin a močových cest, jater a žlučových cest a metabolických poruchách.
+Stanovení je kvalitativní a semikvantitativní. Pomocí jednoho proužku lze naráz stanovit obvykle leukocyty, dusitany, urobilinogen, bílkoviny, pH, krev, glukózu, ketony, bilirubin a specifickou hmotnost moči. K dispozici jsou i zvláštní proužky pro diabetiky určené k detekci glukózy a ketolátek v moči nebo proužky ke stanovení přítomnosti bílkoviny v moči (pH a bílkovina).
+3.3.2. POPIS METODY
+Testovací proužek ponoříme v celém rozsahu na několik sekund do promíchané nativní moče a její přebytek otřeme hranou (ne indikační zónou) proužku o okraj nádobky (zkumavky). Po uplynutí reakční doby označené v návodu (většinou maximálně do 60 s) odečítáme při dobrém osvětlení proti barevné škále nebo založíme proužek neprodleně na podložní tácek reflexního fotometru. Používáme neexspirované detekční proužky dobře uchované v originálním kovovém obalu s vysoušedlem (neodstraňovat!), který necháváme otevřený co nejkratší dobu. Z tuby vyjímáme jen tolik proužků, kolik je potřeba pro bezprostřední použití. Nedotýkáme se rukou indikační zóny na proužku.
+Oproti vizuálnímu hodnocení testovacích proužků má použití analyzátoru pro reflektační fotometrii výhodu v eliminaci subjektivní interpretace barevné odezvy diagnostických zón, způsobené proměnlivými světelnými podmínkami na pracovišti, různou individuální schopností porovnání barev, různými reakčními časy testovacích proužků a silným zbarvením vzorku moči.
+3.4. STANOVENÍ ALBUMINURIE
+3.4.1. KLINICKÉ INDIKACE A VÝZNAM VYŠETŘENÍ
+Měření koncentrace albuminu v moči diabetiků nebo prediabetiků vykazuje významnou schopnost časné predikce diabetické nefropatie. Zvýšené vylučování albuminu močí, které předpovídá stav nefropatie, ale které není detekovatelné kvalitativními metodami realizovanými běžnými testovacími proužky pro průkaz proteinů v moči či jinými metodami kvalitativní analýzy, se dříve označovala jako mikroalbuminurie. Albuminurie je také spojována s větším výskytem kardiovaskulárních příhod a renální insuficience u osob s hypertenzí ve srovnání s pacienty s normálním výskytem albuminu v moči.
+Kritéria detekce albuminurie podle ČNS a ČSKB jsou uvedena v doporučení https://www.cskb.cz/res/file/KBM- pdf/2014/2014-3/KBM_3_2014_Dop-ledviny-139.pdf
+Koncentrace albuminu v moči jsou ovlivňovány akutními chorobnými stavy, infekcí močových cest, zvýšenou fyzickou námahou, zvýšenou koncentrací glukózy v krvi, infekcí GIT, kardiálními chorobami, arteriální hypertenzí. Při dispenzarizaci diabetiků 2. typu se provádí vyšetření albuminurie 1x ročně při negativitě. Případně se třikrát
+opakuje v intervalu 3 měsíců při zjištěné pozitivitě.
+Diagnostická klasifikace chronické ledvinové choroby je založena na hodnotách albumin-kreatininového
+kvocientu (ACR) nebo na exkreci močového albuminu za 24 hodin. POCT systémy založené na kvalitativní/ semikvantitativní detekci albuminu v moči mají omezený význam. Existují POCT systémy k stanovení ACR, které jsou v některých zemích používány ve velkých počtech.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+VYBRANÉ KAPITOLY Z PEDIATRIE - POCT METODY
+3.4.2. POPIS METODY
+Albuminurie se stanovuje v režimu POCT testem na principu imunochromatografie diagnostickým proužkem. K vyšetření postačí 20 μL z 2. ranního vzorku moči. Vyšetření v moči sbírané 24 hodin se v ČR nedoporučuje. Výsledek je k dispozici za 5 minut.
+Cut off je 20 mg/L
+Některé reflektanční fotometrické analyzátory jsou schopné v rámci semikvantitativní analýzy stanovit i albuminurii. K dispozici jsou také kvantitativní metody, které stanovují na POCT přístrojích albuminurii turbidimetrickou metodou v rozmezí 50-150 mg/L.
+3.5. STANOVENÍ C-REAKTIVNÍHO PROTEINU (CRP)
+3.5.1. KLINICKÉ INDIKACE A VÝZNAM VYŠETŘENÍ
+CRP je vysoce specifický a senzitivní marker zánětu. K signifikantnímu zvýšení hladiny dochází již za 6–8 hodin po začátku zánětlivého procesu, maxima dosahuje za 24–48 hod. Na základě kvantitativního měření pomáhá k rozlišení mezi virovou a bakteriální etiologií. Významná je především jeho vysoká negativní prediktivní hodnota. Hodnota rychle klesá při ústupu zánětu. To umožňuje monitorovat průběh zánětu. Z těchto důvodů představuje CRP zásadní metodu na pomoc při akutním klinickém rozhodování VPL v případě zánětlivých stavů.
+U zdravých lidí je střední hodnota CRP v séru menší než 1 mg/L. 90 % zdravé populace má hodnotu CRP pod 3 mg/L. Obecně používaná hranice normálních hodnot CRP s ohledem na přítomnost nebo nepřítomnost tzv. velkého zánětu je 10 mg/L. Hodnoty CRP <25 mg/L svědčí spíše pro virovou infekci, hodnoty >50 mg/L spíše pro infekci bakteriální. Lokalizované infekce virové a povrchové bakteriální infekce stejně jako infekce dolních močových cest zpravidla nevyvolají hodnotu nad 40 mg/l. Hodnoty kolem 100 mg/L a vyšší obvykle signalizují závažnou infekci (pyelonefritis, bronchopneumonie, endokarditis, osteomyelitis, meningitis). I virová pneumonie velkého rozsahu může vyvolat hodnoty kolem 100 mg/L. Nejvyšší hodnoty kolem 500-1000 mg/L vyvolávají těžké bakteriální infekce jako peritonitida nebo sepse. Užívání hormonální antikoncepce, nesteroidních antiflogistik, kortikosteroidů nebo kouření může ovlivnit hladinu CRP, ale nikoliv ve vztahu k hodnocení míry zánětu (tedy nevýznamně). CRP se výrazně nezvyšuje u autoimunních zánětů. Tam je vhodnější použít měření sedimentace červených krvinek.
+Hodnoty pod 5 mg/L jsou předmětem tzv. ultrasenzitivního měření, které se využívá v hodnocení kardiovaskulárního rizika. Přístroje běžně používané v POCT režimu měří v rozmezí 5-200 mg/L,
+Nejčastější indikace k měření CRP v ordinaci praktického lékaře jsou:
+• Pacientsrespiračníinfekcívirovénebobakteriálníetiologie
+• Pacientshorečkamineznáméetiologie
+• Pacient s infekcí močových cest a bolestmi v zádech – pyelonefritida?
+• Pacientsakutníbolestíbřicha
+• Pacient s potřebou monitoringu efektu ATB léčby
+3.5.2. POPIS METODY
+Před odběrem vzorku (druhé kapky) kapilární prve z bříška prstu není nutná žádná příprava. Z prstu se odebere do skleněné kapiláry nebo prostřednictvím jiné odběrové pomůcky vyznačené množství krve (do 20 μL).
+Principem stanovení je imunoturbidimetrická metoda založená na reakci proteinu se specifickou protilátkou proti lidskému C-reaktivnímu proteinu za přítomnosti latexových částic. Vznikající imunokomplexy způsobují růst zákalu, který je přímo úměrný koncentraci C-reaktivního proteinu ve vzorku.
+3.6. STREPTEST
+3.6.1. KLINICKÉ INDIKACE A VÝZNAM VYŠETŘENÍ
+Jedná se o test využívaný k rozlišení virové a bakteriální faryngitidy, způsobené bakterií Streptococcus pyogenes typu A. Test má vysokou, téměř 100% specificitu. Ale 5–20 % osob je nositelem streptokokové infekce, aniž by u nich vyvolala onemocnění. Citlivost testu je uváděna 65–85 %.
+Zhruba 20–45 % běžných infekcí nosohltanu u dětí a 5–15 % infekcí u dospělých má bakteriální etiologii. Na základě klinických příznaků lze etiologii jen obtížně rozlišit. Průkaz přítomnosti streptokokové infekce je indikací k antibiotické léčbě. Streptokoková faryngitida sice obvykle odezní bez léčby stejně jako infekce virová, ale podání antibiotik může výrazně zkrátit její průběh a snížit riziko vzácných, ale závažných komplikací. Vyšetření streptestem (testem na streptokoky skupiny A), vede k racionalizaci indikace antibiotické léčby a tím ke snížení rizika nárůstu resistence na antibiotika v populaci.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 7
+ 
+ 8
+POCT METODY - PRVNÍ VYDÁNÍ 2020
+3.6.2. POPIS METODY
+Metodou lze přímo prokázat antigen specifický pro infekci streptokokem typu A. Materiál, odebraný stěrem ze sliznice hltanu, se ponoří do roztoku obsahujícím protilátky, které mají specifickou afinitu k antigenu streptokoka typu A. Pro vlastní stanovení antigenu se používají různé metody, jako je latexfixační test, laterální průtokový test nebo optická imunoanalýza. Na displeji přístroje se objeví výsledek během několika minut ve tvaru pozitivní nebo negativní.
+3.7. STANOVENÍ PROTROMBINOVÉHO ČASU (INR)
+3.7.1. KLINICKÉ INDIKACE A VÝZNAM VYŠETŘENÍ
+Hodnota INR (INR= international normalised ratio = mezinárodní normalizovaný poměr) je dána poměrem doby potřebné ke sražení krve (protrombinového času) vyšetřovaného ve srovnání s dobou potřebnou ke sražení krve ve standardizovaném kontrolním vzorku (času směsné kontrolní plazmy). Antikoagulační léčba je účinná, pokud je hodnota INR udržována v požadovaném terapeutickém rozmezí. Proto je pravidelné monitorování hodnoty INR nezbytné. Měření INR se využívá při podávání warfarinu, perorálního antikoagulancia, který potlačuje tvorbu funkčních prokoagulačních faktorů závislých na vitaminu K (protrombinu, FVII, FIX a FX). Normální referenční hodnota INR u dospělých je 0,8–1,2, obvyklé terapeutické rozmezí při zavedené antikoagulační léčbě je 2–3 a nikdy nepřesahuje 3,5. Postupy při INR mimo terapeutické rozmezí a algoritmy kontrolních INR vyšetření jsou popsány v příslušném DP.
+3.7.2. POPIS METODY
+Test se provádí z čerstvé kapilární krve odběrem z bříška prstu. Vzorek krve se nanese na část testovacího proužku, který je zasunut do analyzátoru, který obsahuje lyofilizované činidlo (tromboplastin a peptidový substrát). Po nanesení vzorku se krev smísí s reagencii a aktivuje se koagulace. Enzym trombin štěpí peptidový substrát, čímž generuje elektrochemický signál. V závislosti na době, která uplyne do jeho prvního objevení, přístroj tento signál převede pomocí algoritmu na obvyklé jednotky koagulace (INR, event. aPTT, PT/aPTT) a výsledek se zobrazí na displeji.
+3.8. D-DIMERY
+3.8.1. KLINICKÉ INDIKACE A VÝZNAM VYŠETŘENÍ
+Po vzniku sraženiny vždy následuje proces jejího odbourávání (fibrinolýza). D-dimer je fragment proteinu, který vzniká při fibrinolýze, jako konečný produkt štěpení polymerů fibrinu. Jako D-dimer se označuje proto, že je tvořen 2 podjednotkami, spojenými příčnou vazbou. Za předpokladu neporušené fibrinolýzy a neporušeného odbourávání DD je ukazatelem aktivace hemostázy, a v tom je jeho hlavní klinický význam. Stanovení D-dimerů slouží k vyloučení hluboké žilní trombózy nebo plicní embolie u pacientů s klinickými příznaky. Vyloučení žilního tromboembolismu v ambulantní praxi sníží počet vyšetření v nemocnici. Vyšetření je dále indikováno k monitoraci diseminované intravaskulární koagulace a sledování aktivace hemostázy v rizikových situacích. Ve všeobecné praxi jde o vyloučení podezření na výše zmíněné stavy, případně o sledování gravidních žen s rizikem trombózy. Zatímco zvýšená hladina D-dimerů neznamená vždy diagnózu žilní tromboembolické nemoci (nízká specificita), nízká hladina D-dimerů u pacienta s nízkou klinickou pravděpodobností velmi pravděpodobně vylučuje čerstvý žilní tromboembolismus.
+3.8.2. POPIS METODY
+Při odběru kapilární krve pro POCT test je nutné použít větší lancetu a prst dlouho nemasírovat. Odebranou kapilární krev ihned zpracovat. Odběr žilní krve pro vyšetření D-dimerů je nutno provádět s nejkratším možným zatažením paže (do 1 min.) a použít jehlu větší světlosti (0,7–1 mm). Je nutné dodržet přesný poměr s kapalným antikoagulanciem (3,2% citrát sodný).
+Lze tedy použít plnou žilní krev, kapilární krev nebo plazmu.
+Získaná krev se nanáší pipetou na testovací proužek, který se vkládá do automatizovaného přístroje. Ten
+poskytne v řádu minut kvantitativní výsledek. Jedná se v principu o imunochemické stanovení, při kterém latexové (polystyrenové) částice pokryté monoklonální protilátkou v přítomnosti antigenu (D-dimeru) aglutinují. Tím se mění optická denzita suspenze, tato změna je měřena.
+Koncentrace D-dimerů se udává v DDU jednotkách (z anglického D-dimer units, D-dimer jednotky) mg/L DDU, označení DDU se obvykle vynechává. Nebo se používají FEU jednotky (fibrinogen ekvivalentní jednotky, mg/L FEU, označení FEU se musí uvádět). Použití jednotek závisí na druhu diagnostické soupravy.
+Přepočet jednotek: 1 mg/L DDU = 2 mg/L FEU
+Referenční rozsah: Výsledek testu se považuje za negativní, pokud je koncentrace D-dimerů nižší než 0,5 mg/L FEU.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+VYBRANÉ KAPITOLY Z PEDIATRIE - POCT METODY
+Výsledné hladiny D-dimerů stanovené různými metodami jsou neporovnatelné! Je nutné se řídit referenčním rozmezím (hodnoty cut-off) uvedeným v dokumentaci diagnostické soupravy pro stanovení D-dimerů. Doporučení ČHS ČLS JEP:
+1. U dětí do 28 dní je normální hodnota do 5násobku cut-off (tj. 0–2,5 mg/L FEU).
+2. Pro vyloučení plicní embolie u pacientů nad 50 let lze použít věkově závislé cut-off. Jeho základní hodnota je 0,500 mg/L FEU pro věkovou skupinu do 50 let a s každým dalším rokem věku se zvyšuje o 0,01 mg/L až do 80 let.
+3.9. STANOVENÍ HEMOGLOBINU
+3.9.1. KLINICKÉ INDIKACE A VÝZNAM VYŠETŘENÍ
+Hemoglobin je protein obsahující železo, který slouží k přenosu kyslíku a oxidu uhličitého v erytrocytech. Fyziologické hodnoty jsou u dospělých mužů 155±20 g/L a u žen 140±20 g/L. Stanovení koncentrace hemoglobinu je běžným vyšetřením v primární i akutní péči, obvykle jako součást vyšetření krevního obrazu. Snížení koncentrace hemoglobinu způsobuje anémie. Jeho zvýšení může být důsledkem dehydratace, chronicky snížené plicní ventilace, kouření, pobytu ve vysoké nadmořské výšce, některých nádorů, které produkují erythropoetin (karcinom ledviny) nebo myeloproliferativních stavů.
+3.9.2. POPIS METODY
+Měření probíhá v analyzátoru, který měří absorbanci plné krve v izosbestickém bodě Hb / HbO2. Metoda má nastavenu tovární kalibraci proti hemoglobincyanide (HiCN) metodě, mezinárodní referenční metodě doporučované ICSH (International Council for Standardization in Haematology) pro stanovení hemoglobinu v krvi.
+3.10. STANOVENÍTROPONINU
+3.10.1. KLINICKÉ INDIKACE A VÝZNAM VYŠETŘENÍ
+Troponin T a troponin I jsou specifické biomarkery poškození kardiomyocytů. Stanovení srdečních troponinů (c-Tn) je rozhodující pro zjištění poškození myokardu a spolu s klinickými příznaky je základem diagnostiky u akutních koronárních syndromů (AKS). Role stanovení troponinů vysoce senzitivními laboratorními metodami v diagnostice a prognóze infarktu myokardu (IM) je popsána v doporučeních Evropské kardiologické společnosti. Tam jsou také vyjmenovány stavy, které mohou alternativně hodnoty troponinu zvyšovat, jako jsou např. tachyarytmie a bradyarytmie, myokarditida, chronická nebo akutní renální dysfunkce, hypertenzní krize nebo plicní embolizace. Zvýšení troponinu po začátku akutního IM nastupuje v průběhu 3–8 hodin a prvního vrcholu je dosaženo za 12–18 hodin. Během 7–10 dnů klesá na nedetekovatelné hladiny. Význam stanovení obou troponinů (I a T) je rovnocenný. V seznamu výkonů je schválený kód pro POCT stanovení pouze troponinu T (cTnT). Kvantitativní vyšetření Troponinu I nebo T umožní efektivnější směrování pacienta a zkrácení času mezi počátkem infarktu myokardu a potřebnou intervencí.
+3.10.2. POPIS METODY
+Troponiny se stanovují citlivými imunochromatografickými metodami. Během testu reagují cTn antigeny s protilátkami proti cTn a vytvoří imunologický komplex. Tento komplex migruje po membráně a reaguje s protilátkou proti cTn na membráně, poté se fixuje. Nejpreferovanější je využití vysoce senzitivních metod stanovení c-Tn, kterým se analytická přesnost POCT metody zatím nevyrovná. Použití POCT metod stanovení troponinu je vyhrazeno pro akutní situace při diferenciální diagnostice bolestí na hrudi, kdy může metoda lékaři pomoci diagnostikovat strukturální poškození myokardu a pacienta nasměrovat rychleji k potřebné intervenci. Například u akutního infarktu myokardu bez elevací segmentu ST. Je třeba si uvědomit, že počínající IM nebo malá poškození myokardu nebudou rozpoznány. Akutní poškození myokardu se vyznačuje změnami koncentrace troponinu během 1-3 hodin. Nejvyšší diagnostická senzitivita měření je v intervalu 6–9 hodin po vzniku AKS. Při negativitě a klinické symptomatologii se doporučuje vyšetření v intervalech 6–9 hodin opakovat, což není pro situace ve všeobecné praxi obvykle relevantní.
+V současnosti se stanovují v POCT režimu troponiny cTnT z venózní krve a troponiny cTnI z kapilární krve. Troponiny jsou relativně stabilní v plné krvi bez hemolýzy minimálně 24 hodin. Kapilární odběr pro POCT vyšetření je třeba zpracovat hned po odběru. Některé přístroje mohou měřit oba parametry. Vyhodnocení je kvantitativní a výsledky jsou k dispozici během několika minut.
+Je nutné si uvědomit, že tyto POCT metody nenahradí laboratorní vyšetřovací metody, které jsou mnohem citlivější, ale je to velký přínos pro diagnostiku zvláště tam, kde není laboratoř při ruce a okamžitě k dispozici.
+Soupravy ke stanovení koncentrace cTnI produkuje několik výrobců; tyto soupravy se liší jednak analytickou citlivostí, jednak klinickou efektivitou, protože používají rozdílné protilátky a rozdílné kalibrátory. Výsledky
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 9
+ 
+ 10
+POCT METODY - PRVNÍ VYDÁNÍ 2020
+zjištěné soupravami různé výrobní provenience nelze srovnávat, a to ani tehdy, udávají-li např. dva různí výrobci stejné koncentrace pro hodnotící kritéria. Při zavádění metod POCT je třeba zjistit úroveň korelace výsledků POCT se spádovou laboratoří a v případě potřeby používat rozdílná interpretační měřítka
+Je třeba vzít na vědomí, že analytické parametry POCT metod jsou většinou horší a méně kompletní než u metod laboratorních a nelze počítat s jejich plnohodnotnou aplikovatelností podle guidelines. Problémy jsou zejména s neúplností hodnot 99 percentilů, s častou nepřesností (nad 10 %) a s nemožností aplikovat delta hodnoty a„rule out“ přístup. Negativní test bohužel praktickému lékaři nedává 100% jistotu, že se o akutní koronární syndrom nejedná a může pacienta poslat domů. Navíc jsou důležité i změny koncentrace troponinu v čase; při postupu změřit troponin v režimu POCT a pak v nemocnici na jiném přístroji je zcela nemožné tuto změnu zjistit.
+Průběžně aktualizovaný seznam systémů POCT pro stanovení kardiálních troponinů je ve formě tabulky k nalezení na https://www.ifcc.org/ifcc-education-division/emd-committees v odstavci Clinical Application of Cardiac Biomarkers/C-CB). Doporučuje se preferovat systémy POCT s hodnotami CV%≤10 (pro hodnoty 99 percentilů) a s hodnotami 99 percentilů cca 20–50 ng/L (typ hs-high sensitivity).
+3.11. NATRIURETICKÉ PEPTIDY
+3.11.1. KLINICKÉ INDIKACE A VÝZNAM VYŠETŘENÍ
+Mozkový natriuretický peptid (brain natriuretic peptid – BNP) i jeho biologicky neaktivní N-terminální fragment (NT-proBNP) jsou produkovány buňkami myokardu srdečních komor v závislosti na objemové a tlakové zátěži. Natriuretické peptidy (dále jen NP) jsou cirkulující hormony, významně zasahující do homeostázy vody a iontů. Jsou produkovány v řadě orgánů, klinicky nejvýznamnější je jejich syntéza v myokardu. Způsobují vzestup glomerulární filtrace, natriurézy a diurézy, v cévách vasodilataci, mají obecný kardioprotektivní účinek.
+Ve zdravém srdci převažuje atriální NP (ANP), zatímco u selhávajícího srdce převažuje produkce NP produkovaného v komorách (BNP). ANP i BNP vznikají ve formě prekurzoru, jsou intracelulárně štěpeny na aktivní hormon a biologicky inaktivní N-terminál (NT-pro ANP, NT-proBNP). Jedná se o nízkomolekulární polypeptidy, jejichž účinek je zprostředkován receptorem pro natriuretické peptidy. Oba peptidy mají řadu farmakologických účinků: navozují natriurézu, vazodilataci, inhibují sekreci reninu, aldosteronu, vazopresinu a kortikotropinu, mají antimitogenní efekt na endotel, hladké svalové buňky a myokard. Natriuretický efekt je podmíněn inhibicí resorpce sodíku v proximálním tubulu a sběrném kanálku; nepřímo jej ovlivňuje inhibice renin-angiotenzinového systému.
+Stanovení BNP je indikováno při diferenciální diagnostice dušnosti a diagnostice srdečního selhání. Umožňuje také stanovení prognózy a monitorace úspěšnosti léčby srdečního selhání. Při posuzování významu stanovení BNP je třeba si uvědomit, že hladiny BNP ovlivňuje kromě srdečního selhání i řada dalších patologických stavů, jako například CHOPN, cirhóza nebo hypertyreóza a také například gravidita. Také jednorázově změřená hodnota u léčeného pacienta vykazuje vysoký stupeň variability, můžeme zde nalézt i normální hodnoty. Ukazuje se, že pro posuzování a vedení léčby bude užitečné sledovat spíše dynamiku změn než jednotlivé hodnoty.
+3.11.2. POPIS METODY
+NT-proBNP se stanovuje v POCT režimu citlivými imunochromatografickými metodami.
+Během testu reagují NT-proBNP antigeny s protilátkami proti NT-proBNP a vytvoří imunologický komplex. Tento komplex migruje po membráně a reaguje s protilátkou proti NT-proBNP na membráně, poté se fixuje. Čím více je NT-proBNP v krvi, tím větší bude optická hustota testovací linie. Po membráně zároveň migruje interní kontrola způsobující zabarvení v oblasti kontrolní linie. Pokud vzorek neobsahuje NT-proBNP nebo je hodnota NT-proBNP <300 ng/L, zobrazí se pouze kontrolní linie.
+Vyšetření je možné provést z plazmy, séra ale také z plné kapilární krve, což je velkou výhodou. Výsledek v kvantitativní podobě je k dispozici během několika minut.
+Cut-off hodnota (pro vyloučení akutního srdečního selhání): ≤ 300 ng/L
+Korelace mezi koncentrací NT-proBNP a klasifikací dušnosti NYHA:
+NYHA klasifikace..................................................................................................Popis NT-proBNP (ng/L) třída I Neomezuje v běžném životě.................................................... 300–450
+třída II Menší omezení v běžném životě ....................................... 450 – 1 700
+třída III Významné omezení činnosti i doma ..............................1700 – 4 200
+třída IV Zásadní omezení v životě .............................................................. ≥4 200
+Výsledky testování by měl potvrdit lékař kombinací anamnézy a zejména klinických údajů a dalších laboratorních parametrů.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+VYBRANÉ KAPITOLY Z PEDIATRIE - POCT METODY
+3.12. IMUNOCHEMICKÝ TEST NA OKULTNÍ KRVÁCENÍ
+3.12.1. KLINICKÉ INDIKACE A VÝZNAM VYŠETŘENÍ
+Kvantitativní imunochemický test na okultní krvácení ve stolici (iTOKS) v je indikován ve screeningu kolorektálního karcinomu u osob od věku 50 let v intervalu 1 roku a od 55 let v intervalu dva roky. O horní věkové hranici pro screening kolorektálního karcinomu rozhoduje lékař. Kromě praktických lékařů mohou iTOKS v režimu POCT v rámci screeningu provádět i ambulantní gynekologové. Pozitivní výsledek testu je indikací k následnému provedení kolonoskopie. Pozitiva a negativita testu ve smyslu screeningu je závislá na stanovení prahové hodnoty pozitivity, tzv. cut-off. Čím vyšší je cut-off, tím se snižuje citlivost (senzitivita) a zvyšuje se jeho specifita. Počet následných kolonoskopií se snižuje, ale zvyšuje se pravděpodobnost záchytu karcinomu nebo pokročilého adenomu (tzv. pozitivní prediktivní hodnota, PPV). Při zvýšení cut-off se senzitivita zvyšuje, specificita snižuje, počet následných kolonoskopií stoupá a PPV se snižuje. Aktuální hodnota cut-off nastavená v programu screeningu kolorektálního karcinomu v České republice je 15 μg/g (mikrogramů hemoglobinu na gram stolice), což odpovídá dříve udávané koncentraci hemoglobinu 75 μg/L. Pro srovnání guajakový test dříve používaný ve screeningu měl cut-off zhruba 4x vyšší.
+Pro screening kolorektálního karcinomu (KRCA) doporučeno použití kvantitativních testů, s přesně nastaveným kritériem pozitivity (cut-off) a externí kontrolou ověřenou přesností a správností analytického procesu.
+V současné době přibývá důkazů, které podporují i využití iTOKS v diferenciální diagnostice trávicích obtíží, zejména v diferenciální diagnostice kolorektálního karcinomu a nespecifického střevního zánětu u mladších osob. Negativní hodnota při vhodně stanoveném cut-off iTOKS do vysoké míry vylučuje organické postižení a je vysokým prediktorem neorganických (funkčních) obtíží. V této indikaci ovšem iTOKS v POCT režimu nemá úhradu pojišťoven.
+3.12.2. POPIS METODY
+Oproti guajakovému testu stačí k vyšetření 1 vzorek stolice, imunochemický test má vyšší citlivost a specificitu pro lidský hemoglobin a menší citlivost pro krvácení v horní části gastrointestinálního traktu. Test je nezávislý na dietě a léčbě.
+V ordinaci praktického lékaře je vyšetřovanému vydána odběrová pomůcka pro kvantitativní odběr stolice s náležitým vysvětlením. Pravidla pro odběr stolice jsou popsána v obecné části. Vzorek se stolicí je pak vyhodnocován automaticky v POCT přístroji a jeho display ukáže výsledek v číselných hodnotách. Stanovení se provádí na přístrojích, které umožňují kvantitativní stanovení hemoglobinu ve stolici, a to nejméně od hladiny 15 μg/g, a které jsou zapojeny do systému externí kontroly kvality.
+3.13. POCT METODY V DIAGNOSTICE SARS-COVID-2
+K dispozici je nově SARS-Cov-2 Rapid Antigen test s deklarovanou senzitivitou 96,5 % a specificitou 99,68 %, na bázi imunochromatografické eseje, pro kvalitativní detekci přítomnosti antigenu SARS-CoV-2 v nasofaryngu. Je designován jako POCT test s možností dostupnosti výsledku během 15-30 minut.
+Dle stanoviska Laboratorní skupiny MZ ČR https://koronavirus.mzcr.cz/wp-content/uploads/2020/09/ P%C5%99%C3%ADm%C3%A1-detekce-SARS-CoV-2-pomoc%C3%AD-antigenu_odborn%C3%A9-stanovisko. pdf nelze antigenní test chápat jako rovnocenný ekvivalent PCR diagnostiky, nemá být používán jako screeningový k vyšetřování jedinců s nízkou pravděpodobností infekce (tj. například u asymptomatického jedince bez kontaktu s onemocněním či pro screening na letištích či hraničních vstupech). Výsledky je nutné interpretovat obezřetně a v kontextu epidemiologické situace, zvláště pak pamatovat na riziko falešné negativity v oblastech s vyšší prevalencí onemocnění a na riziko falešné pozitivity v oblastech s nižší prevalencí onemocnění. Je zřejmé, že nejvyšší pravděpodobnost zachycení antigenu SARS-CoV-2 v klinickém materiálu je těsně (- 1 den) před manifestací onemocnění a v prvních dnech onemocnění (do 5 dnů od začátku příznaků). Soupravy pro detekci antigenu SARS-CoV-2 musí mít CE IVD certifikaci a současně deklarovanou citlivost nejméně 90 % a specificitu nejméně 97 %. Test může sloužit jako diagnostický test při nedostupnosti PCR.
+1) Při diagnostice COVID-19 u jedince se závažnými příznaky respiračního onemocnění, které trvají kratší dobu než 3 dny, není-li k dispozici možnost provedení PCR ve statimovém režimu. Negativní výsledek nevylučuje onemocnění COVID-19, a je tak nutné provést PCR při přetrvávajícím podezření na COVID19.
+2) Při diagnostice COVID-19 u jedince s příznaky respiračního onemocnění, které trvají kratší dobu než 3 dny, není-li k dispozici možnost provedení PCR v běžném režimu (s výsledkem do 48 hodin). Negativní výsledek nevylučuje onemocnění COVID-19.
+3) Při diagnostickém a epidemiologickém testování při lokálním vzplanutí epidemie, není-li k dispozici možnost provedení PCR v běžném režimu.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 11
+ 
+ 12
+POCT METODY - PRVNÍ VYDÁNÍ 2020
+Testování protilátek proti viru SARS-CoV-2 je metodou nepřímého průkazu infekce. Dynamika tvorby protilátek je výrazně ovlivněna individuálními faktory (imunitní systém jedince, závažnost infekce). U imunokompromitovaných pacientů a lehčích nebo bezpříznakových forem infekce je negativní prediktivní hodnota nižší. Protilátky třídy IgA a IgM jsou prokazatelné nejdříve 3. den infekce (medián 7. den), IgG zpravidla až od 2.-3. týdne. Přetrvávání detekovatelných protilátek po prodělané infekci je také individuální, předpokládá se, že nepřítomnost protilátek po 3 týdnech od počátku prvních symptomů infekce prakticky vylučuje SARS-CoV-2. V POCT režimu jsou používané semikvantitativní imunografické rapid testy. Výhoda rapid testů je snadná proveditelnost a možnost zjistit výsledek do 15 minut, nevýhodou je ale nízká sensitivita, a to zejména při použití plné, či dokonce jen kapilární krve oproti séru, či plasmě. Doporučené je vyšetření z plasmy/séra. Indikace protilátkových rapid testů je t.č. pouze v rámci populačních studií či ověření postinfekční imunity na žádost pacienta/v rámci pracovně- lékařských služeb a vyšetření není hrazeno ze zdravotního pojištění.
+3.14. DROGOVÝ SCREENING
+Test je určen k detekci drog nebo jejich metabolitů v moči: opiátů (morfin, heroin, kodein), marihuany (canabis), kokainu, amfetaminů, benzodiazepinů, barbiturátů, metamfetaminu (Pervitin), tricyklických antiodepresiv, fencyklidinu, methadonu, extáze, buprenorfinu (Subutex). Jedná se o kvalitativní imunochemické chromatografické testy, které využívají monofunkční proužky/kazety nebo polyfunkční soubory až 10 testů. Detekční okno se pro většinu drog pohybuje v rozmezí 3-4 dnů, v krvi je toto rozmezí mnohem kratší, obvykle do 24 h. Pro kanabinoidy, které se akumulují v tukové tkáni, je detekční okno i několik týdnů. Orientační testy mohou být falešně pozitivní nebo negativní. Pokud je potřeba výsledky testování k forenzním účelům, je nezbytné vyšetření v akreditované toxikologické laboratoři, kde se stanovení provádí pomocí plynové chromatografie v kombinaci s hmotnostní spektrometrií.
+Některé testy jsou určené pro vyšetření drog a jejich metabolitů ve slinách.
+3.15. TĚHOTENSKÝTEST
+Test je určen pro časnou detekci gravidity na principu detekce zvýšené hladiny lidského choriogonadotropinu. Může být falešně negativní ve zředěné moči. Nejvhodnější je vyšetření z první ranní moči. Teoreticky může být pozitivní již po 7-10 dnech od otěhotnění, ale provedení je doporučováno až týden po vynechání menstruace. Test je vhodné za 10 dní zopakovat. Jedná se o kvalitativní imunochemický chromatografický test na přítomnost lidského choriogonadotropinu v séru nebo v moči.
+3.16. DALŠÍ POCT METODY
+V prostředí urgentně poskytované péče jsou k dispozici další metody: parametry monitorování vnitřního prostředí, elektrolyty, stanovování krevního obrazu. Ve světě se uplatňují POCT metody pro testování syfilis, HIV nebo malárie.
+Na náš trh přichází další POCT metody:
+• imunografické rychlotesty pro průkaz antigenů různých infekčních agens (influenza A+B, adenoviry, Helicobacter pylori)
+• metody na stanovování hladin léků
+• metodyměřeníparametrů,jakojsoucholesterol,hormonyprodetekciovulace
+• metody na měření kalprotektinu ve stolici k diferenciální diagnostice zánětlivých a nádorových onemocnění
+tlustého střeva
+Spolu s vývojem nových technologií pro použití v POCT se bude rozšiřovat i význam a rozšíření takových systémů, které svou rychlou odpovědí budou moci ušetřit čas při stanovení diagnózy a tím i náklady na akutní léčbu. Velký rozvoj těchto technik zaznamenávají v zemích, kde je velká vzdálenost od místa péče do zdravotnických laboratoří. Některé nadšené světové trendy nelze transformovat bez uvážení do našich podmínek, kde je obydlenost území a síť zdravotnických zařízení velmi hustá.
+V následujících letech se bude dále rozvíjet neinvazivní testování s využitím analýzy extracelulární tekutiny pomocí nanotechnologií a s přenosem údajů prostřednictvím mobilních technologií a využívaní zobrazovacích technik. POCT v budoucnu zahrne jistě také vyšetření DNA či RNA.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+VYBRANÉ KAPITOLY Z PEDIATRIE - POCT METODY
+4. VOLNĚ DOSTUPNÉ POCT TESTY
+Rozvoj technologií přináší POCT metody i do domácností pacientů. Domácí testy jsou důsledkem i prostředkem zvýšeného zájmu o zdraví. Pacienti mají právo mít oporu pro rozhodování, zda se jedná o závažný nebo méně závažný stav a zda je návštěva lékaře nutná. Péči o zdraví a snahu získávat informace o svém zdraví, je třeba hodnotit pozitivně.
+Domácí testy mohou měnit chování pacientů, a to jak ve smyslu rozhodnutí o návštěvě praktického lékaře, tak vyžadování dalších diagnostických nebo terapeutických postupů. Aktuálně je k dispozici sada domácích testů, s jejichž interpretací ještě nemají pacienti ani lékaři dostatek zkušeností. Použití domácích testů má svá rizika a může lékařskou péči, zejména ve všeobecné praxi, i komplikovat. Lékařům nezbývá než s domácí diagnostikou počítat, veřejnost trpělivě edukovat a na možná rizika upozorňovat.
+Metody, používané v domácí laboratorní diagnostice jsou stejné nebo obdobné jako v případě POCT metod užívaných v ordinaci, ale nedosahují srovnatelných hodnot senzitivity a specificity jako profesionální vyšetření. Výsledek je obvykle kvalitativní nebo semikvantitativní. Pacienti by měli vědět, že výstupy domácích testů postrádají validitu dat z laboratorního přístroje.
+Ještě významnější je klinický aspekt. Metody neurčují nemoc, ale jen některý znak, který je třeba vidět v souvislostech ostatních klinických známek a výsledků vyšetření. Laická interpretace výsledků má své limity. Pozitivní výsledek by měl být vždy konzultován s lékařem.
+Testy určené pro určení těhotenství a v souvislosti se snahou otěhotnět.
+Stanovení hCG
+Těhotenské testy detekují choriový gonadotropin v moči ženy jsou v dnešní době velmi spolehlivou metodou zjištění těhotenství v samém počátku.
+Ovulační test zjišťuje zvýšené množství LH (luteinizační hormon) v moči a slouží k předpovědi ovulace. LH stimuluje uvolnění vajíčka z vaječníku a několik hodin před ovulací je vylučován do moči. Při pozitivním výsledku ovulačního testu nastane ovulace do 24–48 hodin.
+Screeningový test plodnosti pro ženy zjišťuje přítomnost FSH v moči.
+Mužská neplodnost
+Test, při kterém je vyšetřováno sperma smíchané se vzorkovacím pufrem, je založen na imunochromatografické metodě, která zjišťuje povrchový protein na hlavičce spermií. Test je
+pozitivní při méně než 20 milionech spermií/ml.
+Test na okultní krvácení ve stolici
+Jednorázové testy, které je možné zakoupit v lékárně a dříve byly nabízeny i v ambulancích praktických lékařů a gynekologů, mohou odhalit přítomnost krve ve stolici. Příčinou krvácení mohou být kromě rakoviny tlustého střeva nebo žaludku také polypy, vředová choroba, či další onemocnění trávicího traktu. Tyto testy mají vysokou falešnou pozitivitu, ale také negativitu, není možné je kvantitativně vyhodnotit a rozhodně nemohou sloužit jako podklad k doporučení na kolonoskopii.
+Test využívá imunochromatografickou reakci specificky na lidský hemoglobin, podobně jako v ordinacích používané testy. Detekční limit je definován výrobcem a liší se pro rozdílné soupravy. Výsledek je ve tvaru pozitivní, negativní, případně neplatný test.
+Zánět močových cest
+Metoda testu je zaměřena na detekci tří indikátorů zánětu v moči: bílých krvinek, nitritů a bílkovin.
+Celiakie – nesnášenlivost lepku
+Na trhu je i rychlý a citlivý domácí test pro detekci IgA protilátek proti tkáňové transglutamináze, které jsou přítomny při celiakii. Celiakie je celoživotní autoimunitní onemocnění tenkého střeva s incidencí asi 0,5 – 1 %. Jednorázový test z krve odebrané z prstu je určen k domácímu užití pro dospělé i děti. Jeho výsledky je ale vždy potřeba konzultovat s lékařem, který jediný může stanovit správnou diagnózu pomocí biopsie a nasadit vhodnou léčbu.
+Alergie
+Test detekuje zvýšení protilátek typu IgE v krvi proti třem alergenům: zvířecí srst, roztoči a travní pyly.
+Infekce Helicobacter pylori
+Test s pomocí imunochromatografické metody detekuje IgG protilátky proti Helicobacter pylori v plné krvi. Stanovení cholesterolu v krvi
+Orientační vyšetření hladiny cholesterolu, které by mělo v případě vysoké hladiny přivést pacienta na odborné vyšetření k praktickému lékaři.
+CRP
+Obvykle semikvantitativní vyhodnocení hladiny CRP v krvi.
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 13
+ 
+ 14
+POCT METODY - PRVNÍ VYDÁNÍ 2020
+        POCT výkon
+Glykémie
+Kód
+Popis
+EKK
+Frekvence
+Obvyklá délka trvání výkonu
+Počet bodů
+       Moč
+09123 Provedení analýzy moči chemicky pomocí NE 1x za 1 den 6 min 38 diagnostického papírku
+        01441
+Výkon se používá k ověření změn hladiny glykemie při podezření z dekompenzace diabetika, nebo v rámci dispenzární prohlídky, dále ke stanovení postprandiální glykemie u osob, které nemají možnost selfmonitoringu a u osob neléčených pro diabetes, kdy charakter obtíží je suspektní z dekompenzace diabetu. Výkon nelze použít jako screeningové vyšetření, při preventivních prohlídkách a pokud je současně odebírána venózní krev za účelem biochemického vyšetření.
+NE
+1x za 1 den
+2 min
+18
+       CRP
+02230
+Kvantitativní stanovení CRP z plné krve. Rozhodnutí o nasazení antibiotické terapie v situaci diferenciální diagnostiky bakteriálního a virového infektu. Případná kontrola vyšetření do 48 hodin po zahájení antibiotické terapie.
+ANO,
+1x ročně
+6x/
+1 čtvrtletí
+5 min
+103
+               Streptest
+02220
+„Imunoturbidimetrické stanovení antigenu Streptococcus Pyogenes (Strep A) ve výtěru z krku. Výkon lze kombinovat s cíleným nebo kontrolním vyšetřením. Odebraný biologický materiál nelze současně odeslat do laboratoře. „
+NE
+1x za 1 den
+6 min
+161
+       INR
+01443
+Indikací je sekundární prevence hluboké žilní trombózy a plicní embolie a prevence nitrosrdeční trombózy a jejích embolizačních komplikací ve velkém oběhu. Není určeno k self-monitoringu pacientů. Výkon nelze vykázat, pokud je současně odebírána venózní krev za účelem i jiného laboratorního vyšetření.
+Výkon stanovení glykovaného hemoglobinu HBA1C je určen pro sledování kompenzace diabetiků v ambulanci. Poskytuje informaci o glykémii za období 2–3 měsíců. Hodnotu glykovaného hemoglobinu je možno použít v rámci screeningu poruch glukózové homeostázy, zejména ve vztahu k prediabetu.
+ANO,
+1x ročně
+8x/3 měsíce, 32x/1rok
+5 min
+181
+       Glykovaný hemoglobin
+01445
+ANO,
+1x ročně
+4x za 1 rok
+5 min
+156
+       Kvantitativní TOKS
+15119
+Vyšetření stolice na okultní krvácení přístrojem umožňujícím kvantitativní stanovení hemoglobinu ve stolici a to nejméně od hladiny 15ug/g stolice (mikrogramů na gram stolice).
+ANO, 1x ročně
+50-55 let 1x/1 rok, od 55 let 1x/2 roky
+5 min
+185
+       Stanovení pro BNP
+01148
+Výkon je určen ke zpřesnění diferenciální diagnostiky dušnosti v ordinaci VPL a diagnostice kardiálního selhání. Umožňuje zpřesnění léčby kardiálního selhání a monitoraci jejího účinku.
+ANO, 1x ročně
+1x/1 den
+12 min
+759
+               Stanovení troponinu T
+01147
+Stanovení srdečního troponinu T v ambulanci umožňuje urychlení a zpřesnění diferenciální diagnostiky bolesti na hrudi lékařem prvního kontaktu a rychlejší stanovení diagnózy akutního infarktu myokardu. To umožňuje efektivnější směrování pacienta, zkrácení času mezi počátkem infarktu a intervencí.
+ANO, 1x ročně
+1x/1 den
+30 minut
+442
+       Stanovení D-dimeru v ordinaci
+01146
+Stanovení D-dimeru v POCT režimu v ordinaci se používá ke zjištění a monitoraci hypergkoagulačních stavů, typicky při žilní trombóze.
+ANO, 1x ročně
+1x/1 den
+12 minut
+342
+ bod = 1,28 Kč
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+VYBRANÉ KAPITOLY Z PEDIATRIE - POCT METODY
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 15
+ 
+ 16
+POCT METODY - PRVNÍ VYDÁNÍ 2020
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 
+VYBRANÉ KAPITOLY Z PEDIATRIE - POCT METODY
+ DOPORUČENÉ POSTUPY PRO PRAKTICKÉ LÉKAŘE
+ 17
+ 
+  Společnost všeobecného lékařství ČLS JEP Centrum doporučených postupů pro praktické lékaře Sokolská 31, 120 00 Praha 2
+e–mail: svl@cls.cz http://www.svl.cz
+ISBN 978-80-88280-20-0
+ ISBN 978-80-88280-20-0
+© 2020, Společnost všeobecného lékařství ČLS JEP
